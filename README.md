@@ -6,6 +6,8 @@
 
 [Zig](https://ziglang.org/) is a general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
+**Thanks to all the project authors and others who made this project possible.**
+
 ## Table Of Contents
 
 - [Related Web Sites](#related-web-sites)
@@ -36,7 +38,6 @@
   
   - [Introduction Or News](#introduction-or-News)
   
-
 - [Contributing](https://github.com/C-BJ/awesome-zig/blob/main/CONTRIBUTING.md)
 
 ## Related Web Sites
