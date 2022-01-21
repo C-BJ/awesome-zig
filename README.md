@@ -59,9 +59,9 @@
 - **Operating System**
 
   - [jzck/kernel-zig: hobby x86 kernel zig (github.com)](https://github.com/jzck/kernel-zig)
-- [ZystemOS/pluto: An x86 kernel written in Zig (github.com)](https://github.com/ZystemOS/pluto)
+  - [ZystemOS/pluto: An x86 kernel written in Zig (github.com)](https://github.com/ZystemOS/pluto)
   - [AndreaOrru/zen: Experimental operating system written in Zig (github.com)](https://github.com/AndreaOrru/zen)
-- [andrewrk/HellOS: "hello world" x86 kernel example (github.com)](https://github.com/andrewrk/HellOS)
+  - [andrewrk/HellOS: "hello world" x86 kernel example (github.com)](https://github.com/andrewrk/HellOS)
 - **Programming Language**
 
   - [dundalek/liz: Lisp-flavored general-purpose programming language (based on Zig) (github.com)](https://github.com/dundalek/liz)
