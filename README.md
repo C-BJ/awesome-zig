@@ -70,6 +70,8 @@
   - [marler8997/zigup🗒️Download and manage zig compilers. ](https://github.com/marler8997/zigup)
   - [xmake-io/xmake🗒️🔥 A cross-platform build utility based on Lua ](https://github.com/xmake-io/xmake)
   - [justinbalexander/svd2zig🗒️Convert System View Description (svd) files to Zig headers for baremetal development ](https://github.com/justinbalexander/svd2zig)
+  - [ziglang/zig-pypi🗒️The Zig programming language, packaged for PyPI ](https://github.com/ziglang/zig-pypi)
+  - [goto-bus-stop/setup-zig🗒️use a @ziglang compiler in your github actions workflows](https://github.com/goto-bus-stop/setup-zig)
 
 ## Applications
 
@@ -86,6 +88,7 @@
   - [nrdmn/uefi-examples🗒️UEFI examples in Zig ](https://github.com/nrdmn/uefi-examples)
   - [sjdh02/trOS🗒️tiny aarch64 baremetal OS thingy ](https://github.com/sjdh02/trOS)
   - [ZeeBoppityZagZiggity/ZBZZ.OS🗒️An operating system built with RISCV and Zig ](https://github.com/ZeeBoppityZagZiggity/ZBZZ.OS)
+  - [HidamariProject/Hidamari🗒️Modern operating system aimed at running WebAssembly code. ](https://github.com/HidamariProject/Hidamari)
   
 - ### Database
   
@@ -144,6 +147,8 @@
   - [winksaville/zig-parse-args🗒️Parse command line arguments. ](https://github.com/winksaville/zig-parse-args)
   - [winksaville/zig-parse-number🗒️Implement ParseNumber which can parse any TypeId.Int or TypeId.Float. ](https://github.com/winksaville/zig-parse-number)
   - [gernest/base32🗒️base32 encoding/decoding for ziglang ](https://github.com/gernest/base32)
+  - [truemedian/hzzp ](https://github.com/truemedian/hzzp)
+  - [kivikakk/koino🗒️CommonMark + GFM compatible Markdown parser and renderer ](https://github.com/kivikakk/koino)
 
 - ### Programming Language
 
@@ -202,6 +207,7 @@
   - [zigwasm/wasm-zig🗒️Common Wasm runtime binding to C API ](https://github.com/zigwasm/wasm-zig)
   - [zigwasm/wasmer-zig🗒️Zig bindings for the Wasmer WebAssembly runtime ](https://github.com/zigwasm/wasmer-zig)
   - [zigwasm/wasmtime-zig🗒️Zig embedding of Wasmtime ](https://github.com/zigwasm/wasmtime-zig)
+  - [ducdetronquito/http🗒️HTTP core types for Zig 🦴 ](https://github.com/ducdetronquito/http)
   
 - ### Game Dev and GUI Dev
 
@@ -236,6 +242,8 @@
   - [zenith391/zgt🗒️Zig GUI Toolkit:Portable library for making native GUIs in Zig ](https://github.com/zenith391/zgt)
   - [kassane/qml_zig🗒️QML bindings for the Zig programming language ](https://github.com/kassane/qml_zig)
   - [SpexGuy/Zig-Gltf-Display🗒️A program that displays glTF files using Vulkan, written in Zig. ](https://github.com/SpexGuy/Zig-Gltf-Display)
+  - [Iridescence-Technologies/zglfw🗒️A thin, idiomatic wrapper for GLFW. Written in Zig, for Zig! ](https://github.com/Iridescence-Technologies/zglfw)
+  - [zPSP-Dev/Zig-PSP🗒️A project to bring the Zig Programming Language to the Sony PlayStation Portable! ](https://github.com/zPSP-Dev/Zig-PSP)
 
 - ### Other Libraries
 
@@ -258,6 +266,13 @@
   - [kprotty/zap🗒️An asynchronous runtime with a focus on performance and resource efficiency. ](https://github.com/kprotty/zap)
   - [momumi/x86-zig🗒️library for assembling x86 in zig (WIP) ](https://github.com/momumi/x86-zig)
   - [kubkon/zig-ios-example🗒️Minimal build.zig for targeting iOS ](https://github.com/kubkon/zig-ios-example)
+  - [vrischmann/zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
+  - [MasterQ32/zig-args🗒️Simple-to-use argument parser with struct-based config ](https://github.com/MasterQ32/zig-args)
+  - [tiehuis/zig-regex🗒️A regex implementation for the zig programming language ](https://github.com/tiehuis/zig-regex)
+  - [jedisct1/zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig. ](https://github.com/jedisct1/zigly)
+  - [jedisct1/zig-charm🗒️A Zig version of the Charm crypto library. ](https://github.com/jedisct1/zig-charm)
+  - [zigwasm/wasmtime-zig🗒️Zig embedding of Wasmtime ](https://github.com/zigwasm/wasmtime-zig)
+  - [fengb/wazm🗒️Web Assembly Zig Machine ](https://github.com/fengb/wazm)
 
 ## Resources
 
