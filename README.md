@@ -151,6 +151,8 @@
 
 ## Resources
 
+<u>**Content that has appeared in [Related Web Sites](#related-web-sites)will not appear here**</u>
+
 - ### Learning
 
   - [ratfactor/ziglings: Learn the Zig programming language by fixing tiny broken programs. ](https://github.com/ratfactor/ziglings)
