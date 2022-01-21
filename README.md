@@ -9,10 +9,12 @@
 ## Table Of Contents
 
 - [Related Web Sites](#related-web-sites)
+
 - [Development Tools](#development-tools)
   - [Editor Plugins](#editor-plugins)
   - [Package Managers](#package-managers)
   - [Other Tools](#other-tools)
+  
 - [Applications](#applications)
   - [Operating System](#operating-system)
   - [Database](#database)
@@ -21,6 +23,7 @@
   - [Compiler and Parser](#compiler-and-parser)
   - [Programming Language](#programming-language)
   - [Other Applications](#other-applications)
+  
 - [Libraries](#libraries)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Memory Management](#memory-management)
@@ -30,7 +33,11 @@
   
 - [Resources](#resources)
   - [Learning](#learning)
+  
   - [Introduction Or News](#introduction-or-News)
+  
+
+- [Contributing](https://github.com/C-BJ/awesome-zig/blob/main/CONTRIBUTING.md)
 
 ## Related Web Sites
 
