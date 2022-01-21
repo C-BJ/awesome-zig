@@ -105,6 +105,8 @@
   
 - ### Game and GUI Software
 
+  - [riverwm/river🗒️A dynamic tiling Wayland compositor ](https://github.com/riverwm/river)
+  - [fabioarnold/MiniPixel🗒️Tiny pixel art editor ](https://github.com/fabioarnold/MiniPixel)
   - [andrewrk/tetris🗒️A simple tetris clone written in zig programming language. ](https://github.com/andrewrk/tetris)
   - [holobeat/zig-wasm-snake🗒️Classic snake game written in Zig, compiled to WASM. ](https://github.com/holobeat/zig-wasm-snake)
   - [fabioarnold/zig-gorillas🗒️A clone of the classic QBasic Gorillas written in the Zig programming language ](https://github.com/fabioarnold/zig-gorillas)
@@ -151,8 +153,6 @@
 
 - ### Other Applications
 
-  - [riverwm/river🗒️A dynamic tiling Wayland compositor ](https://github.com/riverwm/river)
-  - [fabioarnold/MiniPixel🗒️Tiny pixel art editor ](https://github.com/fabioarnold/MiniPixel)
   - [nrdmn/uefi-paint🗒️UEFI-bootable touch paint app ](https://github.com/nrdmn/uefi-paint)
   - [yvt/zig-armv8m-test🗒️Minimal Zig-based app for Armv8-M + TrustZone ](https://github.com/yvt/zig-armv8m-test)
   - [tralamazza/embedded_zig🗒️minimal Zig embedded ARM example (STM32F103 blue pill) ](https://github.com/tralamazza/embedded_zig)
@@ -164,7 +164,6 @@
   - [hspak/geteltorito-zig： geteltorito re-write in Zig ](https://github.com/hspak/geteltorito-zig)
   - [mqttiotstuff/iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
   - [vent / outfieldr🗒️A TLDR client in Zig.](https://gitlab.com/ve-nt/outfieldr)
-  
 ## Libraries
 
 **If a project is both an [application](#applications) and a library, it will only appear under the [application](#applications)**
