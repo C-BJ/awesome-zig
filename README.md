@@ -163,7 +163,7 @@
   - [thejoshwolfe/hexdump-zip🗒️produce an annotated hexdump of a zipfile ](https://github.com/thejoshwolfe/hexdump-zip)
   - [hspak/geteltorito-zig： geteltorito re-write in Zig ](https://github.com/hspak/geteltorito-zig)
   - [mqttiotstuff/iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
-  - [vent / outfieldr🗒️A [TLDR](https://github.com/tldr-pages/tldr) client in Zig.](https://gitlab.com/ve-nt/outfieldr)
+  - [vent / outfieldr🗒️A TLDR client in Zig.](https://gitlab.com/ve-nt/outfieldr)
 
 **If a project is both an [application](#applications) and a library, it will only appear under the [application](#applications)**
 
