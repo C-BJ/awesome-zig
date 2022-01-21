@@ -26,7 +26,7 @@
 
 - [Resources](#resources)
   - [Learning](#learning)
-  - [Introduction Or Information](#introduction-or-information)
+  - [Introduction Or News](#introduction-or-News)
 
 - [Other](#other)
 
@@ -157,7 +157,7 @@
   - [Sobeston/ziglearn: Repo for https://ziglearn.org content. Get up to speed with Zig quickly. (github.com)](https://github.com/Sobeston/ziglearn)
 
   - [Learning the Zig programming language with help from its creator and core team - YouTube](https://www.youtube.com/watch?v=O4UYT-brgrc)
-- ### Introduction Or Information
+- ### Introduction Or News
   
   - [The Road to Zig 1.0 - Andrew Kelley - YouTube](https://www.youtube.com/watch?v=Gv2I7qTux7g)
   - [Interview with Zig language creator Andrew Kelley - YouTube](https://www.youtube.com/watch?v=ZvskDoP09Ao&t=253s)
