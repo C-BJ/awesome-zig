@@ -13,22 +13,17 @@
   - [Editor Plugins](#editor-plugins)
   - [Package Managers](#package-managers)
   - [Other Tools](#other-tools)
-
 - [Applications](#applications)
   - [Operating System](#operating-system)
   - [Programming Language](#programming-language)
   - [Other Applications](#other-applications)
-
 - [Libraries](#libraries)
   - [Web](#web)
   - [Game Dev](#game-dev)
   - [Other Libraries](#other-libraries)
-
 - [Resources](#resources)
   - [Learning](#learning)
   - [Introduction Or News](#introduction-or-News)
-
-- [Other](#other)
 
 ## Related Web Sites
 
@@ -169,4 +164,4 @@
   - [Zig language: a WAY better C! - YouTube](https://www.youtube.com/watch?v=J6ZxxnSp_fY&t=2s)
 
 
-## Other
+# The End
