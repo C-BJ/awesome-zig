@@ -151,7 +151,7 @@
 
 ## Resources
 
-<u>**Content that has appeared in [Related Web Sites](#related-web-sites)will not appear here**</u>
+**Content that has appeared in [Related Web Sites](#related-web-sites) will not appear here**
 
 - ### Learning
 
