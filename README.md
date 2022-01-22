@@ -13,33 +13,27 @@
 ## Table Of Contents
 
 - [Related Web Sites](#related-web-sites)
-
 - [Development Tools](#development-tools)
   - [Editor Plugins](#editor-plugins)
   - [Package Managers](#package-managers)
   - [Other Tools](#other-tools)
-  
 - [Applications](#applications)
   - [Compiler and Parser](#compiler-and-parser)
   - [Database](#database)
   - [Game and Desktop Applications](#game-and-desktop-applications)
   - [Operating Systems / Kernels](#operating-systems-/-kernels)
-  - [Programming Language](#programming-language)
   - [Simulator](#simulator)
   - [Other Applications](#other-applications)
-  
 - [Libraries](#libraries)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Game Dev and GUI Dev](#game-dev-and-gui-dev)
   - [Memory Management](#memory-management)
   - [Web](#web)
   - [Other Libraries](#other-libraries)
-  
 - [Resources](#resources)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
   - [Introduction Or News](#introduction-or-News)
   - [Learning](#learning)
-  
 - [Contributing](https://github.com/C-BJ/awesome-zig/blob/main/CONTRIBUTING.md)
 
 ## Related Web Sites
@@ -96,10 +90,15 @@
 
   - [arocc🗒️A C compiler written in Zig. ](https://github.com/Vexu/arocc)
   - [base32🗒️base32 encoding/decoding for ziglang ](https://github.com/gernest/base32)
+  - [bog🗒️Small, strongly typed, embeddable language. ](https://github.com/Vexu/bog)
   - [hzzp ](https://github.com/truemedian/hzzp)
   - [koino🗒️CommonMark + GFM compatible Markdown parser and renderer ](https://github.com/kivikakk/koino)
   - [libpcre.zig🗒️Zig bindings to libpcre ](https://github.com/kivikakk/libpcre.zig)
+  - [liz🗒️Lisp-flavored general-purpose programming language (based on Zig) ](https://github.com/dundalek/liz)
+  - [LoLa🗒️LoLa is a small programming language meant to be embedded into games. ](https://github.com/MasterQ32/LoLa)
+  - [luf🗒️Statically typed, embeddable, scripting language written in Zig. ](https://github.com/Luukdegram/luf)
   - [rem🗒️An HTML parsing library, written in Zig. ](https://github.com/chwayne/rem)
+  - [rotate-zig🗒️a programming language written in zig ](https://github.com/Airbus5717/rotate-zig)
   - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
   - [zigmkv🗒️wip Matroska/webm (mkv) parser in Zig ](https://github.com/vi/zigmkv)
   - [zig-parse-args🗒️Parse command line arguments. ](https://github.com/winksaville/zig-parse-args)
@@ -167,14 +166,6 @@
   - [zigish🗒️A toy Unix shell written in Zig ](https://github.com/ratfactor/zigish)
   - [zig-x86_64🗒️Support for x86_64 specific instructions (e.g. TLB flush), registers (e.g. control registers), and structures (e.g. page tables) ](https://github.com/leecannon/zig-x86_64)
 
-- ### Programming Language
-
-  - [bog🗒️Small, strongly typed, embeddable language. ](https://github.com/Vexu/bog)
-  - [liz🗒️Lisp-flavored general-purpose programming language (based on Zig) ](https://github.com/dundalek/liz)
-  - [LoLa🗒️LoLa is a small programming language meant to be embedded into games. ](https://github.com/MasterQ32/LoLa)
-  - [luf🗒️Statically typed, embeddable, scripting language written in Zig. ](https://github.com/Luukdegram/luf)
-  - [rotate-zig🗒️a programming language written in zig ](https://github.com/Airbus5717/rotate-zig)
-  
 - ### Simulator
   
   - [chip8-zig🗒️A CHIP-8 emulator written in Zig ](https://github.com/GrooveStomp/chip8-zig)
