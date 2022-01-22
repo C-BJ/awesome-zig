@@ -18,12 +18,16 @@
   - [Package Managers](#package-managers)
   - [Other Tools](#other-tools)
 - [Applications](#applications)
-  - [Compiler and Parser](#compiler-and-parser)
+  - [Command Line](command-line)
+  - [Compiler / Parser / Interpreter](#compiler-/-parser-/-interpreter)
   - [Database](#database)
+  - [Embedded](embedded)
   - [Game and Desktop Applications](#game-and-desktop-applications)
   - [Operating Systems / Kernels](#operating-systems-/-kernels)
   - [Simulator](#simulator)
+  - [Web](web)
   - [Other Applications](#other-applications)
+
 - [Libraries](#libraries)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Game Dev and GUI Dev](#game-dev-and-gui-dev)
@@ -86,12 +90,21 @@
 
 ## Applications
 
-- ### Compiler and Parser
+- ### Command Line
+
+  - [crisp🗒️A Minimal Lispy Calculator ](https://github.com/rvcas/crisp)
+  - [outfieldr🗒️A TLDR client in Zig.](https://gitlab.com/ve-nt/outfieldr)
+  - [pbui-main🗒️The main repository for the PBUI project ](https://github.com/pbui-project/pbui-main)
+  - [sudokuinzig🗒️Sudoku solver in zig ](https://github.com/user00e00/sudokuinzig)
+
+- ### Compiler / Parser / Interpreter
 
   - [arocc🗒️A C compiler written in Zig. ](https://github.com/Vexu/arocc)
   - [base32🗒️base32 encoding/decoding for ziglang ](https://github.com/gernest/base32)
   - [bog🗒️Small, strongly typed, embeddable language. ](https://github.com/Vexu/bog)
-  - [hzzp ](https://github.com/truemedian/hzzp)
+  - [brainfuck-zig🗒️Brainfuck interpreter written in zig ](https://github.com/dantecatalfamo/brainfuck-zig)
+  - [cmdlinezig🗒️A simple command line parser ](https://github.com/travisstaloch/cmdlinezig)
+  - [hzzp 🗒️A I/O agnostic HTTP/1.1 parser and encoder for Zig.](https://github.com/truemedian/hzzp)
   - [koino🗒️CommonMark + GFM compatible Markdown parser and renderer ](https://github.com/kivikakk/koino)
   - [libpcre.zig🗒️Zig bindings to libpcre ](https://github.com/kivikakk/libpcre.zig)
   - [liz🗒️Lisp-flavored general-purpose programming language (based on Zig) ](https://github.com/dundalek/liz)
@@ -119,6 +132,13 @@
   - [zig-okredis🗒️Zero-allocation Client for Redis 6+ ](https://github.com/kristoff-it/zig-okredis)
   - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
 
+- ### Embedded
+  
+  - [embedded_zig🗒️minimal Zig embedded ARM example (STM32F103 blue pill) ](https://github.com/tralamazza/embedded_zig)
+  - [uefi-paint🗒️UEFI-bootable touch paint app ](https://github.com/nrdmn/uefi-paint)
+  - [zig-armv8m-test🗒️Minimal Zig-based app for Armv8-M + TrustZone ](https://github.com/yvt/zig-armv8m-test)
+  - [zig-bare-metal-microbit🗒️Bare metal microbit program written in zig ](https://github.com/markfirmware/zig-bare-metal-microbit)
+  
 - ### Game and Desktop Applications
 
   - [blink🗒️A game about building logic with lasers ](https://github.com/Stenodyon/blink)
@@ -133,7 +153,7 @@
   - [pacman.zig🗒️Simple Pacman clone written in Zig. ](https://github.com/floooh/pacman.zig)
   - [rayray🗒️A tiny GPU raytracer, using Zig and WebGPU ](https://github.com/mkeeter/rayray)
   - [river🗒️A dynamic tiling Wayland compositor ](https://github.com/riverwm/river)
-  - [snake-zig ](https://github.com/fabioarnold/snake-zig)
+  - [snake-zig 🗒️A simple snake game written in the Zig programming language using OpenGL 2. ](https://github.com/fabioarnold/snake-zig)
   - [SoftRenderLib🗒️A collection of software rendering routines ](https://github.com/MasterQ32/SoftRenderLib)
   - [tetris🗒️A simple tetris clone written in zig programming language. ](https://github.com/andrewrk/tetris)
   - [weekend-raytracer-zig🗒️A Zig implementation of the "Ray Tracing in One Weekend" book ](https://github.com/Nelarius/weekend-raytracer-zig)
@@ -167,38 +187,30 @@
   - [zig-x86_64🗒️Support for x86_64 specific instructions (e.g. TLB flush), registers (e.g. control registers), and structures (e.g. page tables) ](https://github.com/leecannon/zig-x86_64)
 
 - ### Simulator
-  
+
   - [chip8-zig🗒️A CHIP-8 emulator written in Zig ](https://github.com/GrooveStomp/chip8-zig)
-  - [ichigo🗒️WIP🍓 Virtual Boy emulator ](https://github.com/sourgrasses/ichigo)https://github.com/sourgrasses/ichigo)
-  - [fundude🗒️Gameboy emulator:Zig -> wasm (github.com)](https://github.com/fengb/fundude)
+  - [ichigo🗒️WIP🍓 Virtual Boy emulator ](https://github.com/sourgrasses/ichigo)
+  - [fundude🗒️Gameboy emulator:Zig -> wasm](https://github.com/fengb/fundude)
   - [kc85.zig🗒️A KC85 emulator written in Zig ](https://github.com/floooh/kc85.zig)
+  
+- ### Web
 
-- ### Other Applications
-
-  - [brainfuck-zig🗒️Brainfuck interpreter written in zig ](https://github.com/dantecatalfamo/brainfuck-zig)
-  - [cmdlinezig🗒️A simple command line parser ](https://github.com/travisstaloch/cmdlinezig)
-  - [cosmic🗒️A simple and productive Javascript/WASM runtime. ](https://github.com/fubark/cosmic)
-  - [crisp🗒️A Minimal Lispy Calculator ](https://github.com/rvcas/crisp)
-  - [embedded_zig🗒️minimal Zig embedded ARM example (STM32F103 blue pill) ](https://github.com/tralamazza/embedded_zig)
-  - [geteltorito-zig： geteltorito re-write in Zig ](https://github.com/hspak/geteltorito-zig)
+  -  [cosmic🗒️A simple and productive Javascript/WASM runtime. ](https://github.com/fubark/cosmic)
   - [hello🗒️Multi-threaded cross-platform HTTP/1.1 web server example in Zig. ](https://github.com/lithdew/hello)
-  - [hexdump-zip🗒️produce an annotated hexdump of a zipfile ](https://github.com/thejoshwolfe/hexdump-zip)
-  - [hoodie🗒️pure zig language server with swagger and bling bling ](https://github.com/gernest/hoodie)
-  - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
-  - [outfieldr🗒️A TLDR client in Zig.](https://gitlab.com/ve-nt/outfieldr)
-  - [pbui-main🗒️The main repository for the PBUI project ](https://github.com/pbui-project/pbui-main)
-  - [simple-amplifier🗒️A very simple example of LV2 plugin built in Zig ](https://github.com/ul/simple-amplifier)
-  - [sudokuinzig🗒️Sudoku solver in zig ](https://github.com/user00e00/sudokuinzig)
-  - [uefi-paint🗒️UEFI-bootable touch paint app ](https://github.com/nrdmn/uefi-paint)
-  - [wayfarer🗒️Experiments involving a Zig Wayland compositor. ](https://github.com/dominikh/wayfarer)
-  - [zig-armv8m-test🗒️Minimal Zig-based app for Armv8-M + TrustZone ](https://github.com/yvt/zig-armv8m-test)
-  - [zig-bare-metal-microbit🗒️Bare metal microbit program written in zig ](https://github.com/markfirmware/zig-bare-metal-microbit)
-  - [zig-minisign🗒️Minisign reimplemented in Zig. ](https://github.com/jedisct1/zig-minisign)
-  - [zig-protobuf🗒️a protobuf 3 implementation for zig. ](https://github.com/Arwalk/zig-protobuf)
-  - [zig-snappy🗒️Snappy compression for Zig ](https://github.com/gsquire/zig-snappy)
   - [zig-v8🗒️Simple V8 builds with C and Zig bindings. ](https://github.com/fubark/zig-v8)
   - [zss🗒️zss is a CSS layout engine and renderer. ](https://github.com/chwayne/zss)
   - [zwld🗒️Experimental wasm linker ](https://github.com/Luukdegram/zwld)
+
+- ### Other Applications
+
+  - [geteltorito-zig🗒️ geteltorito re-write in Zig ](https://github.com/hspak/geteltorito-zig)
+  - [hexdump-zip🗒️produce an annotated hexdump of a zipfile ](https://github.com/thejoshwolfe/hexdump-zip)
+  - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
+  - [simple-amplifier🗒️A very simple example of LV2 plugin built in Zig ](https://github.com/ul/simple-amplifier)
+  - [wayfarer🗒️Experiments involving a Zig Wayland compositor. ](https://github.com/dominikh/wayfarer)
+  - [zig-minisign🗒️Minisign reimplemented in Zig. ](https://github.com/jedisct1/zig-minisign)
+  - [zig-protobuf🗒️a protobuf 3 implementation for zig. ](https://github.com/Arwalk/zig-protobuf)
+  - [zig-snappy🗒️Snappy compression for Zig ](https://github.com/gsquire/zig-snappy)
 
 ## Libraries
 
