@@ -20,7 +20,7 @@
   - [Other Tools](#other-tools)
   
 - [Applications](#applications)
-  - [Operating System](#operating-system)
+  - [Operating Systems / Kernels](#operating-systems-/-kernels)
   - [Database](#database)
   - [Simulator](#simulator)
   - [Game and Desktop Applications](#game-and-desktop-applications)
@@ -92,7 +92,7 @@
 
 ## Applications
 
-- ### Operating System
+- ### Operating Systems / Kernels
 
   - [jzck/kernel-zig🗒️hobby x86 kernel zig ](https://github.com/jzck/kernel-zig)
   - [ZystemOS/pluto🗒️An x86 kernel written in Zig ](https://github.com/ZystemOS/pluto)
