@@ -22,7 +22,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Add and improve categories.
 - Refine project description.
 - Add more projects
-- Make existing content conform to the specified style.
 
 ## Removing Projects
 We don't remove projects unless they are outright broken or pronounced deprecated by another project or by its author.
