@@ -8,7 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Please make an individual pull request for each suggestion.
 - Make the submission conform to the specified style.
   - Level 3 and above titles and project are listed in alphabetical order(Except Related Web Sites)(Skip symbols in dictionary order).
-  - Projects are sort by project name (not author name).
+  - Projects are sort by project name.
   - The additional description of the projects should be indented again.
   - See existing readme for other styles.
 
