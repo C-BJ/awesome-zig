@@ -8,6 +8,8 @@
 
 **Thanks to all the project authors and others who made this project possible.**
 
+**Note🗒️An project may also be a development tool, application, library or other category, but it will only appear once in this guide.**
+
 ## Table Of Contents
 
 - [Related Web Sites](#related-web-sites)
@@ -21,7 +23,7 @@
   - [Operating System](#operating-system)
   - [Database](#database)
   - [Simulator](#simulator)
-  - [Game and GUI Software](#game-and-gui-software)
+  - [Game and Desktop Applications](#game-and-desktop-applications)
   - [Compiler and Parser](#compiler-and-parser)
   - [Programming Language](#programming-language)
   - [Other Applications](#other-applications)
@@ -50,6 +52,7 @@
 - [Zig Monthly](https://zigmonthly.org/)
 - [Zig Showtime](https://zig.show/)
 - [Zig.Run](https://zig.run/)
+- [Zig Playground](https://zig-play.dev/)
 - [Andrew Kelley's  (founder of zig) Personal Blog](https://andrewkelley.me/)
 - [Loris Cro's Personal Blog](https://kristoff.it/)
 
@@ -80,6 +83,12 @@
   - [justinbalexander/svd2zig🗒️Convert System View Description (svd) files to Zig headers for baremetal development ](https://github.com/justinbalexander/svd2zig)
   - [ziglang/zig-pypi🗒️The Zig programming language, packaged for PyPI ](https://github.com/ziglang/zig-pypi)
   - [goto-bus-stop/setup-zig🗒️use a @ziglang compiler in your github actions workflows](https://github.com/goto-bus-stop/setup-zig)
+  - [zig-java/jaz🗒️A JVM implementation in Zig! ](https://github.com/zig-java/jaz)
+  - [ziglibs/repository🗒️A community-maintained repository of zig packages ](https://github.com/ziglibs/repository)
+  - [ranciere/zoltan🗒️A Sol-inspired minimalist Lua binding for Zig. ](https://github.com/ranciere/zoltan)
+  - [suirad/zig-header-gen🗒️Automatically generate headers/bindings for other languages from Zig code ](https://github.com/suirad/zig-header-gen)
+  - [shritesh/zigfmt-web🗒️zig fmt on the web ](https://github.com/shritesh/zigfmt-web)
+  - [kassane/qml_zig🗒️QML bindings for the Zig programming language ](https://github.com/kassane/qml_zig)
 
 ## Applications
 
@@ -97,6 +106,11 @@
   - [sjdh02/trOS🗒️tiny aarch64 baremetal OS thingy ](https://github.com/sjdh02/trOS)
   - [ZeeBoppityZagZiggity/ZBZZ.OS🗒️An operating system built with RISCV and Zig ](https://github.com/ZeeBoppityZagZiggity/ZBZZ.OS)
   - [HidamariProject/Hidamari🗒️Modern operating system aimed at running WebAssembly code. ](https://github.com/HidamariProject/Hidamari)
+  - [kivikakk/daintree🗒️ARMv8-A/RISC-V kernel (with UEFI bootloader) ](https://github.com/kivikakk/daintree)
+  - [ratfactor/zigish🗒️A toy Unix shell written in Zig ](https://github.com/ratfactor/zigish)
+  - [ZigEmbeddedGroup/microzig🗒️Unified abstraction layer and HAL for several microcontrollers ](https://github.com/ZigEmbeddedGroup/microzig)
+  - [iguessthislldo/georgios🗒️Hobby Operating System ](https://github.com/iguessthislldo/georgios)
+  - [leecannon/zig-x86_64🗒️Support for x86_64 specific instructions (e.g. TLB flush), registers (e.g. control registers), and structures (e.g. page tables) ](https://github.com/leecannon/zig-x86_64)
   
 - ### Database
   
@@ -114,7 +128,7 @@
   - [sourgrasses/ichigo🗒️WIP🍓 Virtual Boy emulator ](https://github.com/sourgrasses/ichigo)https://github.com/sourgrasses/ichigo)
   - [floooh/kc85.zig🗒️A KC85 emulator written in Zig ](https://github.com/floooh/kc85.zig)
   
-- ### Game and GUI Software
+- ### Game and Desktop Applications
 
   - [riverwm/river🗒️A dynamic tiling Wayland compositor ](https://github.com/riverwm/river)
   - [fabioarnold/MiniPixel🗒️Tiny pixel art editor ](https://github.com/fabioarnold/MiniPixel)
@@ -137,6 +151,13 @@
   - [tiehuis/zig-raytrace🗒️simple raytracer in zig ](https://github.com/tiehuis/zig-raytrace)
   - [donpdonp/zootdeck🗒️Fediverse GTK Desktop Reader ](https://github.com/donpdonp/zootdeck)
   - [MasterQ32/ZigPaint🗒️A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system. ](https://github.com/MasterQ32/ZigPaint)
+  - [donpdonp/zootdeck🗒️Fediverse GTK Desktop Reader ](https://github.com/donpdonp/zootdeck)
+  - [greenfork/kisa🗒️Text editor of the new world ](https://github.com/greenfork/kisa)
+  - [MasterQ32/SoftRenderLib🗒️A collection of software rendering routines ](https://github.com/MasterQ32/SoftRenderLib)
+  - [BitPuffin/zig-raylib-experiments🗒️Some classic game implementations in Zig using raylib ](https://github.com/BitPuffin/zig-raylib-experiments)
+  - [kooparse/mogwai🗒️Graphic utility used to manipulate objects in 3D for scene editing (commonly called Gizmo). ](https://github.com/kooparse/mogwai)
+  - [Ryp/minesweeper-zig🗒️Simple Minesweeper clone written in Zig, using SDL for graphics. ](https://github.com/Ryp/minesweeper-zig)
+  - [tiehuis/zig-raytrace🗒️simple raytracer in zig ](https://github.com/tiehuis/zig-raytrace)
   
 - ### Compiler and Parser
 
@@ -163,6 +184,8 @@
   - [dundalek/liz🗒️Lisp-flavored general-purpose programming language (based on Zig) ](https://github.com/dundalek/liz)
   - [MasterQ32/LoLa🗒️LoLa is a small programming language meant to be embedded into games. ](https://github.com/MasterQ32/LoLa)
   - [Vexu/bog🗒️Small, strongly typed, embeddable language. ](https://github.com/Vexu/bog)
+  - [Luukdegram/luf🗒️Statically typed, embeddable, scripting language written in Zig. ](https://github.com/Luukdegram/luf)
+  - [Airbus5717/rotate-zig🗒️a programming language written in zig ](https://github.com/Airbus5717/rotate-zig)
 
 - ### Other Applications
 
@@ -177,9 +200,22 @@
   - [hspak/geteltorito-zig： geteltorito re-write in Zig ](https://github.com/hspak/geteltorito-zig)
   - [mqttiotstuff/iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
   - [vent / outfieldr🗒️A TLDR client in Zig.](https://gitlab.com/ve-nt/outfieldr)
+  - [fubark/zig-v8🗒️Simple V8 builds with C and Zig bindings. ](https://github.com/fubark/zig-v8)
+  - [fubark/cosmic🗒️A simple and productive Javascript/WASM runtime. ](https://github.com/fubark/cosmic)
+  - [tralamazza/embedded_zig🗒️minimal Zig embedded ARM example (STM32F103 blue pill) ](https://github.com/tralamazza/embedded_zig)
+  - [Luukdegram/zwld🗒️Experimental wasm linker ](https://github.com/Luukdegram/zwld)
+  - [Arwalk/zig-protobuf🗒️a protobuf 3 implementation for zig. ](https://github.com/Arwalk/zig-protobuf)
+  - [lithdew/hello🗒️Multi-threaded cross-platform HTTP/1.1 web server example in Zig. ](https://github.com/lithdew/hello)
+  - [gsquire/zig-snappy🗒️Snappy compression for Zig ](https://github.com/gsquire/zig-snappy)
+  - [jedisct1/zig-minisign🗒️Minisign reimplemented in Zig. ](https://github.com/jedisct1/zig-minisign)
+  - [markfirmware/zig-bare-metal-microbit🗒️Bare metal microbit program written in zig ](https://github.com/markfirmware/zig-bare-metal-microbit)
+  - [gernest/hoodie🗒️pure zig language server with swagger and bling bling ](https://github.com/gernest/hoodie)
+  - [rvcas/crisp🗒️A Minimal Lispy Calculator ](https://github.com/rvcas/crisp)
+  - [chwayne/zss🗒️zss is a CSS layout engine and renderer. ](https://github.com/chwayne/zss)
+  - [travisstaloch/cmdlinezig🗒️A simple command line parser ](https://github.com/travisstaloch/cmdlinezig)
+  - [dominikh/wayfarer🗒️Experiments involving a Zig Wayland compositor. ](https://github.com/dominikh/wayfarer)
+  - [ul/simple-amplifier🗒️A very simple example of LV2 plugin built in Zig ](https://github.com/ul/simple-amplifier)
 ## Libraries
-
-**If a project is both an [application](#applications) and a library, it will only appear under the [application](#applications)**
 
 - ### Algorithms and Data Structures
 
@@ -198,6 +234,7 @@
   - [mdsteele/ziegfried🗒️A general-purpose memory allocator for Zig ](https://github.com/mdsteele/ziegfried)
   - [suirad/Seal🗒️An allocator that wraps another allocator and detects if memory is leaked after usage ](https://github.com/suirad/Seal)
   - [Hejsil/zig-gc🗒️A super simple mark-and-sweep garbage collector written in Zig. ](https://github.com/Hejsil/zig-gc)
+  - [yrashk/zig-rcsp🗒️Reference-counted Shared Pointer for Zig ](https://github.com/yrashk/zig-rcsp)
 
 - ### Web
 
@@ -216,6 +253,11 @@
   - [zigwasm/wasmer-zig🗒️Zig bindings for the Wasmer WebAssembly runtime ](https://github.com/zigwasm/wasmer-zig)
   - [zigwasm/wasmtime-zig🗒️Zig embedding of Wasmtime ](https://github.com/zigwasm/wasmtime-zig)
   - [ducdetronquito/http🗒️HTTP core types for Zig 🦴 ](https://github.com/ducdetronquito/http)
+  - [chwayne/rem🗒️An HTML parsing library, written in Zig. ](https://github.com/chwayne/rem)
+  - [lithdew/snow🗒️A small, fast, cross-platform, async Zig networking framework built on top of lithdew/pike. ](https://github.com/lithdew/snow)
+  - [truemedian/wz ](https://github.com/truemedian/wz)
+  - [lun-4/zigdig🗒️naive dns client library in zig ](https://github.com/lun-4/zigdig)
+  - [euantorano/ip.zig🗒️A Zig library for working with IP Addresses ](https://github.com/euantorano/ip.zig)
   
 - ### Game Dev and GUI Dev
 
@@ -252,6 +294,13 @@
   - [SpexGuy/Zig-Gltf-Display🗒️A program that displays glTF files using Vulkan, written in Zig. ](https://github.com/SpexGuy/Zig-Gltf-Display)
   - [Iridescence-Technologies/zglfw🗒️A thin, idiomatic wrapper for GLFW. Written in Zig, for Zig! ](https://github.com/Iridescence-Technologies/zglfw)
   - [zPSP-Dev/Zig-PSP🗒️A project to bring the Zig Programming Language to the Sony PlayStation Portable! ](https://github.com/zPSP-Dev/Zig-PSP)
+  - [batiati/IUPforZig🗒️Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit ](https://github.com/batiati/IUPforZig)
+  - [ziglibs/zlm🗒️Zig linear mathemathics ](https://github.com/ziglibs/zlm)
+  - [swaywm/zig-wlroots🗒️Zig bindings for wlroots ](https://github.com/swaywm/zig-wlroots)
+  - [dundalek/notcurses-zig-example🗒️Demo showing how to use Notcurses library for building terminal UIs with Zig ](https://github.com/dundalek/notcurses-zig-example)
+  - [Kiakra/Alka🗒️Simple, fast, easy to get started mid-level game engine written in Zig ](https://github.com/Kiakra/Alka)
+  - [MasterQ32/zig-gamedev-lib🗒️xq's Zig Game Development Library ](https://github.com/MasterQ32/zig-gamedev-lib)
+  - [JonSnowbd/slingworks🗒️Small to Medium scale 2d Game Engine for Zig ](https://github.com/JonSnowbd/slingworks)
 
 - ### Other Libraries
 
@@ -281,6 +330,19 @@
   - [jedisct1/zig-charm🗒️A Zig version of the Charm crypto library. ](https://github.com/jedisct1/zig-charm)
   - [zigwasm/wasmtime-zig🗒️Zig embedding of Wasmtime ](https://github.com/zigwasm/wasmtime-zig)
   - [fengb/wazm🗒️Web Assembly Zig Machine ](https://github.com/fengb/wazm)
+  - [jecolon/zigstr🗒️Zigstr is a UTF-8 string type for Zig programs. ](https://github.com/jecolon/zigstr)
+  - [suirad/adma🗒️A general purpose, multithreaded capable slab allocator for Zig ](https://github.com/suirad/adma)
+  - [ifreund/zig-wayland🗒️Zig wayland scanner and libwayland bindings ](https://github.com/ifreund/zig-wayland)
+  - [JakubSzark/zig-string🗒️A String Library made in Zig ](https://github.com/JakubSzark/zig-string)
+  - [jayschwa/dos.zig🗒️Create DOS programs with Zig ](https://github.com/jayschwa/dos.zig)
+  - [GoNZooo/zig-win32🗒️Bindings for win32, with and without WIN32_LEAN_AND_MEAN ](https://github.com/GoNZooo/zig-win32)
+  - [xyaman/zjson🗒️Minimal json library with zero allocations ](https://github.com/xyaman/zjson)
+  - [ziglibs/ansi-term🗒️Zig library for dealing with ANSI terminals ](https://github.com/ziglibs/ansi-term)
+  - [frmdstryr/zig-datetime🗒️A date and time module for Zig ](https://github.com/frmdstryr/zig-datetime)
+  - [getty-zig/getty🗒️Serialization framework for Zig ](https://github.com/getty-zig/getty)
+  - [xyaman/mibu🗒️Pure Zig library for low-level terminal manipulation. ](https://github.com/xyaman/mibu)
+  - [vrischmann/zig-prometheus🗒️Prometheus/VictoriaMetrics client library for Zig ](https://github.com/vrischmann/zig-prometheus)
+  - [MasterQ32/zig-serial🗒️Serial port configuration library for Zig ](https://github.com/MasterQ32/zig-serial)
 
 ## Resources
 
@@ -292,6 +354,7 @@
   - [Sobeston/ziglearn🗒️Repo for https://ziglearn.org content. Get up to speed with Zig quickly. ](https://github.com/Sobeston/ziglearn)
   - [cshenton/learnopengl🗒️https://learnopengl.com tutorials ported to zig ](https://github.com/cshenton/learnopengl)
   - [Learning the Zig programming language with help from its creator and core team - YouTube](https://www.youtube.com/watch?v=O4UYT-brgrc)
+  - [zig-by-example/zig-by-example.github.io🗒️learn Zig, by example](https://github.com/zig-by-example/zig-by-example.github.io)
   
 - ### Introduction Or News
   
