@@ -27,11 +27,11 @@
   - [Simulator](#simulator)
   - [Web](#web)
   - [Other Applications](#other-applications)
-
 - [Libraries](#libraries)
-  - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Game Dev and GUI Dev](#game-dev-and-gui-dev)
-  - [Memory Management](#memory-management)
+  - [Universal](#universal)
+    - [Algorithms and Data Structures](#algorithms-and-data-structures)
+    - [Memory Management](#memory-management)
   - [Web](#web)
   - [Other Libraries](#other-libraries)
 - [Resources](#resources)
@@ -75,7 +75,6 @@
 - ### Other Tools
 
   - [jaz🗒️A JVM implementation in Zig! ](https://github.com/zig-java/jaz)
-  - [qml_zig🗒️QML bindings for the Zig programming language ](https://github.com/kassane/qml_zig)
   - [repository🗒️A community-maintained repository of zig packages ](https://github.com/ziglibs/repository)
   - [setup-zig🗒️use a @ziglang compiler in your github actions workflows](https://github.com/goto-bus-stop/setup-zig)
   - [svd2zig🗒️Convert System View Description (svd) files to Zig headers for baremetal development ](https://github.com/justinbalexander/svd2zig)
@@ -86,7 +85,6 @@
   - [zig-pypi🗒️The Zig programming language, packaged for PyPI ](https://github.com/ziglang/zig-pypi)
   - [zigup🗒️Download and manage zig compilers. ](https://github.com/marler8997/zigup)
   - [zls🗒️Zig LSP implementation + Zig Language Server ](https://github.com/zigtools/zls)
-  - [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig. ](https://github.com/ranciere/zoltan)
 
 ## Applications
 
@@ -138,6 +136,7 @@
   - [uefi-paint🗒️UEFI-bootable touch paint app ](https://github.com/nrdmn/uefi-paint)
   - [zig-armv8m-test🗒️Minimal Zig-based app for Armv8-M + TrustZone ](https://github.com/yvt/zig-armv8m-test)
   - [zig-bare-metal-microbit🗒️Bare metal microbit program written in zig ](https://github.com/markfirmware/zig-bare-metal-microbit)
+  - [Ziguana-Game-System🗒️A retro-style gaming console running on bare x86 metal written in Zig ](https://github.com/MasterQ32/Ziguana-Game-System)
   
 - ### Game and Desktop Applications
 
@@ -159,6 +158,7 @@
   - [weekend-raytracer-zig🗒️A Zig implementation of the "Ray Tracing in One Weekend" book ](https://github.com/Nelarius/weekend-raytracer-zig)
   - [zalgebra🗒️Linear algebra library for games and real-time graphics. ](https://github.com/kooparse/zalgebra)
   - [zig-gorillas🗒️A clone of the classic QBasic Gorillas written in the Zig programming language ](https://github.com/fabioarnold/zig-gorillas)
+  - [Zig-Oculus-Quest🗒️An example application for the Oculus Quest, written in Zig ](https://github.com/SpexGuy/Zig-Oculus-Quest)
   - [ZigPaint🗒️A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system. ](https://github.com/MasterQ32/ZigPaint)
   - [zig-raylib-experiments🗒️Some classic game implementations in Zig using raylib ](https://github.com/BitPuffin/zig-raylib-experiments)
   - [zig-raytrace🗒️simple raytracer in zig ](https://github.com/tiehuis/zig-raytrace)
@@ -196,10 +196,13 @@
 - ### Web
 
   -  [cosmic🗒️A simple and productive Javascript/WASM runtime. ](https://github.com/fubark/cosmic)
-  - [hello🗒️Multi-threaded cross-platform HTTP/1.1 web server example in Zig. ](https://github.com/lithdew/hello)
-  - [zig-v8🗒️Simple V8 builds with C and Zig bindings. ](https://github.com/fubark/zig-v8)
-  - [zss🗒️zss is a CSS layout engine and renderer. ](https://github.com/chwayne/zss)
-  - [zwld🗒️Experimental wasm linker ](https://github.com/Luukdegram/zwld)
+  -  [hello🗒️Multi-threaded cross-platform HTTP/1.1 web server example in Zig. ](https://github.com/lithdew/hello)
+  -  [lua-in-the-browser🗒️using zig to build lua for webassembly ](https://github.com/andrewrk/lua-in-the-browser)
+  -  [zig-v8🗒️Simple V8 builds with C and Zig bindings. ](https://github.com/fubark/zig-v8)
+  -  [zig-wasm-dom🗒️Zig + WebAssembly + JS + DOM ](https://github.com/shritesh/zig-wasm-dom)
+  -  [zig-wasm-test🗒️A minimal Web Assembly example using Zig's build system. ](https://github.com/meheleventyone/zig-wasm-test)
+  -  [zss🗒️zss is a CSS layout engine and renderer. ](https://github.com/chwayne/zss)
+  -  [zwld🗒️Experimental wasm linker ](https://github.com/Luukdegram/zwld)
 
 - ### Other Applications
 
@@ -214,21 +217,9 @@
 
 ## Libraries
 
-- ### Algorithms and Data Structures
-
-  - [ArrayVec🗒️An array with a vector feeling in Zig ](https://github.com/DutchGhost/ArrayVec)
-  - [deque.zig🗒️a lock free chase-lev deque for zig ](https://github.com/emekoi/deque.zig)
-  - [fastfilter🗒️fastfilter:Binary fuse & xor filters for Zig (faster and smaller than bloom filters) ](https://github.com/hexops/fastfilter)
-  - [LZig4🗒️Implementing lz4 in zig.](https://github.com/BarabasGitHub/LZig4)
-  - [zig-containers🗒️A container library for Zig. ](https://github.com/Sahnvour/zig-containers)
-  - [zig-cuckoofilter🗒️Production-ready Cuckoo Filters for any C ABI compatible target. ](https://github.com/kristoff-it/zig-cuckoofilter)
-  - [zig-sparse-set🗒️Sparse sets for zig, supporting both SOA and AOS style ](https://github.com/Srekel/zig-sparse-set)
-  - [zigtimsort🗒️TimSort implementation for Zig ](https://github.com/marijnfs/zigtimsort)
-
 - ### Game Dev and GUI Dev
 
   - [Alka🗒️Simple, fast, easy to get started mid-level game engine written in Zig ](https://github.com/Kiakra/Alka)
-  - [cosmic🗒️A simple and productive Javascript/WASM runtime. ](https://github.com/fubark/cosmic)
   - [cupcake🗒️an app framework for making small and delicious games! (very wip) ](https://github.com/bootradev/cupcake)
   - [didot🗒️Zig 3D game engine. ](https://github.com/zenith391/didot)
   - [IUPforZig🗒️Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit ](https://github.com/batiati/IUPforZig)
@@ -241,7 +232,6 @@
   - [SDL.zig🗒️A shallow wrapper around SDL that provides object API and error handling ](https://github.com/MasterQ32/SDL.zig)
   - [seizer🗒️Cross platform Zig library for obtaining a rendering context and loading assets ](https://github.com/leroycep/seizer)
   - [slingworks🗒️Small to Medium scale 2d Game Engine for Zig ](https://github.com/JonSnowbd/slingworks)
-  - [sokol🗒️minimal cross-platform standalone C headers ](https://github.com/floooh/sokol)
   - [tm35-nds🗒️A library for working with Nintendo DS roms ](https://github.com/TM35-Metronome/tm35-nds)
   - [vulkan-zig🗒️Vulkan binding generator for Zig ](https://github.com/Snektron/vulkan-zig)
   - [wasm4🗒️Build retro games using WebAssembly for a fantasy console. ](https://github.com/aduros/wasm4)
@@ -255,23 +245,49 @@
   - [zig-gamekit🗒️Companion repo for zig-renderkit for making 2D games ](https://github.com/prime31/zig-gamekit)
   - [ZigGBA🗒️Work in progress SDK for creating Game Boy Advance games using Zig programming language. ](https://github.com/wendigojaeger/ZigGBA)
   - [Zig-Gltf-Display🗒️A program that displays glTF files using Vulkan, written in Zig. ](https://github.com/SpexGuy/Zig-Gltf-Display)
-  - [Zig-Oculus-Quest🗒️An example application for the Oculus Quest, written in Zig ](https://github.com/SpexGuy/Zig-Oculus-Quest)
   - [Zig-PSP🗒️A project to bring the Zig Programming Language to the Sony PlayStation Portable! ](https://github.com/zPSP-Dev/Zig-PSP)
   - [zig-renderkit🗒️ Cross platform Zig graphics backends with a 2D focus ](https://github.com/prime31/zig-renderkit)
   - [zig-sdl🗒️self-contained SDL2 package for Zig ](https://github.com/andrewrk/zig-sdl)
   - [zig-sfml-wrapper🗒️A zig wrapper for csfml ](https://github.com/Guigui220D/zig-sfml-wrapper)
-  - [Ziguana-Game-System🗒️A retro-style gaming console running on bare x86 metal written in Zig ](https://github.com/MasterQ32/Ziguana-Game-System)
   - [zig-wlroots🗒️Zig bindings for wlroots ](https://github.com/swaywm/zig-wlroots)
   - [zlm🗒️Zig linear mathemathics ](https://github.com/ziglibs/zlm)
   - [zplay🗒️A simple framework intended for game/tool creation. ](https://github.com/jack-ji/zplay)
-  
-- ### Memory Management
 
-  - [Seal🗒️An allocator that wraps another allocator and detects if memory is leaked after usage ](https://github.com/suirad/Seal)
-  - [zee_alloc🗒️tiny Zig allocator primarily targeting WebAssembly ](https://github.com/fengb/zee_alloc)
-  - [ziegfried🗒️A general-purpose memory allocator for Zig ](https://github.com/mdsteele/ziegfried)
-  - [zig-gc🗒️A super simple mark-and-sweep garbage collector written in Zig. ](https://github.com/Hejsil/zig-gc)
-  - [zig-rcsp🗒️Reference-counted Shared Pointer for Zig ](https://github.com/yrashk/zig-rcsp)
+- ### Universal
+
+  - #### Algorithms and Data Structures
+
+    - [ArrayVec🗒️An array with a vector feeling in Zig ](https://github.com/DutchGhost/ArrayVec)
+    - [deque.zig🗒️a lock free chase-lev deque for zig ](https://github.com/emekoi/deque.zig)
+    - [fastfilter🗒️fastfilter:Binary fuse & xor filters for Zig (faster and smaller than bloom filters) ](https://github.com/hexops/fastfilter)
+    - [it/redis-cuckoofilter🗒️Hashing-function agnostic Cuckoo filters for Redis ](https://github.com/kristoff-it/redis-cuckoofilter)
+    - [Lazy-Zig🗒️Linq in Zig ](https://github.com/BraedonWooding/Lazy-Zig)
+    - [LZig4🗒️Implementing lz4 in zig.](https://github.com/BarabasGitHub/LZig4)
+    - [zig-containers🗒️A container library for Zig. ](https://github.com/Sahnvour/zig-containers)
+    - [zig-cuckoofilter🗒️Production-ready Cuckoo Filters for any C ABI compatible target. ](https://github.com/kristoff-it/zig-cuckoofilter)
+    - [zig-sparse-set🗒️Sparse sets for zig, supporting both SOA and AOS style ](https://github.com/Srekel/zig-sparse-set)
+    - [zigtimsort🗒️TimSort implementation for Zig ](https://github.com/marijnfs/zigtimsort)
+
+  - #### Memory Management
+
+    - [adma🗒️A general purpose, multithreaded capable slab allocator for Zig ](https://github.com/suirad/adma)
+    - [Seal🗒️An allocator that wraps another allocator and detects if memory is leaked after usage ](https://github.com/suirad/Seal)
+    - [zee_alloc🗒️tiny Zig allocator primarily targeting WebAssembly ](https://github.com/fengb/zee_alloc)
+    - [ziegfried🗒️A general-purpose memory allocator for Zig ](https://github.com/mdsteele/ziegfried)
+    - [zig-gc🗒️A super simple mark-and-sweep garbage collector written in Zig. ](https://github.com/Hejsil/zig-gc)
+    - [zig-rcsp🗒️Reference-counted Shared Pointer for Zig ](https://github.com/yrashk/zig-rcsp)
+
+  - [getty🗒️Serialization framework for Zig ](https://github.com/getty-zig/getty)
+
+  - [interface.zig🗒️Dynamic dispatch for zig made easy ](https://github.com/alexnask/interface.zig)
+
+  - [log.zig🗒️a thread-safe logging library for zig. ](https://github.com/emekoi/log.zig)
+
+  - [sokol🗒️minimal cross-platform standalone C headers ](https://github.com/floooh/sokol)
+
+  - [sokol-zig🗒️Zig bindings for the sokol headers (https://github.com/floooh/sokol)](https://github.com/floooh/sokol-zig)
+
+  - [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig. ](https://github.com/ranciere/zoltan)
 
 - ### Web
 
@@ -280,36 +296,23 @@
   - [htmlentities.zig🗒️HTML entity data for Zig ](https://github.com/kivikakk/htmlentities.zig)
   - [http🗒️HTTP core types for Zig 🦴 ](https://github.com/ducdetronquito/http)
   - [ip.zig🗒️A Zig library for working with IP Addresses ](https://github.com/euantorano/ip.zig)
-  - [lua-in-the-browser🗒️using zig to build lua for webassembly ](https://github.com/andrewrk/lua-in-the-browser)
   - [rem🗒️An HTML parsing library, written in Zig. ](https://github.com/chwayne/rem)
   - [routez🗒️Http server for Zig ](https://github.com/Vexu/routez)
   - [snow🗒️A small, fast, cross-platform, async Zig networking framework built on top of lithdew/pike. ](https://github.com/lithdew/snow)
   - [wasmer-zig🗒️Zig bindings for the Wasmer WebAssembly runtime ](https://github.com/zigwasm/wasmer-zig)
   - [wasmtime-zig🗒️Zig embedding of Wasmtime ](https://github.com/zigwasm/wasmtime-zig)
   - [wasm-zig🗒️Common Wasm runtime binding to C API ](https://github.com/zigwasm/wasm-zig)
-  - [wz](https://github.com/truemedian/wz)
+  - [wz 🗒️An I/O agnostic WebSocket 1.3 library for Zig.](https://github.com/truemedian/wz)
   - [zhp🗒️A Http server written in Zig ](https://github.com/frmdstryr/zhp)
   - [zigdig🗒️naive dns client library in zig ](https://github.com/lun-4/zigdig)
   - [zig-network🗒️A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP ](https://github.com/MasterQ32/zig-network)
-  - [zig-wasm-dom🗒️Zig + WebAssembly + JS + DOM ](https://github.com/shritesh/zig-wasm-dom)
-  - [zig-wasm-test🗒️A minimal Web Assembly example using Zig's build system. ](https://github.com/meheleventyone/zig-wasm-test)
 
 - ### Other Libraries
 
-  - [adma🗒️A general purpose, multithreaded capable slab allocator for Zig ](https://github.com/suirad/adma)
   - [ansi-term🗒️Zig library for dealing with ANSI terminals ](https://github.com/ziglibs/ansi-term)
   - [dos.zig🗒️Create DOS programs with Zig ](https://github.com/jayschwa/dos.zig)
-  - [fastfilter🗒️fastfilter:Binary fuse & xor filters for Zig (faster and smaller than bloom filters)](https://github.com/hexops/fastfilter)
-  - [getty🗒️Serialization framework for Zig ](https://github.com/getty-zig/getty)
-  - [interface.zig🗒️Dynamic dispatch for zig made easy ](https://github.com/alexnask/interface.zig)
-  - [it/redis-cuckoofilter🗒️Hashing-function agnostic Cuckoo filters for Redis ](https://github.com/kristoff-it/redis-cuckoofilter)
   - [known-folders🗒️Provides access to well-known folders across several operating systems ](https://github.com/ziglibs/known-folders)
-  - [Lazy-Zig🗒️Linq in Zig ](https://github.com/BraedonWooding/Lazy-Zig)
-  - [log.zig🗒️a thread-safe logging library for zig. ](https://github.com/emekoi/log.zig)
   - [mibu🗒️Pure Zig library for low-level terminal manipulation. ](https://github.com/xyaman/mibu)
-  - [project/pbui-main🗒️The main repository for the PBUI project ](https://github.com/pbui-project/pbui-main)
-  - [sokol-zig🗒️Zig bindings for the sokol headers (https://github.com/floooh/sokol)](https://github.com/floooh/sokol-zig)
-  - [wasmtime-zig🗒️Zig embedding of Wasmtime ](https://github.com/zigwasm/wasmtime-zig)
   - [wazm🗒️Web Assembly Zig Machine ](https://github.com/fengb/wazm)
   - [x86-zig🗒️library for assembling x86 in zig (WIP) ](https://github.com/momumi/x86-zig)
   - [zap🗒️An asynchronous runtime with a focus on performance and resource efficiency. ](https://github.com/kprotty/zap)
