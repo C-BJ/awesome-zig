@@ -37,8 +37,8 @@
   
 - [Resources](#resources)
   - [Learning](#learning)
-  
   - [Introduction Or News](#introduction-or-News)
+  - [Community](https://github.com/ziglang/zig/wiki/Community)
   
 - [Contributing](https://github.com/C-BJ/awesome-zig/blob/main/CONTRIBUTING.md)
 
@@ -364,6 +364,7 @@
   - [Zig Programming Language - YouTube](https://www.youtube.com/watch?v=ygfGO5n1Oe4)
   - [Zig language:a WAY better C! - YouTube](https://www.youtube.com/watch?v=J6ZxxnSp_fY&t=2s)
   - [Zig Star History](https://star-history.com/#ziglang/zig&Date)
+- ### [Community](https://github.com/ziglang/zig/wiki/Community)
 
 
 # The End
