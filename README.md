@@ -178,7 +178,7 @@
   
 - ### Simulator
   
-  - [fundude🗒️Gameboy emulator🗒️Zig -> wasm ](https://github.com/fengb/fundude)
+  - [fundude🗒️Gameboy emulator:Zig -> wasm (github.com)](https://github.com/fengb/fundude)
   - [chip8-zig🗒️A CHIP-8 emulator written in Zig ](https://github.com/GrooveStomp/chip8-zig)
   - [ichigo🗒️WIP🍓 Virtual Boy emulator ](https://github.com/sourgrasses/ichigo)https://github.com/sourgrasses/ichigo)
   - [kc85.zig🗒️A KC85 emulator written in Zig ](https://github.com/floooh/kc85.zig)
