@@ -72,7 +72,7 @@
 
 - ### Package Managers
 
-  - [asdf-zig🗒️zig plugin for asdf version manager https://github.com/asdf-vm/asdf](https://github.com/cheetah/asdf-zig)
+  - [asdf-zig🗒️zig plugin for asdf version manager](https://github.com/cheetah/asdf-zig)
   - [gyro🗒️A Zig package manager with an index, build runner, and build dependencies. ](https://github.com/mattnite/gyro)
   - [zpm🗒️Package dependency generator; WIP ](https://github.com/zigtools/zpm)
   - [zigmod🗒️📦 A package manager for the Zig programming language. ](https://github.com/nektro/zigmod)
