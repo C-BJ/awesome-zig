@@ -19,20 +19,20 @@
   - [Other Tools](#other-tools)
 - [Applications](#applications)
   - [Command Line](#command-line)
-  - [Compiler/Parser/Interpreter](#compiler/parser/interpreter)
+  - [Compiler / Parser / Interpreter](#compiler--parser--interpreter)
   - [Database](#database)
   - [Embedded](#embedded)
   - [Game and Desktop Applications](#game-and-desktop-applications)
-  - [Operating Systems/Kernels](#operating-systems/kernels)
+  - [Operating Systems / Kernels](#operating-systems--kernels)
   - [Simulator](#simulator)
   - [Web](#web)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
   - [Audio](#audio)
   - [Database Operation](#database-operation)
-  - [Encryption/Encoding/Decoding](#encryption/encoding/decoding)
+  - [Encryption / Encoding / Decoding](#encryption--encoding--decoding)
   - [Game Dev and GUI Dev](#game-dev-and-gui-dev)
-  - [Terminal/Low-Level Libraries/System API](#terminal/low-level-libraries/system-api)
+  - [Terminal / Low-Level Libraries / System API](#terminal--low-level-libraries--system-api)
   - [Universal](#universal)
     - [Algorithms and Data Structures](#algorithms-and-data-structures)
     - [Memory Management](#memory-management)
@@ -99,7 +99,7 @@
   - [pbui-main🗒️The main repository for the PBUI project ](https://github.com/pbui-project/pbui-main)
   - [sudokuinzig🗒️Sudoku solver in zig ](https://github.com/user00e00/sudokuinzig)
 
-- ### Compiler/Parser/Interpreter
+- ### Compiler / Parser / Interpreter
 
   - [arocc🗒️A C compiler written in Zig. ](https://github.com/Vexu/arocc)
   - [base32🗒️base32 encoding/decoding for ziglang ](https://github.com/gernest/base32)
@@ -171,7 +171,7 @@
   - [zootdeck🗒️Fediverse GTK Desktop Reader ](https://github.com/donpdonp/zootdeck)
   - [zstack🗒️Line-race tetris mode in Zig ](https://github.com/tiehuis/zstack)
 
-- ### Operating Systems/Kernels
+- ### Operating Systems / Kernels
 
   - [daintree🗒️ARMv8-A/RISC-V kernel (with UEFI bootloader) ](https://github.com/kivikakk/daintree)
   - [georgios🗒️Hobby Operating System ](https://github.com/iguessthislldo/georgios)
@@ -229,7 +229,7 @@
 
   - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
 
-- ### Encryption/Encoding/Decoding
+- ### Encryption / Encoding / Decoding
 
   - [zig-args🗒️Simple-to-use argument parser with struct-based config ](https://github.com/MasterQ32/zig-args)
   - [zig-charm🗒️A Zig version of the Charm crypto library. ](https://github.com/jedisct1/zig-charm)
@@ -277,7 +277,7 @@
   - [zplay🗒️A simple framework intended for game/tool creation. ](https://github.com/jack-ji/zplay)
   - [ZT🗒️A zig based Imgui Application framework ](https://github.com/JonSnowbd/ZT)
 
-- ### Terminal/Low-Level Libraries/System API
+- ### Terminal / Low-Level Libraries / System API
 
   - [ansi-term🗒️Zig library for dealing with ANSI terminals ](https://github.com/ziglibs/ansi-term)
   - [dos.zig🗒️Create DOS programs with Zig ](https://github.com/jayschwa/dos.zig)
