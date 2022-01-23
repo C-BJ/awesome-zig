@@ -28,15 +28,18 @@
   - [Web](#web)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
+  - [Audio](#audio)
+  - [Database Operation](#database-operation)
   - [Encryption / Encoding / Decoding](#encryption-/-encoding-/-decoding)
   - [Game Dev and GUI Dev](#game-dev-and-gui-dev)
+  - [Terminal / Low-Level Libraries](#terminal-/-low-level-libraries)
   - [Universal](#universal)
     - [Algorithms and Data Structures](#algorithms-and-data-structures)
     - [Memory Management](#memory-management)
     - [Other Universal Libraries](#other-universal-libraries)
   - [Web](#web)
   - [Other Libraries](#other-libraries)
-
+  
 - [Resources](#resources)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
   - [Introduction Or News](#introduction-or-News)
@@ -214,11 +217,20 @@
   - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
   - [simple-amplifier🗒️A very simple example of LV2 plugin built in Zig ](https://github.com/ul/simple-amplifier)
   - [wayfarer🗒️Experiments involving a Zig Wayland compositor. ](https://github.com/dominikh/wayfarer)
+  - [zig-ios-example🗒️Minimal build.zig for targeting iOS ](https://github.com/kubkon/zig-ios-example)
   - [zig-minisign🗒️Minisign reimplemented in Zig. ](https://github.com/jedisct1/zig-minisign)
   - [zig-protobuf🗒️a protobuf 3 implementation for zig. ](https://github.com/Arwalk/zig-protobuf)
   - [zig-snappy🗒️Snappy compression for Zig ](https://github.com/gsquire/zig-snappy)
 
 ## Libraries
+
+- ### Audio
+
+  - [zig-midi 🗒️](https://github.com/Hejsil/zig-midi)
+  
+- ### Database Operation
+
+  - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
 
 - ### Encryption / Encoding / Decoding
 
@@ -227,6 +239,7 @@
   - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
   - [zigimg🗒️Zig library for reading and writing different image formats ](https://github.com/zigimg/zigimg)
   - [zig-qoi🗒️Quite OK Image format encoder/decoder written in Zig ](https://github.com/MasterQ32/zig-qoi)
+  - [zig-wayland🗒️Zig wayland scanner and libwayland bindings ](https://github.com/ifreund/zig-wayland)
   - [zjson🗒️Minimal json library with zero allocations ](https://github.com/xyaman/zjson)
 
 - ### Game Dev and GUI Dev
@@ -266,6 +279,16 @@
   - [zlm🗒️Zig linear mathemathics ](https://github.com/ziglibs/zlm)
   - [zplay🗒️A simple framework intended for game/tool creation. ](https://github.com/jack-ji/zplay)
   - [ZT🗒️A zig based Imgui Application framework ](https://github.com/JonSnowbd/ZT)
+
+- ### Terminal / Low-Level Libraries
+
+  - [ansi-term🗒️Zig library for dealing with ANSI terminals ](https://github.com/ziglibs/ansi-term)
+  - [dos.zig🗒️Create DOS programs with Zig ](https://github.com/jayschwa/dos.zig)
+  - [known-folders🗒️Provides access to well-known folders across several operating systems ](https://github.com/ziglibs/known-folders)
+  - [mibu🗒️Pure Zig library for low-level terminal manipulation. ](https://github.com/xyaman/mibu)
+  - [zig-serial🗒️Serial port configuration library for Zig ](https://github.com/MasterQ32/zig-serial)
+  - [x86-zig🗒️library for assembling x86 in zig (WIP) ](https://github.com/momumi/x86-zig)
+  - [zig-win32🗒️Bindings for win32, with and without WIN32_LEAN_AND_MEAN ](https://github.com/GoNZooo/zig-win32)
 
 - ### Universal
 
@@ -327,19 +350,9 @@
   - [zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig. ](https://github.com/jedisct1/zigly)
   - [zig-network🗒️A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP ](https://github.com/MasterQ32/zig-network)
 
-- ### Other Libraries
+  
 
-  - [ansi-term🗒️Zig library for dealing with ANSI terminals ](https://github.com/ziglibs/ansi-term)
-  - [dos.zig🗒️Create DOS programs with Zig ](https://github.com/jayschwa/dos.zig)
-  - [known-folders🗒️Provides access to well-known folders across several operating systems ](https://github.com/ziglibs/known-folders)
-  - [mibu🗒️Pure Zig library for low-level terminal manipulation. ](https://github.com/xyaman/mibu)
-  - [x86-zig🗒️library for assembling x86 in zig (WIP) ](https://github.com/momumi/x86-zig)
-  - [zig-ios-example🗒️Minimal build.zig for targeting iOS ](https://github.com/kubkon/zig-ios-example)
-  - [zig-midi 🗒️](https://github.com/Hejsil/zig-midi)
-  - [zig-serial🗒️Serial port configuration library for Zig ](https://github.com/MasterQ32/zig-serial)
-  - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
-  - [zig-wayland🗒️Zig wayland scanner and libwayland bindings ](https://github.com/ifreund/zig-wayland)
-  - [zig-win32🗒️Bindings for win32, with and without WIN32_LEAN_AND_MEAN ](https://github.com/GoNZooo/zig-win32)
+  
 
 ## Resources
 
