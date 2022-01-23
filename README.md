@@ -19,27 +19,25 @@
   - [Other Tools](#other-tools)
 - [Applications](#applications)
   - [Command Line](#command-line)
-  - [Compiler / Parser / Interpreter](#compiler-/-parser-/-interpreter)
+  - [Compiler/Parser/Interpreter](#compiler/parser/interpreter)
   - [Database](#database)
   - [Embedded](#embedded)
   - [Game and Desktop Applications](#game-and-desktop-applications)
-  - [Operating Systems / Kernels](#operating-systems-/-kernels)
+  - [Operating Systems/Kernels](#operating-systems/kernels)
   - [Simulator](#simulator)
   - [Web](#web)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
   - [Audio](#audio)
   - [Database Operation](#database-operation)
-  - [Encryption / Encoding / Decoding](#encryption-/-encoding-/-decoding)
+  - [Encryption/Encoding/Decoding](#encryption/encoding/decoding)
   - [Game Dev and GUI Dev](#game-dev-and-gui-dev)
-  - [Terminal / Low-Level Libraries](#terminal-/-low-level-libraries)
+  - [Terminal/Low-Level Libraries/System API](#terminal/low-level-libraries/system-api)
   - [Universal](#universal)
     - [Algorithms and Data Structures](#algorithms-and-data-structures)
     - [Memory Management](#memory-management)
     - [Other Universal Libraries](#other-universal-libraries)
   - [Web](#web)
-  - [Other Libraries](#other-libraries)
-  
 - [Resources](#resources)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
   - [Introduction Or News](#introduction-or-News)
@@ -101,7 +99,7 @@
   - [pbui-main🗒️The main repository for the PBUI project ](https://github.com/pbui-project/pbui-main)
   - [sudokuinzig🗒️Sudoku solver in zig ](https://github.com/user00e00/sudokuinzig)
 
-- ### Compiler / Parser / Interpreter
+- ### Compiler/Parser/Interpreter
 
   - [arocc🗒️A C compiler written in Zig. ](https://github.com/Vexu/arocc)
   - [base32🗒️base32 encoding/decoding for ziglang ](https://github.com/gernest/base32)
@@ -173,7 +171,7 @@
   - [zootdeck🗒️Fediverse GTK Desktop Reader ](https://github.com/donpdonp/zootdeck)
   - [zstack🗒️Line-race tetris mode in Zig ](https://github.com/tiehuis/zstack)
 
-- ### Operating Systems / Kernels
+- ### Operating Systems/Kernels
 
   - [daintree🗒️ARMv8-A/RISC-V kernel (with UEFI bootloader) ](https://github.com/kivikakk/daintree)
   - [georgios🗒️Hobby Operating System ](https://github.com/iguessthislldo/georgios)
@@ -215,7 +213,6 @@
   - [geteltorito-zig🗒️ geteltorito re-write in Zig ](https://github.com/hspak/geteltorito-zig)
   - [hexdump-zip🗒️produce an annotated hexdump of a zipfile ](https://github.com/thejoshwolfe/hexdump-zip)
   - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
-  - [simple-amplifier🗒️A very simple example of LV2 plugin built in Zig ](https://github.com/ul/simple-amplifier)
   - [wayfarer🗒️Experiments involving a Zig Wayland compositor. ](https://github.com/dominikh/wayfarer)
   - [zig-ios-example🗒️Minimal build.zig for targeting iOS ](https://github.com/kubkon/zig-ios-example)
   - [zig-minisign🗒️Minisign reimplemented in Zig. ](https://github.com/jedisct1/zig-minisign)
@@ -232,7 +229,7 @@
 
   - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
 
-- ### Encryption / Encoding / Decoding
+- ### Encryption/Encoding/Decoding
 
   - [zig-args🗒️Simple-to-use argument parser with struct-based config ](https://github.com/MasterQ32/zig-args)
   - [zig-charm🗒️A Zig version of the Charm crypto library. ](https://github.com/jedisct1/zig-charm)
@@ -280,7 +277,7 @@
   - [zplay🗒️A simple framework intended for game/tool creation. ](https://github.com/jack-ji/zplay)
   - [ZT🗒️A zig based Imgui Application framework ](https://github.com/JonSnowbd/ZT)
 
-- ### Terminal / Low-Level Libraries
+- ### Terminal/Low-Level Libraries/System API
 
   - [ansi-term🗒️Zig library for dealing with ANSI terminals ](https://github.com/ziglibs/ansi-term)
   - [dos.zig🗒️Create DOS programs with Zig ](https://github.com/jayschwa/dos.zig)
@@ -349,10 +346,6 @@
   - [zigdig🗒️naive dns client library in zig ](https://github.com/lun-4/zigdig)
   - [zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig. ](https://github.com/jedisct1/zigly)
   - [zig-network🗒️A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP ](https://github.com/MasterQ32/zig-network)
-
-  
-
-  
 
 ## Resources
 
