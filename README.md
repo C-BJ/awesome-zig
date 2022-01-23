@@ -32,6 +32,7 @@
   - [Database Operation](#database-operation)
   - [Encryption / Encoding / Decoding](#encryption--encoding--decoding)
   - [Game Dev and GUI Dev](#game-dev-and-gui-dev)
+  - [Images](#images)
   - [Terminal / Low-Level Libraries / System API](#terminal--low-level-libraries--system-api)
   - [Universal](#universal)
     - [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -235,8 +236,6 @@
   - [zig-args🗒️Simple-to-use argument parser with struct-based config ](https://github.com/MasterQ32/zig-args)
   - [zig-charm🗒️A Zig version of the Charm crypto library. ](https://github.com/jedisct1/zig-charm)
   - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
-  - [zigimg🗒️Zig library for reading and writing different image formats ](https://github.com/zigimg/zigimg)
-  - [zig-qoi🗒️Quite OK Image format encoder/decoder written in Zig ](https://github.com/MasterQ32/zig-qoi)
   - [zig-wayland🗒️Zig wayland scanner and libwayland bindings ](https://github.com/ifreund/zig-wayland)
   - [zjson🗒️Minimal json library with zero allocations ](https://github.com/xyaman/zjson)
 
@@ -277,6 +276,11 @@
   - [zlm🗒️Zig linear mathemathics ](https://github.com/ziglibs/zlm)
   - [zplay🗒️A simple framework intended for game/tool creation. ](https://github.com/jack-ji/zplay)
   - [ZT🗒️A zig based Imgui Application framework ](https://github.com/JonSnowbd/ZT)
+  
+- ### Images
+
+  - [zigimg🗒️Zig library for reading and writing different image formats ](https://github.com/zigimg/zigimg)
+  - [zig-qoi🗒️Quite OK Image format encoder/decoder written in Zig ](https://github.com/MasterQ32/zig-qoi)
 
 - ### Terminal / Low-Level Libraries / System API
 
