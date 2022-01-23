@@ -279,6 +279,7 @@
     - [LZig4🗒️Implementing lz4 in zig.](https://github.com/BarabasGitHub/LZig4)
     - [zig-containers🗒️A container library for Zig. ](https://github.com/Sahnvour/zig-containers)
     - [zig-cuckoofilter🗒️Production-ready Cuckoo Filters for any C ABI compatible target. ](https://github.com/kristoff-it/zig-cuckoofilter)
+    - [zig-prometheus🗒️Prometheus/VictoriaMetrics client library for Zig ](https://github.com/vrischmann/zig-prometheus)
     - [zig-sparse-set🗒️Sparse sets for zig, supporting both SOA and AOS style ](https://github.com/Srekel/zig-sparse-set)
     - [zigstr🗒️Zigstr is a UTF-8 string type for Zig programs. ](https://github.com/jecolon/zigstr)
     - [zig-string🗒️A String Library made in Zig ](https://github.com/JakubSzark/zig-string)
@@ -303,6 +304,7 @@
     - [zap🗒️An asynchronous runtime with a focus on performance and resource efficiency. ](https://github.com/kprotty/zap)
     - [zig-datetime🗒️A date and time module for Zig ](https://github.com/frmdstryr/zig-datetime)
     - [ziglyph🗒️Unicode text processing for the Zig programming language. ](https://github.com/jecolon/ziglyph)
+    - [zig-regex🗒️A regex implementation for the zig programming language ](https://github.com/tiehuis/zig-regex)
     - [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig. ](https://github.com/ranciere/zoltan)
 
 - ### Web
@@ -318,9 +320,11 @@
   - [wasmer-zig🗒️Zig bindings for the Wasmer WebAssembly runtime ](https://github.com/zigwasm/wasmer-zig)
   - [wasmtime-zig🗒️Zig embedding of Wasmtime ](https://github.com/zigwasm/wasmtime-zig)
   - [wasm-zig🗒️Common Wasm runtime binding to C API ](https://github.com/zigwasm/wasm-zig)
+  - [wazm🗒️Web Assembly Zig Machine ](https://github.com/fengb/wazm)
   - [wz 🗒️An I/O agnostic WebSocket 1.3 library for Zig.](https://github.com/truemedian/wz)
   - [zhp🗒️A Http server written in Zig ](https://github.com/frmdstryr/zhp)
   - [zigdig🗒️naive dns client library in zig ](https://github.com/lun-4/zigdig)
+  - [zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig. ](https://github.com/jedisct1/zigly)
   - [zig-network🗒️A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP ](https://github.com/MasterQ32/zig-network)
 
 - ### Other Libraries
@@ -329,13 +333,9 @@
   - [dos.zig🗒️Create DOS programs with Zig ](https://github.com/jayschwa/dos.zig)
   - [known-folders🗒️Provides access to well-known folders across several operating systems ](https://github.com/ziglibs/known-folders)
   - [mibu🗒️Pure Zig library for low-level terminal manipulation. ](https://github.com/xyaman/mibu)
-  - [wazm🗒️Web Assembly Zig Machine ](https://github.com/fengb/wazm)
   - [x86-zig🗒️library for assembling x86 in zig (WIP) ](https://github.com/momumi/x86-zig)
   - [zig-ios-example🗒️Minimal build.zig for targeting iOS ](https://github.com/kubkon/zig-ios-example)
-  - [zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig. ](https://github.com/jedisct1/zigly)
   - [zig-midi 🗒️](https://github.com/Hejsil/zig-midi)
-  - [zig-prometheus🗒️Prometheus/VictoriaMetrics client library for Zig ](https://github.com/vrischmann/zig-prometheus)
-  - [zig-regex🗒️A regex implementation for the zig programming language ](https://github.com/tiehuis/zig-regex)
   - [zig-serial🗒️Serial port configuration library for Zig ](https://github.com/MasterQ32/zig-serial)
   - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
   - [zig-wayland🗒️Zig wayland scanner and libwayland bindings ](https://github.com/ifreund/zig-wayland)
