@@ -1,5 +1,7 @@
 # Awesome Zig
 
+**This guide is still in the early stages of compilation. Please look forward to the development of this guide!**
+
 > 📜Zig Learning & Usage Guide.
 
 [<img src="https://ziglang.org/zig-logo-light.svg" align="right" width="100">](https://ziglang.org)
@@ -106,6 +108,7 @@
   - [outfieldr🗒️A TLDR client in Zig.](https://gitlab.com/ve-nt/outfieldr)
   - [pbui-main🗒️The main repository for the PBUI project ](https://github.com/pbui-project/pbui-main)
   - [sudokuinzig🗒️Sudoku solver in zig ](https://github.com/user00e00/sudokuinzig)
+  - [zigish🗒️A toy Unix shell written in Zig ](https://github.com/ratfactor/zigish)
 
 - ### Compiler / Parser / Interpreter
 
@@ -197,7 +200,6 @@
   - [zen🗒️Experimental operating system written in Zig ](https://github.com/AndreaOrru/zen)
   - [zig-bare-metal-microbit🗒️Bare metal microbit program written in zig ](https://github.com/markfirmware/zig-bare-metal-microbit)
   - [zig-bare-metal-raspberry-pi🗒️Bare metal raspberry pi program written in zig ](https://github.com/markfirmware/zig-bare-metal-raspberry-pi)
-  - [zigish🗒️A toy Unix shell written in Zig ](https://github.com/ratfactor/zigish)
   - [zig-x86_64🗒️Support for x86_64 specific instructions (e.g. TLB flush), registers (e.g. control registers), and structures (e.g. page tables) ](https://github.com/leecannon/zig-x86_64)
 
 - ### Simulator
