@@ -28,12 +28,15 @@
   - [Web](#web)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
+  - [Encryption / Encoding / Decoding](#encryption-/-encoding-/-decoding)
   - [Game Dev and GUI Dev](#game-dev-and-gui-dev)
   - [Universal](#universal)
     - [Algorithms and Data Structures](#algorithms-and-data-structures)
     - [Memory Management](#memory-management)
+    - [Other Universal Libraries](#other-universal-libraries)
   - [Web](#web)
   - [Other Libraries](#other-libraries)
+
 - [Resources](#resources)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
   - [Introduction Or News](#introduction-or-News)
@@ -217,6 +220,15 @@
 
 ## Libraries
 
+- ### Encryption / Encoding / Decoding
+
+  - [zig-args🗒️Simple-to-use argument parser with struct-based config ](https://github.com/MasterQ32/zig-args)
+  - [zig-charm🗒️A Zig version of the Charm crypto library. ](https://github.com/jedisct1/zig-charm)
+  - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
+  - [zigimg🗒️Zig library for reading and writing different image formats ](https://github.com/zigimg/zigimg)
+  - [zig-qoi🗒️Quite OK Image format encoder/decoder written in Zig ](https://github.com/MasterQ32/zig-qoi)
+  - [zjson🗒️Minimal json library with zero allocations ](https://github.com/xyaman/zjson)
+
 - ### Game Dev and GUI Dev
 
   - [Alka🗒️Simple, fast, easy to get started mid-level game engine written in Zig ](https://github.com/Kiakra/Alka)
@@ -249,9 +261,11 @@
   - [zig-renderkit🗒️ Cross platform Zig graphics backends with a 2D focus ](https://github.com/prime31/zig-renderkit)
   - [zig-sdl🗒️self-contained SDL2 package for Zig ](https://github.com/andrewrk/zig-sdl)
   - [zig-sfml-wrapper🗒️A zig wrapper for csfml ](https://github.com/Guigui220D/zig-sfml-wrapper)
+  - [zig-window🗒️window client library ](https://github.com/andrewrk/zig-window)
   - [zig-wlroots🗒️Zig bindings for wlroots ](https://github.com/swaywm/zig-wlroots)
   - [zlm🗒️Zig linear mathemathics ](https://github.com/ziglibs/zlm)
   - [zplay🗒️A simple framework intended for game/tool creation. ](https://github.com/jack-ji/zplay)
+  - [ZT🗒️A zig based Imgui Application framework ](https://github.com/JonSnowbd/ZT)
 
 - ### Universal
 
@@ -266,6 +280,8 @@
     - [zig-containers🗒️A container library for Zig. ](https://github.com/Sahnvour/zig-containers)
     - [zig-cuckoofilter🗒️Production-ready Cuckoo Filters for any C ABI compatible target. ](https://github.com/kristoff-it/zig-cuckoofilter)
     - [zig-sparse-set🗒️Sparse sets for zig, supporting both SOA and AOS style ](https://github.com/Srekel/zig-sparse-set)
+    - [zigstr🗒️Zigstr is a UTF-8 string type for Zig programs. ](https://github.com/jecolon/zigstr)
+    - [zig-string🗒️A String Library made in Zig ](https://github.com/JakubSzark/zig-string)
     - [zigtimsort🗒️TimSort implementation for Zig ](https://github.com/marijnfs/zigtimsort)
 
   - #### Memory Management
@@ -276,18 +292,18 @@
     - [ziegfried🗒️A general-purpose memory allocator for Zig ](https://github.com/mdsteele/ziegfried)
     - [zig-gc🗒️A super simple mark-and-sweep garbage collector written in Zig. ](https://github.com/Hejsil/zig-gc)
     - [zig-rcsp🗒️Reference-counted Shared Pointer for Zig ](https://github.com/yrashk/zig-rcsp)
+    
+  - #### Other Universal Libraries
 
-  - [getty🗒️Serialization framework for Zig ](https://github.com/getty-zig/getty)
-
-  - [interface.zig🗒️Dynamic dispatch for zig made easy ](https://github.com/alexnask/interface.zig)
-
-  - [log.zig🗒️a thread-safe logging library for zig. ](https://github.com/emekoi/log.zig)
-
-  - [sokol🗒️minimal cross-platform standalone C headers ](https://github.com/floooh/sokol)
-
-  - [sokol-zig🗒️Zig bindings for the sokol headers (https://github.com/floooh/sokol)](https://github.com/floooh/sokol-zig)
-
-  - [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig. ](https://github.com/ranciere/zoltan)
+    - [getty🗒️Serialization framework for Zig ](https://github.com/getty-zig/getty)
+    - [interface.zig🗒️Dynamic dispatch for zig made easy ](https://github.com/alexnask/interface.zig)
+    - [log.zig🗒️a thread-safe logging library for zig. ](https://github.com/emekoi/log.zig)
+    - [sokol🗒️minimal cross-platform standalone C headers ](https://github.com/floooh/sokol)
+    - [sokol-zig🗒️Zig bindings for the sokol headers (https://github.com/floooh/sokol)](https://github.com/floooh/sokol-zig)
+    - [zap🗒️An asynchronous runtime with a focus on performance and resource efficiency. ](https://github.com/kprotty/zap)
+    - [zig-datetime🗒️A date and time module for Zig ](https://github.com/frmdstryr/zig-datetime)
+    - [ziglyph🗒️Unicode text processing for the Zig programming language. ](https://github.com/jecolon/ziglyph)
+    - [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig. ](https://github.com/ranciere/zoltan)
 
 - ### Web
 
@@ -315,28 +331,15 @@
   - [mibu🗒️Pure Zig library for low-level terminal manipulation. ](https://github.com/xyaman/mibu)
   - [wazm🗒️Web Assembly Zig Machine ](https://github.com/fengb/wazm)
   - [x86-zig🗒️library for assembling x86 in zig (WIP) ](https://github.com/momumi/x86-zig)
-  - [zap🗒️An asynchronous runtime with a focus on performance and resource efficiency. ](https://github.com/kprotty/zap)
-  - [zig-args🗒️Simple-to-use argument parser with struct-based config ](https://github.com/MasterQ32/zig-args)
-  - [zig-charm🗒️A Zig version of the Charm crypto library. ](https://github.com/jedisct1/zig-charm)
-  - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
-  - [zig-datetime🗒️A date and time module for Zig ](https://github.com/frmdstryr/zig-datetime)
   - [zig-ios-example🗒️Minimal build.zig for targeting iOS ](https://github.com/kubkon/zig-ios-example)
-  - [zigimg🗒️Zig library for reading and writing different image formats ](https://github.com/zigimg/zigimg)
   - [zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig. ](https://github.com/jedisct1/zigly)
-  - [ziglyph🗒️Unicode text processing for the Zig programming language. ](https://github.com/jecolon/ziglyph)
   - [zig-midi 🗒️](https://github.com/Hejsil/zig-midi)
   - [zig-prometheus🗒️Prometheus/VictoriaMetrics client library for Zig ](https://github.com/vrischmann/zig-prometheus)
-  - [zig-qoi🗒️Quite OK Image format encoder/decoder written in Zig ](https://github.com/MasterQ32/zig-qoi)
   - [zig-regex🗒️A regex implementation for the zig programming language ](https://github.com/tiehuis/zig-regex)
   - [zig-serial🗒️Serial port configuration library for Zig ](https://github.com/MasterQ32/zig-serial)
   - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
-  - [zigstr🗒️Zigstr is a UTF-8 string type for Zig programs. ](https://github.com/jecolon/zigstr)
-  - [zig-string🗒️A String Library made in Zig ](https://github.com/JakubSzark/zig-string)
   - [zig-wayland🗒️Zig wayland scanner and libwayland bindings ](https://github.com/ifreund/zig-wayland)
   - [zig-win32🗒️Bindings for win32, with and without WIN32_LEAN_AND_MEAN ](https://github.com/GoNZooo/zig-win32)
-  - [zig-window🗒️window client library ](https://github.com/andrewrk/zig-window)
-  - [zjson🗒️Minimal json library with zero allocations ](https://github.com/xyaman/zjson)
-  - [ZT🗒️A zig based Imgui Application framework ](https://github.com/JonSnowbd/ZT)
 
 ## Resources
 
