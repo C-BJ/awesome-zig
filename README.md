@@ -25,7 +25,7 @@
   - [Compiler / Parser / Interpreter](#compiler--parser--interpreter)
   - [Database](#database)
   - [Embedded](#embedded)
-  - [Game and Desktop Applications](#game-and-desktop-applications)
+  - [Game and Desktop(GUI) Applications](#game-and-desktop(gui)-applications)
   - [Operating Systems / Kernels](#operating-systems--kernels)
   - [Simulator](#simulator)
   - [Web](#web)
@@ -159,13 +159,14 @@
   - [zig-bare-metal-microbit🗒️Bare metal microbit program written in zig ](https://github.com/markfirmware/zig-bare-metal-microbit)
   - [Ziguana-Game-System🗒️A retro-style gaming console running on bare x86 metal written in Zig ](https://github.com/MasterQ32/Ziguana-Game-System)
   
-- ### Game and Desktop Applications
+- ### Game and Desktop(GUI) Applications
 
   - [blink🗒️A game about building logic with lasers ](https://github.com/Stenodyon/blink)
   - [clashos🗒️multiplayer arcade game for bare metal Raspberry Pi 3 B+ ](https://github.com/andrewrk/clashos)
   - [curses-minesweeper🗒️Minesweeper game written in curses with zig ](https://github.com/Akuli/curses-minesweeper)
   - [fundude🗒️Gameboy emulator:Zig -> wasm ](https://github.com/fengb/fundude)
   - [gamejam-zig-vulkan🗒️A game written in ~1 day using zig and vulkan ](https://github.com/Avokadoen/gamejam-zig-vulkan)
+  - [hello-triangle🗒️Opens a window and draws a nice little triangle ](https://github.com/zig-community/hello-triangle)
   - [legend-of-swarkland🗒️Hack-n-slash roguelike inspired by NetHack ](https://github.com/thejoshwolfe/legend-of-swarkland)
   - [kisa🗒️Text editor of the new world ](https://github.com/greenfork/kisa)
   - [minesweeper-zig🗒️Simple Minesweeper clone written in Zig, using SDL for graphics. ](https://github.com/Ryp/minesweeper-zig)
@@ -185,6 +186,7 @@
   - [ZigPaint🗒️A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system. ](https://github.com/MasterQ32/ZigPaint)
   - [zig-raylib-experiments🗒️Some classic game implementations in Zig using raylib ](https://github.com/BitPuffin/zig-raylib-experiments)
   - [zig-raytrace🗒️simple raytracer in zig ](https://github.com/tiehuis/zig-raytrace)
+  - [Zig-Showdown🗒️A community effort to create a small multiplayer 3D shooter game in pure zig ](https://github.com/zig-community/Zig-Showdown)
   - [zig-vulkan-triangle🗒️simple triangle displayed using vulkan, glfw, and zig ](https://github.com/andrewrk/zig-vulkan-triangle)
   - [zig-wasm-snake🗒️Classic snake game written in Zig, compiled to WASM. ](https://github.com/holobeat/zig-wasm-snake)
   - [zootdeck🗒️Fediverse GTK Desktop Reader ](https://github.com/donpdonp/zootdeck)
@@ -424,6 +426,7 @@
 
   - [Learning the Zig programming language with help from its creator and core team - YouTube](https://www.youtube.com/watch?v=O4UYT-brgrc)
   - [learnopengl🗒️https://learnopengl.com tutorials ported to zig ](https://github.com/cshenton/learnopengl)
+  - [libc-to-zig🗒️Comparison between libc functions and their best fitting zig alternatives ](https://github.com/zig-community/libc-to-zig)
   - [zig-by-example.github.io🗒️learn Zig, by example](https://github.com/zig-by-example/zig-by-example.github.io)
   - [Zig Language Reference](https://ziglang.org/documentation/master/)
   - [ziglearn🗒️Repo for https://ziglearn.org content. Get up to speed with Zig quickly. ](https://github.com/Sobeston/ziglearn)
