@@ -341,6 +341,7 @@
     - [zigstr🗒️Zigstr is a UTF-8 string type for Zig programs. ](https://github.com/jecolon/zigstr)
     - [zig-string🗒️A String Library made in Zig ](https://github.com/JakubSzark/zig-string)
     - [zigtimsort🗒️TimSort implementation for Zig ](https://github.com/marijnfs/zigtimsort)
+    - [zort🗒️Implementation of 9 sorting algorithms in Zig ](https://github.com/AliChraghi/zort)
     - [zzz🗒️Simple and boring human readable data format for Zig. ](https://github.com/gruebite/zzz)
 
   - #### Memory Management
