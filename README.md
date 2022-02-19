@@ -227,6 +227,7 @@
   
 - ### Web
 
+  -  [astrolabe🗒️backend for https://astrolabe.pm](https://github.com/mattnite/astrolabe)
   -  [cosmic🗒️A simple and productive Javascript/WASM runtime. ](https://github.com/fubark/cosmic)
   -  [hello🗒️Multi-threaded cross-platform HTTP/1.1 web server example in Zig. ](https://github.com/lithdew/hello)
   -  [lua-in-the-browser🗒️using zig to build lua for webassembly ](https://github.com/andrewrk/lua-in-the-browser)
@@ -424,7 +425,9 @@
 
   - [libflightplan🗒️A library for reading and writing flight plans in various formats. Available as both a C and Zig library. ](https://github.com/mitchellh/libflightplan)
   - [zig-bench🗒️Simple benchmarking library](https://github.com/Hejsil/zig-bench)
+  - [zig-libcurl🗒️compile libcurl in your build.zig](https://github.com/mattnite/zig-libcurl)
   - [zig-pek🗒️A comptime HTML preprocessor with a builtin template engine for Zig. ](https://github.com/nektro/zig-pek)
+  - [zig-zlib🗒️compile zlib in your build.zig](https://github.com/mattnite/zig-zlib)
 
 
 ## Resources
