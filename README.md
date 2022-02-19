@@ -90,12 +90,15 @@
   - [svd2zig🗒️Convert System View Description (svd) files to Zig headers for baremetal development ](https://github.com/justinbalexander/svd2zig)
   - [tree-sitter-zig🗒️Tree Sitter for Zig](https://github.com/maxxnino/tree-sitter-zig)
   - [xmake🗒️🔥 A cross-platform build utility based on Lua ](https://github.com/xmake-io/xmake)
+  - [zig-autolua🗒️Lua binding creator for zig](https://github.com/daurnimator/zig-autolua)
   - [zig-diff🗒️Text diffing in zig ](https://github.com/tomhoule/zig-diff)
   - [zig-doctest🗒️A tool for testing snippets of code, useful for websites and books that talk about Zig. ](https://github.com/kristoff-it/zig-doctest)
   - [zigfmt-web🗒️zig fmt on the web ](https://github.com/shritesh/zigfmt-web)
   - [zig-header-gen🗒️Automatically generate headers/bindings for other languages from Zig code ](https://github.com/suirad/zig-header-gen)
   - [zig-pypi🗒️The Zig programming language, packaged for PyPI ](https://github.com/ziglang/zig-pypi)
+  - [zig-snapshots🗒️Preview Zig's incremental linker state in interactive HTML](https://github.com/kubkon/zig-snapshots)
   - [zigup🗒️Download and manage zig compilers. ](https://github.com/marler8997/zigup)
+  - [zld🗒️Zig's lld drop-in replacement](https://github.com/kubkon/zld)
   - [zls🗒️Zig LSP implementation + Zig Language Server ](https://github.com/zigtools/zls)
   
 
@@ -107,6 +110,7 @@
 
 - ### Command Line
 
+  - [calctax🗒️Simple tax calculator for employees in Poland after Nowy Lad changes in 2022](https://github.com/kubkon/calctax)
   - [crisp🗒️A Minimal Lispy Calculator ](https://github.com/rvcas/crisp)
   - [outfieldr🗒️A TLDR client in Zig.](https://gitlab.com/ve-nt/outfieldr)
   - [pbui-main🗒️The main repository for the PBUI project ](https://github.com/pbui-project/pbui-main)
@@ -123,14 +127,18 @@
   - [cmdlinezig🗒️A simple command line parser ](https://github.com/travisstaloch/cmdlinezig)
   - [hzzp 🗒️A I/O agnostic HTTP/1.1 parser and encoder for Zig.](https://github.com/truemedian/hzzp)
   - [ini🗒️A teeny tiny ini parser ](https://github.com/ziglibs/ini)
+  - [jng2-decrypt🗒️Small program for decrypting the Jets'n'Guns 2 game files](https://github.com/Hejsil/jng2-decrypt)
   - [koino🗒️CommonMark + GFM compatible Markdown parser and renderer ](https://github.com/kivikakk/koino)
   - [libpcre.zig🗒️Zig bindings to libpcre ](https://github.com/kivikakk/libpcre.zig)
   - [liz🗒️Lisp-flavored general-purpose programming language (based on Zig) ](https://github.com/dundalek/liz)
   - [LoLa🗒️LoLa is a small programming language meant to be embedded into games. ](https://github.com/MasterQ32/LoLa)
   - [luf🗒️Statically typed, embeddable, scripting language written in Zig. ](https://github.com/Luukdegram/luf)
+  - [protozig🗒️The protozig(uana), or protocol buffers implementation in Zig](https://github.com/kubkon/protozig)
   - [rem🗒️An HTML parsing library, written in Zig. ](https://github.com/chwayne/rem)
   - [rotate-zig🗒️a programming language written in zig ](https://github.com/Airbus5717/rotate-zig)
   - [tres🗒️ValueTree-based JSON parser ](https://github.com/ziglibs/tres)
+  - [zacho🗒️Zig's Mach-O parser](https://github.com/kubkon/zacho)
+  - [zelf🗒️Zig's ELF parser utility](https://github.com/kubkon/zelf)
   - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
   - [zigmkv🗒️wip Matroska/webm (mkv) parser in Zig ](https://github.com/vi/zigmkv)
   - [zig-parse-args🗒️Parse command line arguments. ](https://github.com/winksaville/zig-parse-args)
@@ -234,6 +242,7 @@
   - [geteltorito-zig🗒️ geteltorito re-write in Zig ](https://github.com/hspak/geteltorito-zig)
   - [hexdump-zip🗒️produce an annotated hexdump of a zipfile ](https://github.com/thejoshwolfe/hexdump-zip)
   - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
+  - [pacman.zig🗒️Simple Pacman clone written in Zig.](https://github.com/floooh/pacman.zig)
   - [wayfarer🗒️Experiments involving a Zig Wayland compositor. ](https://github.com/dominikh/wayfarer)
   - [ZigAndroidTemplate🗒️This repository contains a example on how to create a minimal Android app in Zig.](https://github.com/MasterQ32/ZigAndroidTemplate)
   - [zig-ios-example🗒️Minimal build.zig for targeting iOS ](https://github.com/kubkon/zig-ios-example)
@@ -253,6 +262,8 @@
 
 - ### Encryption / Encoding / Decoding
 
+  - [mecha🗒️A parser combinator library for Zig](https://github.com/Hejsil/mecha)
+  - [xm🗒️Tokenize XML](https://github.com/andrewrk/xml)
   - [zig-args🗒️Simple-to-use argument parser with struct-based config ](https://github.com/MasterQ32/zig-args)
   - [zig-charm🗒️A Zig version of the Charm crypto library. ](https://github.com/jedisct1/zig-charm)
   - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
@@ -302,6 +313,7 @@
   - [zplay🗒️A simple framework intended for game/tool creation. ](https://github.com/jack-ji/zplay)
   - [ZT🗒️A zig based Imgui Application framework ](https://github.com/JonSnowbd/ZT)
   - [zwin🗒️Making windows with Zig! (Only works on Windows at the moment) ](https://github.com/ziglibs/zwin)
+  - [ZWL🗒️Zig Windowing Library](https://github.com/Aransentin/ZWL)
 
 - ### Images
 
@@ -313,6 +325,7 @@
   - [ansi-term🗒️Zig library for dealing with ANSI terminals ](https://github.com/ziglibs/ansi-term)
   - [dos.zig🗒️Create DOS programs with Zig ](https://github.com/jayschwa/dos.zig)
   - [known-folders🗒️Provides access to well-known folders across several operating systems ](https://github.com/ziglibs/known-folders)
+  - [linenoize🗒️A port of linenoise to zig](https://github.com/joachimschmidt557/linenoize)
   - [lscolors🗒️A zig library for colorizing paths according to LS_COLORS ](https://github.com/ziglibs/lscolors)
   - [mibu🗒️Pure Zig library for low-level terminal manipulation. ](https://github.com/xyaman/mibu)
   - [nfd-zig🗒️OS-native file dialogs on Linux, macOS and Windows ](https://github.com/fabioarnold/nfd-zig)
@@ -327,6 +340,7 @@
 
     - [ArrayVec🗒️An array with a vector feeling in Zig ](https://github.com/DutchGhost/ArrayVec)
     - [art.zig🗒️An Adaptive Radix Tree ported from c ](https://github.com/travisstaloch/art.zig)
+    - [comptime_hash_map🗒️A statically initiated HashMap](https://github.com/Vexu/comptime_hash_map)
     - [deque.zig🗒️a lock free chase-lev deque for zig ](https://github.com/emekoi/deque.zig)
     - [fastfilter🗒️fastfilter:Binary fuse & xor filters for Zig (faster and smaller than bloom filters) ](https://github.com/hexops/fastfilter)
     - [ish🗒️Sketches for Zig ](https://github.com/judofyr/ish)
@@ -343,6 +357,7 @@
     - [zigstr🗒️Zigstr is a UTF-8 string type for Zig programs. ](https://github.com/jecolon/zigstr)
     - [zig-string🗒️A String Library made in Zig ](https://github.com/JakubSzark/zig-string)
     - [zigtimsort🗒️TimSort implementation for Zig ](https://github.com/marijnfs/zigtimsort)
+    - [ziter🗒️Best iterator library for Zig (fight me!)](https://github.com/Hejsil/ziter)
     - [zort🗒️Implementation of 9 sorting algorithms in Zig ](https://github.com/AliChraghi/zort)
     - [zzz🗒️Simple and boring human readable data format for Zig. ](https://github.com/gruebite/zzz)
 
@@ -404,6 +419,7 @@
 - ### Other Libraries
 
   - [libflightplan🗒️A library for reading and writing flight plans in various formats. Available as both a C and Zig library. ](https://github.com/mitchellh/libflightplan)
+  - [zig-bench🗒️Simple benchmarking library](https://github.com/Hejsil/zig-bench)
   - [zig-pek🗒️A comptime HTML preprocessor with a builtin template engine for Zig. ](https://github.com/nektro/zig-pek)
 
 
@@ -428,9 +444,11 @@
   - [learnopengl🗒️https://learnopengl.com tutorials ported to zig ](https://github.com/cshenton/learnopengl)
   - [libc-to-zig🗒️Comparison between libc functions and their best fitting zig alternatives ](https://github.com/zig-community/libc-to-zig)
   - [zig-by-example.github.io🗒️learn Zig, by example](https://github.com/zig-by-example/zig-by-example.github.io)
+  - [zig.internals🗒️An Unofficial Writeup on Zig Compiler Internals](https://github.com/mikdusan/zig.internals)
   - [Zig Language Reference](https://ziglang.org/documentation/master/)
   - [ziglearn🗒️Repo for https://ziglearn.org content. Get up to speed with Zig quickly. ](https://github.com/Sobeston/ziglearn)
   - [ziglings🗒️Learn the Zig programming language by fixing tiny broken programs. ](https://github.com/ratfactor/ziglings)
   - [Zig Standard Library Documentation](https://ziglang.org/documentation/master/std/)
   
+
 # The End
