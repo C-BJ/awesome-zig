@@ -336,6 +336,7 @@
   - [x86-zig🗒️library for assembling x86 in zig (WIP) ](https://github.com/momumi/x86-zig)
   - [zig-win32🗒️Bindings for win32, with and without WIN32_LEAN_AND_MEAN ](https://github.com/GoNZooo/zig-win32)
   - [zig-windows-console🗒️Zig Windows Console stuff ](https://github.com/ziglibs/zig-windows-console)
+  - [zinput🗒️A Zig command-line input library!](https://github.com/ziglibs/zinput)
 
 - ### Universal
 
@@ -347,6 +348,7 @@
     - [comptime_hash_map🗒️A statically initiated HashMap](https://github.com/Vexu/comptime_hash_map)
     - [deque.zig🗒️a lock free chase-lev deque for zig ](https://github.com/emekoi/deque.zig)
     - [fastfilter🗒️fastfilter:Binary fuse & xor filters for Zig (faster and smaller than bloom filters) ](https://github.com/hexops/fastfilter)
+    - [funzig🗒️Fun functional functionality for Zig!](https://github.com/ziglibs/funzig)
     - [ish🗒️Sketches for Zig ](https://github.com/judofyr/ish)
     - [it/redis-cuckoofilter🗒️Hashing-function agnostic Cuckoo filters for Redis ](https://github.com/kristoff-it/redis-cuckoofilter)
     - [Lazy-Zig🗒️Linq in Zig ](https://github.com/BraedonWooding/Lazy-Zig)
@@ -367,7 +369,7 @@
 
   - #### Memory Management
 
-    - [adma🗒️A general purpose, multithreaded capable slab allocator for Zig ](https://github.com/suirad/adma)
+    - [adma🗒️A general purpose, multithreaded capable slab allocatA Zig command-line input library!or for Zig ](https://github.com/suirad/adma)
     - [Seal🗒️An allocator that wraps another allocator and detects if memory is leaked after usage ](https://github.com/suirad/Seal)
     - [zee_alloc🗒️tiny Zig allocator primarily targeting WebAssembly ](https://github.com/fengb/zee_alloc)
     - [ziegfried🗒️A general-purpose memory allocator for Zig ](https://github.com/mdsteele/ziegfried)
@@ -377,6 +379,7 @@
 
   - #### Other Universal Libraries
 
+    - [Comptime Templates](https://github.com/ziglibs/comptemplate)
     - [getty🗒️Serialization framework for Zig ](https://github.com/getty-zig/getty)
     - [interface.zig🗒️Dynamic dispatch for zig made easy ](https://github.com/alexnask/interface.zig)
     - [log.zig🗒️a thread-safe logging library for zig. ](https://github.com/emekoi/log.zig)
@@ -392,7 +395,7 @@
     - [zig-range🗒️A range function to loop over an index without an extra variable. ](https://github.com/nektro/zig-range)
     - [zig-regex🗒️A regex implementation for the zig programming language ](https://github.com/tiehuis/zig-regex)
     - [zig-time🗒️A date and time parsing and formatting library for Zig. ](https://github.com/nektro/zig-time)
-    - [zig-ulid🗒️A binary implementation of ULID in Zig. ](https://github.com/nektro/zig-ulid)
+    - [zig-ulid🗒️A binary implementation of ULID in Zig. A Zig command-line input library!](https://github.com/nektro/zig-ulid)
     - [zig-zorm🗒️An ORM-ish library for Zig. ](https://github.com/nektro/zig-zorm)
     - [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig. ](https://github.com/ranciere/zoltan)
 
@@ -426,6 +429,7 @@
   - [libflightplan🗒️A library for reading and writing flight plans in various formats. Available as both a C and Zig library. ](https://github.com/mitchellh/libflightplan)
   - [zig-bench🗒️Simple benchmarking library](https://github.com/Hejsil/zig-bench)
   - [zig-libcurl🗒️compile libcurl in your build.zig](https://github.com/mattnite/zig-libcurl)
+  - [zig-lv2🗒️Zig-intuitive bindings for LV2.](https://github.com/ziglibs/zig-lv2)
   - [zig-pek🗒️A comptime HTML preprocessor with a builtin template engine for Zig. ](https://github.com/nektro/zig-pek)
   - [zig-zlib🗒️compile zlib in your build.zig](https://github.com/mattnite/zig-zlib)
 
