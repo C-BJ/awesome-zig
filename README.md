@@ -1,7 +1,5 @@
 # Awesome Zig
 
-**This guide is still in the early stages of compilation. Please look forward to the development of this guide!**
-
 > 📜Zig Learning & Usage Guide.
 
 [<img src="https://ziglang.org/zig-logo-light.svg" align="right" width="100">](https://ziglang.org)
