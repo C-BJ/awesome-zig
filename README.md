@@ -241,6 +241,7 @@
   - [computils🗒️Zig utilities for all your comptime needs. ](https://github.com/ziglibs/computils)
   - [geteltorito-zig🗒️ geteltorito re-write in Zig ](https://github.com/hspak/geteltorito-zig)
   - [hexdump-zip🗒️produce an annotated hexdump of a zipfile ](https://github.com/thejoshwolfe/hexdump-zip)
+  - [iguanaTLS🗒️Minimal, experimental TLS 1.2 implementation in Zig](https://github.com/alexnask/iguanaTLS)
   - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
   - [pacman.zig🗒️Simple Pacman clone written in Zig.](https://github.com/floooh/pacman.zig)
   - [wayfarer🗒️Experiments involving a Zig Wayland compositor. ](https://github.com/dominikh/wayfarer)
@@ -264,6 +265,7 @@
 
   - [mecha🗒️A parser combinator library for Zig](https://github.com/Hejsil/mecha)
   - [xm🗒️Tokenize XML](https://github.com/andrewrk/xml)
+  - [zdwg🗒️Read, manipulate, write AutoCad DWG files in zig](https://github.com/alexnask/zdwg)
   - [zig-args🗒️Simple-to-use argument parser with struct-based config ](https://github.com/MasterQ32/zig-args)
   - [zig-charm🗒️A Zig version of the Charm crypto library. ](https://github.com/jedisct1/zig-charm)
   - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
@@ -340,6 +342,7 @@
 
     - [ArrayVec🗒️An array with a vector feeling in Zig ](https://github.com/DutchGhost/ArrayVec)
     - [art.zig🗒️An Adaptive Radix Tree ported from c ](https://github.com/travisstaloch/art.zig)
+    - [ctregex.zig🗒️Compile time regular expressions in zig](https://github.com/alexnask/ctregex.zig)
     - [comptime_hash_map🗒️A statically initiated HashMap](https://github.com/Vexu/comptime_hash_map)
     - [deque.zig🗒️a lock free chase-lev deque for zig ](https://github.com/emekoi/deque.zig)
     - [fastfilter🗒️fastfilter:Binary fuse & xor filters for Zig (faster and smaller than bloom filters) ](https://github.com/hexops/fastfilter)
@@ -376,6 +379,7 @@
     - [getty🗒️Serialization framework for Zig ](https://github.com/getty-zig/getty)
     - [interface.zig🗒️Dynamic dispatch for zig made easy ](https://github.com/alexnask/interface.zig)
     - [log.zig🗒️a thread-safe logging library for zig. ](https://github.com/emekoi/log.zig)
+    - [PeerType🗒️Zig peer type resolution at comptime, ported from the compiler source code](https://github.com/alexnask/PeerType)
     - [sokol🗒️minimal cross-platform standalone C headers ](https://github.com/floooh/sokol)
     - [sokol-zig🗒️Zig bindings for the sokol headers (https://github.com/floooh/sokol)](https://github.com/floooh/sokol-zig)
     - [zap🗒️An asynchronous runtime with a focus on performance and resource efficiency. ](https://github.com/kprotty/zap)
