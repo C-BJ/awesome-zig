@@ -15,13 +15,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Keep descriptions short and simple
 - Check your spelling and grammar
 - New categories, or improvements to the existing categorisation are welcome
-- Use Proper commit message in order to stay listed for our awesome contributors
+- Use appropriate commit message to facilitate review
 - Welcome project authors to submit projects
-
-## Main To Do List
-- Add and improve categories
-- Refine project description
-- Add more projects
 
 ## Removing Projects
 We don't remove projects unless they are outright broken or pronounced deprecated by another project or by its author
