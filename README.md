@@ -236,14 +236,14 @@
   -  [zwld🗒️Experimental wasm linker ](https://github.com/Luukdegram/zwld)
 
 - ### Other Applications
-
-  - [computils🗒️Zig utilities for all your comptime needs. ](https://github.com/ziglibs/computils)
-  - [geteltorito-zig🗒️ geteltorito re-write in Zig ](https://github.com/hspak/geteltorito-zig)
-  - [hexdump-zip🗒️produce an annotated hexdump of a zipfile ](https://github.com/thejoshwolfe/hexdump-zip)
+  - [bun🗒️Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.](https://github.com/Jarred-Sumner/bun)
+  - [computils🗒️Zig utilities for all your comptime needs.](https://github.com/ziglibs/computils)
+  - [geteltorito-zig🗒️ geteltorito re-write in Zig](https://github.com/hspak/geteltorito-zig)
+  - [hexdump-zip🗒️produce an annotated hexdump of a zipfile](https://github.com/thejoshwolfe/hexdump-zip)
   - [iguanaTLS🗒️Minimal, experimental TLS 1.2 implementation in Zig](https://github.com/alexnask/iguanaTLS)
   - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
   - [pacman.zig🗒️Simple Pacman clone written in Zig.](https://github.com/floooh/pacman.zig)
-  - [wayfarer🗒️Experiments involving a Zig Wayland compositor. ](https://github.com/dominikh/wayfarer)
+  - [wayfarer🗒️Experiments involving a Zig Wayland compositor.](https://github.com/dominikh/wayfarer)
   - [ZigAndroidTemplate🗒️This repository contains a example on how to create a minimal Android app in Zig.](https://github.com/MasterQ32/ZigAndroidTemplate)
   - [zig-ios-example🗒️Minimal build.zig for targeting iOS ](https://github.com/kubkon/zig-ios-example)
   - [zig-minisign🗒️Minisign reimplemented in Zig. ](https://github.com/jedisct1/zig-minisign)
