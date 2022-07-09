@@ -10,6 +10,8 @@
 
 **Note🗒️An project may also be a development tool, application, library or other category, but it will only appear once in this guide.**
 
+**🔥 Will be added in front of applications or libraries with more than 500 Star**
+
 ## Table Of Contents
 
 - [Related Web Sites](#related-web-sites)
