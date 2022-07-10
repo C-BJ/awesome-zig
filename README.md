@@ -240,6 +240,7 @@
 - ### Other Applications
   - [bun🗒️Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.](https://github.com/Jarred-Sumner/bun)
   - [computils🗒️Zig utilities for all your comptime needs.](https://github.com/ziglibs/computils)
+  - [cosmic🗒️A general purpose runtime for Javascript/WASM.](https://github.com/fubark/cosmic)
   - [geteltorito-zig🗒️ geteltorito re-write in Zig](https://github.com/hspak/geteltorito-zig)
   - [hexdump-zip🗒️produce an annotated hexdump of a zipfile](https://github.com/thejoshwolfe/hexdump-zip)
   - [iguanaTLS🗒️Minimal, experimental TLS 1.2 implementation in Zig](https://github.com/alexnask/iguanaTLS)
