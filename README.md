@@ -140,6 +140,7 @@
   - [zacho🗒️Zig's Mach-O parser](https://github.com/kubkon/zacho)
   - [zelf🗒️Zig's ELF parser utility](https://github.com/kubkon/zelf)
   - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
+  - [zig-cli🗒️A simple package for building command line apps in Zig](https://github.com/sam701/zig-cli)
   - [zigmkv🗒️wip Matroska/webm (mkv) parser in Zig ](https://github.com/vi/zigmkv)
   - [zig-parse-args🗒️Parse command line arguments. ](https://github.com/winksaville/zig-parse-args)
   - [zig-parse-number🗒️Implement ParseNumber which can parse any TypeId.Int or TypeId.Float. ](https://github.com/winksaville/zig-parse-number)
