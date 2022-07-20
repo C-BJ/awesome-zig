@@ -25,7 +25,7 @@
   - [Compiler / Parser / Interpreter](#compiler--parser--interpreter)
   - [Database](#database)
   - [Embedded](#embedded)
-  - [Game and Desktop(GUI) Applications](#game-and-desktop(gui)-applications)
+  - [Game and Desktop(GUI) Applications](#game-and-desktopgui-applications)
   - [Operating Systems / Kernels](#operating-systems--kernels)
   - [Simulator](#simulator)
   - [Web](#web)
