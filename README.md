@@ -278,6 +278,7 @@
 - ### Game Dev and GUI Dev
 
   - [Alka🗒️Simple, fast, easy to get started mid-level game engine written in Zig ](https://github.com/Kiakra/Alka)
+  - [capy🗒️Cross-platform library for making true native GUIs in Zig](https://github.com/capy-ui/capy)
   - [cupcake🗒️an app framework for making small and delicious games! (very wip) ](https://github.com/bootradev/cupcake)
   - [didot🗒️Zig 3D game engine. ](https://github.com/zenith391/didot)
   - [IUPforZig🗒️Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit ](https://github.com/batiati/IUPforZig)
@@ -297,7 +298,6 @@
   - 🔥[wasm4🗒️Build retro games using WebAssembly for a fantasy console. ](https://github.com/aduros/wasm4)
   - [zalgebra🗒️Linear algebra library for games and real-time graphics. ](https://github.com/kooparse/zalgebra)
   - [zero-graphics🗒️Application framework based on OpenGL ES 2.0. Runs on desktop machines, Android phones and the web ](https://github.com/MasterQ32/zero-graphics)
-  - [zgt🗒️Zig GUI Toolkit:Portable library for making native GUIs in Zig ](https://github.com/zenith391/zgt)
   - [zgl🗒️Zig OpenGL Wrapper ](https://github.com/ziglibs/zgl)
   - [zglfw🗒️A thin, idiomatic wrapper for GLFW. Written in Zig, for Zig! ](https://github.com/Iridescence-Technologies/zglfw)
   - [zig-gamedev-lib🗒️xq's Zig Game Development Library ](https://github.com/MasterQ32/zig-gamedev-lib)
