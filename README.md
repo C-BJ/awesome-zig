@@ -211,6 +211,7 @@
   - [Lukarnel🗒️A microkernel in zig with rust microservices ](https://github.com/DorianXGH/Lukarnel)
   - [microzig🗒️Unified abstraction layer and HAL for several microcontrollers ](https://github.com/ZigEmbeddedGroup/microzig)
   - [pluto🗒️An x86 kernel written in Zig ](https://github.com/ZystemOS/pluto)
+  - [tizr80🗒️TiZr80, a TI-84+ CE/TI-83 Premium CE calculator emulator core](https://github.com/jacobly0/tizr80)
   - [trOS🗒️tiny aarch64 baremetal OS thingy ](https://github.com/sjdh02/trOS)
   - [uefi-examples🗒️UEFI examples in Zig ](https://github.com/nrdmn/uefi-examples)
   - [ZBZZ.OS🗒️An operating system built with RISCV and Zig ](https://github.com/ZeeBoppityZagZiggity/ZBZZ.OS)
