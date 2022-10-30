@@ -249,6 +249,7 @@
   - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ](https://github.com/mqttiotstuff/iotmonitor)
   - [pacman.zig🗒️Simple Pacman clone written in Zig.](https://github.com/floooh/pacman.zig)
   - [wayfarer🗒️Experiments involving a Zig Wayland compositor.](https://github.com/dominikh/wayfarer)
+  - [Zag-Smalltalk🗒️Smalltalk VM Written in Zig with methods stored as type-annotated ASTs](https://github.com/dvmason/Zag-Smalltalk)
   - [ZigAndroidTemplate🗒️This repository contains a example on how to create a minimal Android app in Zig.](https://github.com/MasterQ32/ZigAndroidTemplate)
   - [zig-ios-example🗒️Minimal build.zig for targeting iOS ](https://github.com/kubkon/zig-ios-example)
   - [zig-minisign🗒️Minisign reimplemented in Zig. ](https://github.com/jedisct1/zig-minisign)
