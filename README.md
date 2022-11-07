@@ -373,7 +373,7 @@
 
   - #### Memory Management
 
-    - [adma🗒️A general purpose, multithreaded capable slab allocatA Zig command-line input library!or for Zig ](https://github.com/suirad/adma)
+    - [adma🗒️A general purpose, multithreaded capable slab allocator for Zig ](https://github.com/suirad/adma)
     - [Seal🗒️An allocator that wraps another allocator and detects if memory is leaked after usage ](https://github.com/suirad/Seal)
     - [zee_alloc🗒️tiny Zig allocator primarily targeting WebAssembly ](https://github.com/fengb/zee_alloc)
     - [ziegfried🗒️A general-purpose memory allocator for Zig ](https://github.com/mdsteele/ziegfried)
@@ -399,7 +399,7 @@
     - [zig-range🗒️A range function to loop over an index without an extra variable. ](https://github.com/nektro/zig-range)
     - [zig-regex🗒️A regex implementation for the zig programming language ](https://github.com/tiehuis/zig-regex)
     - [zig-time🗒️A date and time parsing and formatting library for Zig. ](https://github.com/nektro/zig-time)
-    - [zig-ulid🗒️A binary implementation of ULID in Zig. A Zig command-line input library!](https://github.com/nektro/zig-ulid)
+    - [zig-ulid🗒️A binary implementation of ULID in Zig.](https://github.com/nektro/zig-ulid)
     - [zig-zorm🗒️An ORM-ish library for Zig. ](https://github.com/nektro/zig-zorm)
     - [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig. ](https://github.com/ranciere/zoltan)
 
