@@ -390,6 +390,7 @@
     - [PeerType🗒️Zig peer type resolution at comptime, ported from the compiler source code](https://github.com/alexnask/PeerType)
     - [sokol🗒️minimal cross-platform standalone C headers ](https://github.com/floooh/sokol)
     - [sokol-zig🗒️Zig bindings for the sokol headers (https://github.com/floooh/sokol)](https://github.com/floooh/sokol-zig)
+    - [trace.zig🗒️A small and simple tracing client library for Zig. ](https://gitlab.com/zig_tracing/trace.zig)
     - [zap🗒️An asynchronous runtime with a focus on performance and resource efficiency. ](https://github.com/kprotty/zap)
     - [zig-datetime🗒️A date and time module for Zig ](https://github.com/frmdstryr/zig-datetime)
     - [zig-extras🗒️An assortment of random utility functions that aren't in std and don't deserve their own pacakge. ](https://github.com/nektro/zig-extras)
