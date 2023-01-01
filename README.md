@@ -368,6 +368,7 @@
     - [zig-string🗒️A String Library made in Zig ](https://github.com/JakubSzark/zig-string)
     - [zigtimsort🗒️TimSort implementation for Zig ](https://github.com/marijnfs/zigtimsort)
     - [ziter🗒️Best iterator library for Zig (fight me!)](https://github.com/Hejsil/ziter)
+    - [znum🗒️Simple numeric tower implemented on Zig standard types](https://hg.sr.ht/~hutzdog/Zcheme/browse/znum?rev=tip)
     - [zort🗒️Implementation of 9 sorting algorithms in Zig ](https://github.com/AliChraghi/zort)
     - [zzz🗒️Simple and boring human readable data format for Zig. ](https://github.com/gruebite/zzz)
 
