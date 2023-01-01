@@ -138,6 +138,7 @@
   - [rotate-zig🗒️a programming language written in zig ](https://github.com/Airbus5717/rotate-zig)
   - [tres🗒️ValueTree-based JSON parser ](https://github.com/ziglibs/tres)
   - [zacho🗒️Zig's Mach-O parser](https://github.com/kubkon/zacho)
+  - [zcheme🗒️WIP implementation of R7RS Scheme](https://hg.sr.ht/~hutzdog/Zcheme)
   - [zelf🗒️Zig's ELF parser utility](https://github.com/kubkon/zelf)
   - [zexpr🗒️Zig S-expression library](https://hg.sr.ht/~hutzdog/Zcheme/browse/zexpr?rev=tip)
   - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
