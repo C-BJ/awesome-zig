@@ -138,7 +138,9 @@
   - [rotate-zig🗒️a programming language written in zig ](https://github.com/Airbus5717/rotate-zig)
   - [tres🗒️ValueTree-based JSON parser ](https://github.com/ziglibs/tres)
   - [zacho🗒️Zig's Mach-O parser](https://github.com/kubkon/zacho)
+  - [zcheme🗒️WIP implementation of R7RS Scheme](https://hg.sr.ht/~hutzdog/Zcheme)
   - [zelf🗒️Zig's ELF parser utility](https://github.com/kubkon/zelf)
+  - [zexpr🗒️Zig S-expression library](https://hg.sr.ht/~hutzdog/Zcheme/browse/zexpr?rev=tip)
   - [zig-clap🗒️Simple command line argument parsing library ](https://github.com/Hejsil/zig-clap)
   - [zig-cli🗒️A simple package for building command line apps in Zig](https://github.com/sam701/zig-cli)
   - [zigmkv🗒️wip Matroska/webm (mkv) parser in Zig ](https://github.com/vi/zigmkv)
@@ -368,6 +370,7 @@
     - [zig-string🗒️A String Library made in Zig ](https://github.com/JakubSzark/zig-string)
     - [zigtimsort🗒️TimSort implementation for Zig ](https://github.com/marijnfs/zigtimsort)
     - [ziter🗒️Best iterator library for Zig (fight me!)](https://github.com/Hejsil/ziter)
+    - [znum🗒️Simple numeric tower implemented on Zig standard types](https://hg.sr.ht/~hutzdog/Zcheme/browse/znum?rev=tip)
     - [zort🗒️Implementation of 9 sorting algorithms in Zig ](https://github.com/AliChraghi/zort)
     - [zzz🗒️Simple and boring human readable data format for Zig. ](https://github.com/gruebite/zzz)
 
