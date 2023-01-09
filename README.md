@@ -149,6 +149,7 @@
   - [zig-regex🗒️A regex implementation for the zig programming language ](https://github.com/tiehuis/zig-regex)
   - [zig-ryu🗒️Zig port of https://github.com/ulfjack/ryu](https://github.com/tiehuis/zig-ryu)
   - [zig-toml🗒️A TOML parser written in Zig ](https://github.com/aeronavery/zig-toml)
+  - [zig-toml🗒️An LL TOML parser that parses into Zig structs ](https://github.com/sam701/zig-toml)
   - [zig-json5🗒️A JSON5 Parser/Stringifier written in Zig](https://github.com/Himujjal/zig-json5)
   - [ziguid🗒️GUID parsing/stringifying with zig ](https://github.com/goto-bus-stop/ziguid)
   - [zig-yaml🗒️YAML parser for Zig ](https://github.com/kubkon/zig-yaml)
