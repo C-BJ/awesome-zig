@@ -152,6 +152,7 @@
   - [zig-json5🗒️A JSON5 Parser/Stringifier written in Zig](https://github.com/Himujjal/zig-json5)
   - [ziguid🗒️GUID parsing/stringifying with zig ](https://github.com/goto-bus-stop/ziguid)
   - [zig-yaml🗒️YAML parser for Zig ](https://github.com/kubkon/zig-yaml)
+  - [ztoml🗒️TOMLv1.0.0 parser](https://codeberg.org/naneros/ztoml.git)
   - [zuri🗒️URI parser for Zig ](https://github.com/Vexu/zuri)
 
 - ### Database
