@@ -155,6 +155,7 @@
   - [zig-yaml🗒️YAML parser for Zig ](https://github.com/kubkon/zig-yaml)
   - [ztoml🗒️TOMLv1.0.0 parser](https://codeberg.org/naneros/ztoml.git)
   - [zuri🗒️URI parser for Zig ](https://github.com/Vexu/zuri)
+  - [cyber🗒️Fast and concurrent scripting.](https://github.com/fubark/cyber)
 
 - ### Database
   
