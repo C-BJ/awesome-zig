@@ -125,6 +125,7 @@
   - [bog🗒️Small, strongly typed, embeddable language. ](https://github.com/Vexu/bog)
   - [brainfuck-zig🗒️Brainfuck interpreter written in zig ](https://github.com/dantecatalfamo/brainfuck-zig)
   - [cmdlinezig🗒️A simple command line parser ](https://github.com/travisstaloch/cmdlinezig)
+  - [cyber🗒️Fast and concurrent scripting.](https://github.com/fubark/cyber)
   - [hzzp 🗒️A I/O agnostic HTTP/1.1 parser and encoder for Zig.](https://github.com/truemedian/hzzp)
   - [ini🗒️A teeny tiny ini parser ](https://github.com/ziglibs/ini)
   - [jng2-decrypt🗒️Small program for decrypting the Jets'n'Guns 2 game files](https://github.com/Hejsil/jng2-decrypt)
