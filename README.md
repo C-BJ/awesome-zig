@@ -58,7 +58,6 @@
 - [Learning Zig](https://ziglearn.org/)
 - [Zig Monthly](https://zigmonthly.org/)
 - [Zig Showtime](https://zig.show/)
-- [Zig.Run](https://zig.run/)
 - [Zig Playground](https://zig-play.dev/)
 - [Andrew Kelley's  (founder of zig) Personal Blog](https://andrewkelley.me/)
 - [Loris Cro's Personal Blog](https://kristoff.it/)
