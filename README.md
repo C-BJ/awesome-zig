@@ -436,6 +436,7 @@
   - [zhp🗒️A Http server written in Zig ](https://github.com/frmdstryr/zhp)
   - [zigdig🗒️naive dns client library in zig ](https://github.com/lun-4/zigdig)
   - [zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig. ](https://github.com/jedisct1/zigly)
+  - [zig-dns🗒️Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
   - [zig-network🗒️A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP ](https://github.com/MasterQ32/zig-network)
   - [zig-oauth2🗒️HTTP handler functions to allow you to easily add OAuth2 login support to your Zig application ](https://github.com/nektro/zig-oauth2)
   - [zig-v8🗒️Simple V8 builds with C and Zig bindings. ](https://github.com/fubark/zig-v8)
