@@ -396,6 +396,7 @@
     - [diffz🗒️Implementation of go-diff's diffmatchpatch in Zig](https://github.com/ziglibs/diffz)
     - [getty🗒️Serialization framework for Zig ](https://github.com/getty-zig/getty)
     - [interface.zig🗒️Dynamic dispatch for zig made easy ](https://github.com/alexnask/interface.zig)
+    - [libxev🗒️libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.](https://github.com/mitchellh/libxev)
     - [log.zig🗒️a thread-safe logging library for zig. ](https://github.com/emekoi/log.zig)
     - [PeerType🗒️Zig peer type resolution at comptime, ported from the compiler source code](https://github.com/alexnask/PeerType)
     - [sokol🗒️minimal cross-platform standalone C headers ](https://github.com/floooh/sokol)
