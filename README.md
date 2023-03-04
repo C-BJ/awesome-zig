@@ -161,7 +161,7 @@
   
   - [redis-cuckoofilter🗒️Hashing-function agnostic Cuckoo filters for Redis ](https://github.com/kristoff-it/redis-cuckoofilter)
   - [sqlite-zig SQLite bindings ](https://github.com/leroycep/sqlite-zig)
-  - [tigerbeetle🗒️A distributed financial accounting database designed for mission critical safety and performance to power the future of financial services. ](https://github.com/coilhq/tigerbeetle)
+  - [tigerbeetle🗒️🔥A distributed financial accounting database designed for mission critical safety and performance to power the future of financial services. ](https://github.com/coilhq/tigerbeetle)
   - [zig-cassandra🗒️Cassandra CQL client ](https://github.com/vrischmann/zig-cassandra)
   - [zig-okredis🗒️Zero-allocation Client for Redis 6+ ](https://github.com/kristoff-it/zig-okredis)
   - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
