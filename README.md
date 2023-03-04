@@ -22,22 +22,23 @@
 - [Applications](#applications)
   - [Blockchain](#blockchain)
   - [Command Line](#command-line)
-  - [Compiler / Parser / Interpreter](#compiler--parser--interpreter)
+  - [Compiler & Parser & Interpreter](#compiler--parser--interpreter)
   - [Database](#database)
   - [Embedded](#embedded)
   - [Game and Desktop(GUI) Applications](#game-and-desktopgui-applications)
-  - [Operating Systems / Kernels](#operating-systems--kernels)
+  - [Operating Systems & Kernels](#operating-systems--kernels)
   - [Simulator](#simulator)
   - [Web](#web)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
   - [Database Operation](#database-operation)
-  - [Encryption / Encoding / Decoding](#encryption--encoding--decoding)
-  - [Game Dev and GUI Dev](#game-dev-and-gui-dev)
+  - [Encryption & Encoding & Decoding](#encryption--encoding--decoding)
+  - [Game Dev & GUI Dev & Media Framework](#game-dev--gui-dev--media-framework)
   - [Images](#images)
-  - [Terminal / Low-Level Libraries / System API](#terminal--low-level-libraries--system-api)
+  - [Language Bindings](#language-bindings)
+  - [Terminal & Low-Level Libraries & System API](#terminal--low-level-libraries--system-api)
   - [Universal](#universal)
-    - [Algorithms and Data Structures](#algorithms-and-data-structures)
+    - [Algorithms & Data Structures](#algorithms--data-structures)
     - [Memory Management](#memory-management)
     - [Other Universal Libraries](#other-universal-libraries)
   - [Web](#web)
@@ -349,7 +350,7 @@
   - [zig-autolua🗒️Lua binding creator for zig](https://github.com/daurnimator/zig-autolua)
 
 
-- ### Terminal / Low-Level Libraries / System API
+- ### Terminal & Low-Level Libraries & System API
 
   - [ansi-term🗒️Zig library for dealing with ANSI terminals](https://github.com/ziglibs/ansi-term)
   - [dos.zig🗒️Create DOS programs with Zig](https://github.com/jayschwa/dos.zig)
