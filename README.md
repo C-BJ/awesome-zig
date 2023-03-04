@@ -269,11 +269,13 @@
 
   - [lithdew/lmdb-zig🗒️Lightweight, fully-featured, idiomatic cross-platform Zig bindings to Lightning Memory-Mapped Database (LMDB).](https://github.com/lithdew/lmdb-zig)
   - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
+  - [zdb🗒️Allocator-free document oriented database management](https://github.com/ziglibs/zdb)
   - [zig-sqlite3🗒️sqlite3 wrapper for Zig ](https://github.com/nektro/zig-sqlite3)
 
 - ### Encryption / Encoding / Decoding
 
   - [mecha🗒️A parser combinator library for Zig](https://github.com/Hejsil/mecha)
+  - [s2s🗒️A zig binary serialization format.](https://github.com/ziglibs/s2s)
   - [xm🗒️Tokenize XML](https://github.com/andrewrk/xml)
   - [zdwg🗒️Read, manipulate, write AutoCad DWG files in zig](https://github.com/alexnask/zdwg)
   - [zig-args🗒️Simple-to-use argument parser with struct-based config ](https://github.com/MasterQ32/zig-args)
@@ -374,6 +376,7 @@
     - [zigtimsort🗒️TimSort implementation for Zig ](https://github.com/marijnfs/zigtimsort)
     - [ziter🗒️Best iterator library for Zig (fight me!)](https://github.com/Hejsil/ziter)
     - [znum🗒️Simple numeric tower implemented on Zig standard types](https://hg.sr.ht/~hutzdog/Zcheme/browse/znum?rev=tip)
+    - [zorm🗒️Lightweight and efficient object-relational mapping](https://github.com/ziglibs/zorm)
     - [zort🗒️Implementation of 9 sorting algorithms in Zig ](https://github.com/AliChraghi/zort)
     - [zzz🗒️Simple and boring human readable data format for Zig. ](https://github.com/gruebite/zzz)
 
@@ -408,7 +411,6 @@
     - [zig-regex🗒️A regex implementation for the zig programming language ](https://github.com/tiehuis/zig-regex)
     - [zig-time🗒️A date and time parsing and formatting library for Zig. ](https://github.com/nektro/zig-time)
     - [zig-ulid🗒️A binary implementation of ULID in Zig.](https://github.com/nektro/zig-ulid)
-    - [zig-zorm🗒️An ORM-ish library for Zig. ](https://github.com/nektro/zig-zorm)
     - [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig. ](https://github.com/ranciere/zoltan)
 
 - ### Web
