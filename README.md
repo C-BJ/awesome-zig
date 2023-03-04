@@ -76,7 +76,7 @@
 - ### Package Managers
 
   - [asdf-zig🗒️zig plugin for asdf version manager](https://github.com/cheetah/asdf-zig)
-  - [gyro🗒️A Zig package manager with an index, build runner, and build dependencies. ](https://github.com/mattnite/gyro)
+  - [gyro🗒️🔥A Zig package manager with an index, build runner, and build dependencies. ](https://github.com/mattnite/gyro)
   - [zpm🗒️Package dependency generator; WIP ](https://github.com/zigtools/zpm)
   - [zigmod🗒️📦 A package manager for the Zig programming language. ](https://github.com/nektro/zigmod)
 
@@ -99,7 +99,7 @@
   - [zig-snapshots🗒️Preview Zig's incremental linker state in interactive HTML](https://github.com/kubkon/zig-snapshots)
   - [zigup🗒️Download and manage zig compilers. ](https://github.com/marler8997/zigup)
   - [zld🗒️Zig's lld drop-in replacement](https://github.com/kubkon/zld)
-  - [zls🗒️Zig LSP implementation + Zig Language Server ](https://github.com/zigtools/zls)
+  - [zls🗒️🔥Zig LSP implementation + Zig Language Server ](https://github.com/zigtools/zls)
   
 
 ## Applications
@@ -124,6 +124,7 @@
   - [base32🗒️base32 encoding/decoding for ziglang ](https://github.com/gernest/base32)
   - [bog🗒️Small, strongly typed, embeddable language. ](https://github.com/Vexu/bog)
   - [brainfuck-zig🗒️Brainfuck interpreter written in zig ](https://github.com/dantecatalfamo/brainfuck-zig)
+  - [buzz🗒️🔥buzz, A small/lightweight statically typed scripting language (in development)](https://github.com/buzz-language/buzz)
   - [cmdlinezig🗒️A simple command line parser ](https://github.com/travisstaloch/cmdlinezig)
   - [cyber🗒️Fast and concurrent scripting.](https://github.com/fubark/cyber)
   - [hzzp 🗒️A I/O agnostic HTTP/1.1 parser and encoder for Zig.](https://github.com/truemedian/hzzp)
@@ -288,7 +289,7 @@
 - ### Game Dev and GUI Dev
 
   - [Alka🗒️Simple, fast, easy to get started mid-level game engine written in Zig ](https://github.com/Kiakra/Alka)
-  - [capy🗒️Cross-platform library for making true native GUIs in Zig](https://github.com/capy-ui/capy)
+  - [capy🗒️🔥Cross-platform library for making true native GUIs in Zig](https://github.com/capy-ui/capy)
   - [cupcake🗒️an app framework for making small and delicious games! (very wip) ](https://github.com/bootradev/cupcake)
   - [didot🗒️Zig 3D game engine. ](https://github.com/zenith391/didot)
   - [IUPforZig🗒️Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit ](https://github.com/batiati/IUPforZig)
