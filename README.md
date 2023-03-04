@@ -137,7 +137,6 @@
   - [luf🗒️Statically typed, embeddable, scripting language written in Zig](https://github.com/Luukdegram/luf)
   - [protozig🗒️The protozig(uana), or protocol buffers implementation in Zig](https://github.com/kubkon/protozig)
   - [rem🗒️An HTML parsing library, written in Zig](https://github.com/chwayne/rem)
-  - [rotate-zig🗒️a programming language written in zig](https://github.com/Airbus5717/rotate-zig)
   - [tres🗒️ValueTree-based JSON parser](https://github.com/ziglibs/tres)
   - [zacho🗒️Zig's Mach-O parser](https://github.com/kubkon/zacho)
   - [zcheme🗒️WIP implementation of R7RS Scheme](https://hg.sr.ht/~hutzdog/Zcheme)
@@ -232,7 +231,6 @@
 
   - [chip8-zig🗒️A CHIP-8 emulator written in Zig](https://github.com/GrooveStomp/chip8-zig)
   - [ChipZ🗒️A simple Chip8 emulator (executable and library) written in Zig](https://github.com/Arwalk/ChipZ)
-  - [ichigo🗒️WIP🍓 Virtual Boy emulator](https://github.com/sourgrasses/ichigo)
   - [fundude🗒️Gameboy emulator:Zig -> wasm](https://github.com/fengb/fundude)
   - [kc85.zig🗒️A KC85 emulator written in Zig](https://github.com/floooh/kc85.zig)
   
