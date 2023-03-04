@@ -256,8 +256,8 @@
   - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents](https://github.com/mqttiotstuff/iotmonitor)
   - [pacman.zig🗒️Simple Pacman clone written in Zig](https://github.com/floooh/pacman.zig)
   - [wayfarer🗒️Experiments involving a Zig Wayland compositor](https://github.com/dominikh/wayfarer)
-  - [Zag-Smalltalk🗒️Smalltalk VM Written in Zig with methods stored as type-annotated ASTs](https://github.com/dvmason/Zag-Smalltalk)
   - [ZigAndroidTemplate🗒️This repository contains a example on how to create a minimal Android app in Zig](https://github.com/MasterQ32/ZigAndroidTemplate)
+  - [Zag-Smalltalk🗒️Smalltalk VM Written in Zig with methods stored as type-annotated ASTs](https://github.com/dvmason/Zag-Smalltalk)
   - [zig-ios-example🗒️Minimal build.zig for targeting iOS](https://github.com/kubkon/zig-ios-example)
   - [zig-minisign🗒️Minisign reimplemented in Zig](https://github.com/jedisct1/zig-minisign)
   - [zig-nodejs-example🗒️Node.js Native Module written in Zig](https://github.com/staltz/zig-nodejs-example)
@@ -323,7 +323,9 @@
   - 🔥[zig-gamedev🗒️Building game development ecosystem for @ziglang!](https://github.com/michal-z/zig-gamedev)
   - [Zig-Game-Engine](https://github.com/danielabbott/Zig-Game-Engine)
   - [zig-gamekit🗒️Companion repo for zig-renderkit for making 2D games](https://github.com/prime31/zig-gamekit)
+  - [ZigGBA🗒️Work in progress SDK for creating Game Boy Advance games using Zig programming language](https://github.com/wendigojaeger/ZigGBA)
   - [Zig-Gltf-Display🗒️A program that displays glTF files using Vulkan, written in Zig](https://github.com/SpexGuy/Zig-Gltf-Display)
+  - [zigimg🗒️Zig library for reading and writing different image formats](https://github.com/zigimg/zigimg)
   - [Zig-PSP🗒️A project to bring the Zig Programming Language to the Sony PlayStation Portable!](https://github.com/zPSP-Dev/Zig-PSP)
   - [zig-qoi🗒️Quite OK Image format encoder/decoder written in Zig](https://github.com/MasterQ32/zig-qoi)
   - [zig-renderkit🗒️Cross platform Zig graphics backends with a 2D focus](https://github.com/prime31/zig-renderkit)
@@ -333,8 +335,6 @@
   - [zig-upaya🗒️Zig-based framework for creating game tools and helper apps](https://github.com/prime31/zig-upaya)
   - [zig-window🗒️window client library](https://github.com/andrewrk/zig-window)
   - [zig-wlroots🗒️Zig bindings for wlroots](https://github.com/swaywm/zig-wlroots)
-  - [ZigGBA🗒️Work in progress SDK for creating Game Boy Advance games using Zig programming language](https://github.com/wendigojaeger/ZigGBA)
-  - [zigimg🗒️Zig library for reading and writing different image formats](https://github.com/zigimg/zigimg)
   - [zlm🗒️Zig linear mathemathics](https://github.com/ziglibs/zlm)
   - [zplay🗒️A simple framework intended for game/tool creation](https://github.com/jack-ji/zplay)
   - [ZT🗒️A zig based Imgui Application framework](https://github.com/JonSnowbd/ZT)
@@ -451,8 +451,8 @@
   - [zCOM🗒️A composable network protocol stack for embedded and desktop](https://github.com/ziglibs/zCOM)
   - [zhp🗒️A Http server written in Zig](https://github.com/frmdstryr/zhp)
   - [zigdig🗒️naive dns client library in zig](https://github.com/lun-4/zigdig)
-  - [zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig](https://github.com/jedisct1/zigly)
   - [zig-dns🗒️Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
+  - [zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig](https://github.com/jedisct1/zigly)
   - [zig-network🗒️A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP](https://github.com/MasterQ32/zig-network)
   - [zig-oauth2🗒️HTTP handler functions to allow you to easily add OAuth2 login support to your Zig application](https://github.com/nektro/zig-oauth2)
   - [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8)
@@ -462,12 +462,12 @@
   - [antiphony🗒️A zig remote procedure call solution](https://github.com/ziglibs/antiphony)
   - [libflightplan🗒️A library for reading and writing flight plans in various formats. Available as both a C and Zig library](https://github.com/mitchellh/libflightplan)
   - [zig-bench🗒️Simple benchmarking library](https://github.com/Hejsil/zig-bench)
+  - [zigcv🗒️zig bindings for OpenCV4](https://github.com/ryoppippi/zigcv)
   - [zig-libcurl🗒️compile libcurl in your build.zig](https://github.com/mattnite/zig-libcurl)
   - [zig-lv2🗒️Zig-intuitive bindings for LV2](https://github.com/ziglibs/zig-lv2)
   - [zig-nanoid🗒️A tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig](https://github.com/SasLuca/zig-nanoid)
   - [zig-pek🗒️A comptime HTML preprocessor with a builtin template engine for Zig](https://github.com/nektro/zig-pek)
   - [zig-zlib🗒️compile zlib in your build.zig](https://github.com/mattnite/zig-zlib)
-  - [zigcv🗒️zig bindings for OpenCV4](https://github.com/ryoppippi/zigcv)
 
 
 ## Resources
@@ -479,6 +479,7 @@
 - ### Introduction Or News
   
   - [Interview with Zig language creator Andrew Kelley - YouTube](https://www.youtube.com/watch?v=ZvskDoP09Ao&t=253s)
+  - [Zig Roadmap 2023 - Andrew Kelley](https://www.youtube.com/watch?v=AqDdWEiSwMM)
   - [The Road to Zig 1.0 - Andrew Kelley - YouTube](https://www.youtube.com/watch?v=Gv2I7qTux7g)
   - [Zig language:a WAY better C! - YouTube](https://www.youtube.com/watch?v=J6ZxxnSp_fY&t=2s)
   - [Zig Programming Language - YouTube](https://www.youtube.com/watch?v=ygfGO5n1Oe4)
@@ -491,10 +492,12 @@
   - [learnopengl🗒️https://learnopengl.com tutorials ported to zig](https://github.com/cshenton/learnopengl)
   - [libc-to-zig🗒️Comparison between libc functions and their best fitting zig alternatives](https://github.com/zig-community/libc-to-zig)
   - [zig-by-example.github.io🗒️learn Zig, by example](https://github.com/zig-by-example/zig-by-example.github.io)
+  - [Zig Compiler Internals - Andrew Kelley](https://www.youtube.com/watch?v=8MbREuiLQrM)
   - [zig.internals🗒️An Unofficial Writeup on Zig Compiler Internals](https://github.com/mikdusan/zig.internals)
   - [Zig Language Reference](https://ziglang.org/documentation/master/)
   - [ziglearn🗒️Repo for https://ziglearn.org content. Get up to speed with Zig quickly](https://github.com/Sobeston/ziglearn)
   - [ziglings🗒️Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
+  - [Zig Programming Language Tutorials](https://www.youtube.com/watch?v=fQ08HMZLbCw&list=PLRMNjZSQLv5iGpjubyzlWYcGqiTPVyK3s)
   - [Zig Standard Library Documentation](https://ziglang.org/documentation/master/std/)
   
 
