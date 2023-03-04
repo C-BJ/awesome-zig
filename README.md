@@ -390,6 +390,7 @@
   - #### Other Universal Libraries
 
     - [Comptime Templates](https://github.com/ziglibs/comptemplate)
+    - [diffz🗒️Implementation of go-diff's diffmatchpatch in Zig](https://github.com/ziglibs/diffz)
     - [getty🗒️Serialization framework for Zig ](https://github.com/getty-zig/getty)
     - [interface.zig🗒️Dynamic dispatch for zig made easy ](https://github.com/alexnask/interface.zig)
     - [log.zig🗒️a thread-safe logging library for zig. ](https://github.com/emekoi/log.zig)
