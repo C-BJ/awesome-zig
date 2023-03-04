@@ -27,7 +27,7 @@
   - [Embedded](#embedded)
   - [Game and Desktop(GUI) Applications](#game-and-desktopgui-applications)
   - [Operating Systems & Kernels](#operating-systems--kernels)
-  - [Simulator](#simulator)
+  - [Simulator & Virtual Machine & Emulator](#simulator--virtual-machine--emulator)
   - [Web](#web)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
@@ -154,10 +154,12 @@
   - [ziguid🗒️GUID parsing/stringifying with zig](https://github.com/goto-bus-stop/ziguid)
   - [zig-yaml🗒️YAML parser for Zig](https://github.com/kubkon/zig-yaml)
   - [ztoml🗒️TOMLv1.0.0 parser](https://codeberg.org/naneros/ztoml.git)
+  - [zua🗒️An implementation of Lua 5.1 in Zig, for learning purposes](https://github.com/squeek502/zua)
   - [zuri🗒️URI parser for Zig](https://github.com/Vexu/zuri)
 
 - ### Database
   
+  - [awtfdb🗒️the Anime Woman's Tagged File Data Base](https://github.com/lun-4/awtfdb)
   - [redis-cuckoofilter🗒️Hashing-function agnostic Cuckoo filters for Redis](https://github.com/kristoff-it/redis-cuckoofilter)
   - [sqlite-zig SQLite bindings](https://github.com/leroycep/sqlite-zig)
   - [tigerbeetle🗒️🔥A distributed financial accounting database designed for mission critical safety and performance to power the future of financial services](https://github.com/coilhq/tigerbeetle)
@@ -176,6 +178,7 @@
 - ### Game & Desktop(GUI) Applications
 
   - [blink🗒️A game about building logic with lasers](https://github.com/Stenodyon/blink)
+  - [bork🗒️A TUI chat client tailored for livecoding on Twitch](https://github.com/kristoff-it/bork)
   - [clashos🗒️multiplayer arcade game for bare metal Raspberry Pi 3 B+](https://github.com/andrewrk/clashos)
   - [curses-minesweeper🗒️Minesweeper game written in curses with zig](https://github.com/Akuli/curses-minesweeper)
   - [fundude🗒️Gameboy emulator:Zig -> wasm](https://github.com/fengb/fundude)
@@ -189,7 +192,6 @@
   - [OpenCSE🗒️Free implementation of the Can't Stop Express dice game](https://github.com/dantecatalfamo/OpenCSE)
   - [pacman.zig🗒️Simple Pacman clone written in Zig](https://github.com/floooh/pacman.zig)
   - [rayray🗒️A tiny GPU raytracer, using Zig and WebGPU](https://github.com/mkeeter/rayray)
-  - 🔥[river🗒️A dynamic tiling Wayland compositor](https://github.com/riverwm/river)
   - [snake-zig🗒️A simple snake game written in the Zig programming language using OpenGL 2](https://github.com/fabioarnold/snake-zig)
   - [SoftRenderLib🗒️A collection of software rendering routines](https://github.com/MasterQ32/SoftRenderLib)
   - [tetris🗒️A simple tetris clone written in zig programming language](https://github.com/andrewrk/tetris)
@@ -222,16 +224,17 @@
   - [uefi-examples🗒️UEFI examples in Zig](https://github.com/nrdmn/uefi-examples)
   - [ZBZZ.OS🗒️An operating system built with RISCV and Zig](https://github.com/ZeeBoppityZagZiggity/ZBZZ.OS)
   - [zen🗒️Experimental operating system written in Zig](https://github.com/AndreaOrru/zen)
-  - [zig-bare-metal-microbit🗒️Bare metal microbit program written in zig](https://github.com/markfirmware/zig-bare-metal-microbit)
   - [zig-bare-metal-raspberry-pi🗒️Bare metal raspberry pi program written in zig](https://github.com/markfirmware/zig-bare-metal-raspberry-pi)
   - [zig-x86_64🗒️Support for x86_64 specific instructions (e.g. TLB flush), registers (e.g. control registers), and structures (e.g. page tables)](https://github.com/leecannon/zig-x86_64)
 
-- ### Simulator
+- ### Simulator & Virtual Machine & Emulator
 
   - [chip8-zig🗒️A CHIP-8 emulator written in Zig](https://github.com/GrooveStomp/chip8-zig)
   - [ChipZ🗒️A simple Chip8 emulator (executable and library) written in Zig](https://github.com/Arwalk/ChipZ)
   - [fundude🗒️Gameboy emulator:Zig -> wasm](https://github.com/fengb/fundude)
   - [kc85.zig🗒️A KC85 emulator written in Zig](https://github.com/floooh/kc85.zig)
+  - [riscv-zig🗒️A RISC-V emulator written in Zig](https://github.com/Ronsor/riscv-zig)
+  - [zlox🗒️lox virtual machine implementation in zig!](https://github.com/I-mikan-I/zlox)
   
 - ### Web
 
@@ -245,6 +248,7 @@
 
 - ### Other Applications
   - 🔥[bun🗒️Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one](https://github.com/Jarred-Sumner/bun)
+  - [cld🗒️Linker for the Coff/PE file format](https://github.com/Luukdegram/cld)
   - [computils🗒️Zig utilities for all your comptime needs](https://github.com/ziglibs/computils)
   - [cosmic🗒️A general purpose runtime for Javascript/WASM](https://github.com/fubark/cosmic)
   - [geteltorito-zig🗒️geteltorito re-write in Zig](https://github.com/hspak/geteltorito-zig)
@@ -252,7 +256,9 @@
   - [iguanaTLS🗒️Minimal, experimental TLS 1.2 implementation in Zig](https://github.com/alexnask/iguanaTLS)
   - [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents](https://github.com/mqttiotstuff/iotmonitor)
   - [pacman.zig🗒️Simple Pacman clone written in Zig](https://github.com/floooh/pacman.zig)
+  - 🔥[river🗒️A dynamic tiling Wayland compositor](https://github.com/riverwm/river)
   - [wayfarer🗒️Experiments involving a Zig Wayland compositor](https://github.com/dominikh/wayfarer)
+  - [waylock🗒️A small screenlocker for Wayland compositors](https://github.com/ifreund/waylock)
   - [ZigAndroidTemplate🗒️This repository contains a example on how to create a minimal Android app in Zig](https://github.com/MasterQ32/ZigAndroidTemplate)
   - [Zag-Smalltalk🗒️Smalltalk VM Written in Zig with methods stored as type-annotated ASTs](https://github.com/dvmason/Zag-Smalltalk)
   - [zig-ios-example🗒️Minimal build.zig for targeting iOS](https://github.com/kubkon/zig-ios-example)
@@ -261,7 +267,6 @@
   - [zig-protobuf🗒️a protobuf 3 implementation for zig](https://github.com/Arwalk/zig-protobuf)
   - [zig-snappy🗒️Snappy compression for Zig](https://github.com/gsquire/zig-snappy)
   
-
 ## Libraries
 
 - ### Database Operation
@@ -290,6 +295,7 @@
 - ### Game Dev & GUI Dev & Media Framework
 
   - [Alka🗒️Simple, fast, easy to get started mid-level game engine written in Zig](https://github.com/Kiakra/Alka)
+  - [audiometa🗒️An audio metadata/tag reading library written in Zig](https://github.com/squeek502/audiometa)
   - 🔥[capy🗒️Cross-platform library for making true native GUIs in Zig](https://github.com/capy-ui/capy)
   - [cupcake🗒️an app framework for making small and delicious games! (very wip)](https://github.com/bootradev/cupcake)
   - [didot🗒️Zig 3D game engine](https://github.com/zenith391/didot)
@@ -338,14 +344,11 @@
   - [zwin🗒️Making windows with Zig! (Only works on Windows at the moment)](https://github.com/ziglibs/zwin)
   - [ZWL🗒️Zig Windowing Library](https://github.com/Aransentin/ZWL)
 
-
-
 - ### Language Bindings
 
   - [mruby-zig🗒️mruby bindings for zig](https://github.com/dantecatalfamo/mruby-zig)
   - [wren-zig🗒️wren bindings for zig](https://github.com/dantecatalfamo/wren-zig)
   - [zig-autolua🗒️Lua binding creator for zig](https://github.com/daurnimator/zig-autolua)
-
 
 - ### Terminal & Low-Level Libraries & System API
 
@@ -406,6 +409,7 @@
 
   - #### Other Universal Libraries
 
+    - [async_io_uring🗒️An event loop in Zig using io_uring and coroutines](https://github.com/saltzm/async_io_uring)
     - [comptemplate](https://github.com/ziglibs/comptemplate)
     - [diffz🗒️Implementation of go-diff's diffmatchpatch in Zig](https://github.com/ziglibs/diffz)
     - [getty🗒️Serialization framework for Zig](https://github.com/getty-zig/getty)
