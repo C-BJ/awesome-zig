@@ -315,8 +315,6 @@
   [weekend-raytracer-zig🗒️A Zig implementation of the "Ray Tracing in One Weekend" book](https://github.com/Nelarius/weekend-raytracer-zig) 
   - ![Star](https://img.shields.io/github/stars/desttinghim/wired?color=orange)
   [wired](https://github.com/desttinghim/wired) 
-  - ![Star](https://img.shields.io/github/stars/kooparse/zalgebra?color=orange)
-  [zalgebra🗒️Linear algebra library for games and real-time graphics](https://github.com/kooparse/zalgebra) 
   - ![Star](https://img.shields.io/github/stars/fabioarnold/zig-gorillas?color=orange)
   [zig-gorillas🗒️A clone of the classic QBasic Gorillas written in the Zig programming language](https://github.com/fabioarnold/zig-gorillas) 
   - ![Star](https://img.shields.io/github/stars/SpexGuy/Zig-Oculus-Quest?color=orange)
