@@ -489,6 +489,8 @@
   - ![Star](https://img.shields.io/github/stars/fengb/zasp?color=orange)
   [zasp🗒️zasp ⚡ a streaming parser](https://github.com/fengb/zasp) 
   - ![Star](https://img.shields.io/github/stars/alexnask/zdwg?color=orange)
+  [zaml🗒️Fast YAML 1.2 parsing library for Python 3](https://github.com/adamserafini/zaml) 
+  - ![Star](https://img.shields.io/github/stars/adamserafini/zaml?color=orange)
   [zdwg🗒️Read, manipulate, write AutoCad DWG files in zig](https://github.com/alexnask/zdwg) 
   - ![Star](https://img.shields.io/github/stars/MasterQ32/zig-args?color=orange)
   [zig-args🗒️Simple-to-use argument parser with struct-based config](https://github.com/MasterQ32/zig-args) 
