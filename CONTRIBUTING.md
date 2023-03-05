@@ -16,4 +16,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Welcome project authors to submit projects
 
 ## Removing Projects
-We will not remove projects unless they are deprecated or fail to compile in either of the latest two Zig releases or newer dev version
+You can turn on a PR to remove a project, but ultimately it's C-BJ's decision
