@@ -66,8 +66,10 @@
 
 - ### Editor Plugins
 
-  - [intellij-zig🗒️The IntelliJ IDEA plugin for the Zig programming language](https://github.com/ice1000/intellij-zig) <span style="float:right;"><span style="float:right;">![Star](https://img.shields.io/github/stars/ice1000/intellij-zig?color=orange)</span></p></span></p>
-  - [kde-syntax-highlighting🗒️kde xml file for zig syntax highlighting](https://github.com/ziglang/kde-syntax-highlighting) <span style="float:right;">![Star](https://img.shields.io/github/stars/ziglang/kde-syntax-highlighting?color=orange)</span></p> 
+  - <span style="float:right;">![Star](https://img.shields.io/github/stars/ice1000/intellij-zig?color=orange)</span>
+  [intellij-zig🗒️The IntelliJ IDEA plugin for the Zig programming language](https://github.com/ice1000/intellij-zig) </p>
+  - <span style="float:right;">![Star](https://img.shields.io/github/stars/ziglang/kde-syntax-highlighting?color=orange)</span>
+  [kde-syntax-highlighting🗒️kde xml file for zig syntax highlighting](https://github.com/ziglang/kde-syntax-highlighting) </p> 
   - [sublime-zig-language🗒️Zig language support for Sublime Text](https://github.com/ziglang/sublime-zig-language) <span style="float:right;">![Star](https://img.shields.io/github/stars/ziglang/sublime-zig-language?color=orange)</span></p>
   - [vscode-zig🗒️Zig language support for VSCode](https://github.com/ziglang/vscode-zig) <span style="float:right;">![Star](https://img.shields.io/github/stars/ziglang/vscode-zig?color=orange)</span></p>
   - [zig-mode🗒️Zig mode for Emacs](https://github.com/ziglang/zig-mode) <span style="float:right;">![Star](https://img.shields.io/github/stars/ziglang/zig-mode?color=orange)</span></p>
