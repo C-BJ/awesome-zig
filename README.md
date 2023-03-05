@@ -1,6 +1,6 @@
 # Awesome Zig
 
-> 📜Zig Learning & Usage Guide.
+> 📜Zig Learning Guide & Project Lists
 
 [<img src="https://ziglang.org/zig-logo-light.svg" align="right" width="100">](https://ziglang.org)
 
@@ -9,8 +9,6 @@
 **Thanks to all the project authors and others who made this project possible.**
 
 **Note🗒️An project may also be a development tool, application, library or other category, but it will only appear once in this guide.**
-
-** Will be added in front of applications or libraries with more than 500 Star**
 
 ## Table Of Contents
 
