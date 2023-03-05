@@ -492,6 +492,7 @@
   - [Learning the Zig programming language with help from its creator and core team - YouTube](https://www.youtube.com/watch?v=O4UYT-brgrc)
   - [learnopengl🗒️https://learnopengl.com tutorials ported to zig](https://github.com/cshenton/learnopengl)
   - [libc-to-zig🗒️Comparison between libc functions and their best fitting zig alternatives](https://github.com/zig-community/libc-to-zig)
+  - [What's a Memory Allocator Anyway? - Benjamin Feng](https://www.youtube.com/watch?v=vHWiDx_l4V0)
   - [zig-by-example.github.io🗒️learn Zig, by example](https://github.com/zig-by-example/zig-by-example.github.io)
   - [Zig Compiler Internals - Andrew Kelley](https://www.youtube.com/watch?v=8MbREuiLQrM)
   - [zig.internals🗒️An Unofficial Writeup on Zig Compiler Internals](https://github.com/mikdusan/zig.internals)
