@@ -533,6 +533,8 @@
   [mach🗒️Mach is a game engine & graphics toolkit for the future](https://github.com/hexops/mach) 
   - ![Star](https://img.shields.io/github/stars/TM35-Metronome/metronome?color=orange)
   [metronome🗒️A set of tools for modifying and randomizing Pokémon games](https://github.com/TM35-Metronome/metronome) 
+  - ![Star](https://img.shields.io/github/stars/ashpil/moonshine?color=orange)
+  [moonshine🗒️A general purpose ray traced renderer built with Zig + Vulkan](https://github.com/ashpil/moonshine) 
   - ![Star](https://img.shields.io/github/stars/dundalek/notcurses-zig-example?color=orange)
   [notcurses-zig-example🗒️Demo showing how to use Notcurses library for building terminal UIs with Zig](https://github.com/dundalek/notcurses-zig-example) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/painterz?color=orange)
