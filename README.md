@@ -882,6 +882,8 @@
 
 - ### Learning
 
+
+  - [Exercism exercises in Zig](https://github.com/exercism/zig)
   - ![Views](https://img.shields.io/youtube/views/O4UYT-brgrc)
   [Learning the Zig programming language with help from its creator and core team - YouTube](https://www.youtube.com/watch?v=O4UYT-brgrc) 
   - [learnopengl🗒️https://learnopengl.com tutorials ported to zig](https://github.com/cshenton/learnopengl)
