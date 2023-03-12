@@ -335,6 +335,8 @@
   [zootdeck🗒️Fediverse GTK Desktop Reader](https://github.com/donpdonp/zootdeck) 
   - ![Star](https://img.shields.io/github/stars/tiehuis/zstack?color=orange)
   [zstack🗒️Line-race tetris mode in Zig](https://github.com/tiehuis/zstack) 
+  - ![Star](https://img.shields.io/github/stars/flouthoc/ztick?color=orange)
+  [ztick🗒️tiny desktop utility to keep notes ( with no features ). Written in zig and gtk4](https://github.com/flouthoc/ztick) 
 
 - ### Operating Systems & Kernels
 
