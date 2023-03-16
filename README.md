@@ -337,6 +337,8 @@
   [zstack🗒️Line-race tetris mode in Zig](https://github.com/tiehuis/zstack) 
   - ![Star](https://img.shields.io/github/stars/flouthoc/ztick?color=orange)
   [ztick🗒️tiny desktop utility to keep notes ( with no features ). Written in zig and gtk4](https://github.com/flouthoc/ztick) 
+  - ![Star](https://img.shields.io/github/stars/Opioid/zyg?color=orange)
+  [zyg🗒️Pathtracer written in zig](https://github.com/Opioid/zyg) 
 
 - ### Operating Systems & Kernels
 
