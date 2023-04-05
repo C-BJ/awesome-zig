@@ -59,6 +59,7 @@
 - [Zig Playground](https://zig-play.dev/)
 - [Andrew Kelley's  (founder of zig) Personal Blog](https://andrewkelley.me/)
 - [Loris Cro's Personal Blog](https://kristoff.it/)
+- [Zig Weekly](https://discu.eu/weekly/zig/)
 
 ## Development Tools
 
