@@ -415,6 +415,8 @@
   [zss🗒️zss is a CSS layout engine and renderer](https://github.com/chwayne/zss) 
   - ![Star](https://img.shields.io/github/stars/Luukdegram/zwld?color=orange)
   [zwld🗒️Experimental wasm linker](https://github.com/Luukdegram/zwld) 
+  - ![Star](https://img.shields.io/github/stars/floscodes/zerve?color=orange)
+  [zerve🗒️Simple framework for writing web services and web apps in zig](https://github.com/floscodes/zerve) 
 
 - ### Other Applications
   - ![Star](https://img.shields.io/github/stars/oven-sh/bun?color=orange)
