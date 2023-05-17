@@ -513,6 +513,8 @@
   [zig-wayland🗒️Zig wayland scanner and libwayland bindings](https://github.com/ifreund/zig-wayland) 
   - ![Star](https://img.shields.io/github/stars/xyaman/zjson?color=orange)
   [zjson🗒️Minimal json library with zero allocations](https://github.com/xyaman/zjson) 
+  - ![Star](https://img.shields.io/github/stars/ultd/base58-zig?color=orange)
+  [Base58-zig🗒️A base58 encoding/decoding library providing both alloc and non-alloc methods](https://github.com/ultd/base58-zig)
 
 - ### Game Dev & GUI Dev & Media Framework
 
