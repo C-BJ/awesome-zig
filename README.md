@@ -477,6 +477,8 @@
 
 - ### Encryption & Encoding & Decoding
 
+  - ![Star](https://img.shields.io/github/stars/ultd/base58-zig?color=orange)
+  [Base58-zig🗒️A base58 encoding/decoding library providing both alloc and non-alloc methods](https://github.com/ultd/base58-zig)
   - ![Star](https://img.shields.io/github/stars/brentp/hts-zig?color=orange)
   [hts-zig🗒️ziglang + htslib](https://github.com/brentp/hts-zig) 
   - ![Star](https://img.shields.io/github/stars/iddev5/inon?color=orange)
