@@ -811,7 +811,7 @@
   - ![Star](https://img.shields.io/github/stars/chwayne/rem?color=orange)
   [rem🗒️An HTML parsing library, written in Zig](https://github.com/chwayne/rem) 
   - ![Star](https://img.shields.io/github/stars/Vexu/routez?color=orange)
-  - [routez🗒️Http server for Zig](https://github.com/Vexu/routez) 
+  [routez🗒️Http server for Zig](https://github.com/Vexu/routez) 
   - ![Star](https://img.shields.io/github/stars/lithdew/snow?color=orange)
   [snow🗒️A small, fast, cross-platform, async Zig networking framework built on top of lithdew/pike](https://github.com/lithdew/snow) 
   - ![Star](https://img.shields.io/github/stars/zigwasm/wasmer-zig?color=orange)
@@ -839,7 +839,7 @@
   - ![Star](https://img.shields.io/github/stars/nektro/zig-oauth2?color=orange)
   [zig-oauth2🗒️HTTP handler functions to allow you to easily add OAuth2 login support to your Zig application](https://github.com/nektro/zig-oauth2) 
   - ![Star](https://img.shields.io/github/stars/fubark/zig-v8?color=orange)
-  - [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8) 
+  [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8) 
 
 - ### Other Libraries
 
