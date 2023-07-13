@@ -580,8 +580,6 @@
   [zig-gamedev-lib🗒️xq's Zig Game Development Library](https://github.com/Iridescence-Technologies/zglfw) 
   - ![Star](https://img.shields.io/github/stars/michal-z/zig-gamedev?color=orange)
   [zig-gamedev🗒️Building game development ecosystem for @ziglang!](https://github.com/michal-z/zig-gamedev) 
-  - ![Star](https://img.shields.io/github/stars/danielabbott/Zig-Game-Engine?color=orange)
-  [Zig-Game-Engine](https://github.com/danielabbott/Zig-Game-Engine) 
   - ![Star](https://img.shields.io/github/stars/prime31/zig-gamekit?color=orange)
   [zig-gamekit🗒️Companion repo for zig-renderkit for making 2D games](https://github.com/prime31/zig-gamekit) 
   - ![Star](https://img.shields.io/github/stars/wendigojaeger/ZigGBA?color=orange)
