@@ -8,7 +8,7 @@
 
 **Thanks to all the project authors and others who made this project possible.**
 
-**Note🗒️An project may also be a development tool, application, library or other category, but it will only appear once in this guide.**
+**Note🗒️A project can be a development tool, application, library or other category at the same time, but it will only appear once in this guide.**
 
 ## Table Of Contents
 
