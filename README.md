@@ -148,6 +148,8 @@
   [calctax🗒️Simple tax calculator for employees in Poland after Nowy Lad changes in 2022](https://github.com/kubkon/calctax) 
   - ![Star](https://img.shields.io/github/stars/rvcas/crisp?color=orange)
   [crisp🗒️A Minimal Lispy Calculator](https://github.com/rvcas/crisp) 
+  - ![Star](https://img.shields.io/github/stars/booniepepper/dt?color=orange)
+  [dt🗒️duct tape for your Unix pipes. Pipe text into a functional/concatenative awk-like tool.](https://github.com/booniepepper/dt)
   - ![Star](https://img.shields.io/github/stars/dmbfm/gi?color=orange)
   [gi🗒️Simple program that generates .gitignore files based on the templates from https://github.com/toptal/gitignore](https://github.com/dmbfm/gi) 
   - [outfieldr🗒️A TLDR client in Zig](https://gitlab.com/ve-nt/outfieldr) 
