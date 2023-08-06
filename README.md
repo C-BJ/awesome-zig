@@ -208,7 +208,7 @@
   [tres🗒️ValueTree-based JSON parser](https://github.com/ziglibs/tres) 
   - ![Star](https://img.shields.io/github/stars/kubkon/zacho?color=orange)
   [zacho🗒️Zig's Mach-O parser](https://github.com/kubkon/zacho)
-  - ![Star](https://img.shields.io/github/stars/kubkon/zacho?color=orange)
+  - ![Star](https://img.shields.io/github/stars/kubkon/zava?color=orange)
   [zava🗒️Java VM / bytecode interpreter in Zig](https://github.com/chaoyangnz/zava)
   - [zcheme🗒️WIP implementation of R7RS Scheme](https://hg.sr.ht/~hutzdog/Zcheme)
   - ![Star](https://img.shields.io/github/stars/kubkon/zelf?color=orange)
