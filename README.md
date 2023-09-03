@@ -133,7 +133,9 @@
   [zld🗒️Zig's lld drop-in replacement](https://github.com/kubkon/zld) 
   - ![Star](https://img.shields.io/github/stars/zigtools/zls?color=orange)
   [zls🗒️Zig LSP implementation + Zig Language Server](https://github.com/zigtools/zls) 
-  
+  - ![Star](https://img.shields.io/github/stars/nix-community/zon2nix?color=orange)
+  [zon2nix🗒️Convert the dependencies in `build.zig.zon` to a Nix expression](https://github.com/nix-community/zon2nix)
+
 
 ## Applications
 
