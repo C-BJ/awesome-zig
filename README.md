@@ -638,7 +638,9 @@
   - ![Star](https://img.shields.io/github/stars/daurnimator/zig-autolua?color=orange)
   [zig-autolua🗒️Lua binding creator for zig](https://github.com/daurnimator/zig-autolua) 
   - ![Star](https://img.shields.io/github/stars/mitchellh/zig-objc?color=orange)
-  [zig-objc🗒️Objective-C runtime bindings for Zig (Zig calling ObjC)](https://github.com/mitchellh/zig-objc) 
+  [zig-objc🗒️Objective-C runtime bindings for Zig (Zig calling ObjC)](https://github.com/mitchellh/zig-objc)
+  - ![Star](https://img.shields.io/github/stars/fulcrum-so/ziggy-pydust?color=orange)
+  [ziggy-pydust🗒️Bindings for building Python extensions with Zig](https://github.com/fulcrum-so/ziggy-pydust)
 
 - ### Terminal & Low-Level Libraries & System API
 
