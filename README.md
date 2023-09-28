@@ -706,6 +706,8 @@
     - ![Star](https://img.shields.io/github/stars/BraedonWooding/Lazy-Zig?color=orange)
   [Lazy-Zig🗒️Linq in Zig](https://github.com/BraedonWooding/Lazy-Zig) 
     - ![Star](https://img.shields.io/github/stars/BarabasGitHub/LZig4?color=orange)
+  [libredo🗒️Automatic dependency tracking](https://github.com/iacore/libredo)
+    - ![Star](https://img.shields.io/github/stars/iacore/libredo?color=orange)
   [LZig4🗒️Implementing lz4 in zig](https://github.com/BarabasGitHub/LZig4) 
     - ![Star](https://img.shields.io/github/stars/judofyr/minz?color=orange)
   [minz🗒️Minimal string compression](https://github.com/judofyr/minz) 
