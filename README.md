@@ -727,6 +727,8 @@
   [zigstr🗒️Zigstr is a UTF-8 string type for Zig programs](https://github.com/jecolon/zigstr) 
     - ![Star](https://img.shields.io/github/stars/JakubSzark/zig-string?color=orange)
   [zig-string🗒️A String Library made in Zig](https://github.com/JakubSzark/zig-string) 
+    - ![Star](https://img.shields.io/github/stars/avdva/zigavl?color=orange)
+  [zigavl🗒️An AVL tree written in Zig](https://github.com/avdva/zigavl) 
     - ![Star](https://img.shields.io/github/stars/ziglibs/zigfp?color=orange)
   [zigfp🗒️Basic fixed point implementation in Zig](https://github.com/ziglibs/zigfp) 
     - ![Star](https://img.shields.io/github/stars/shunkeen/zignite?color=orange)
