@@ -161,8 +161,6 @@
   [pbui-main🗒️The main repository for the PBUI project](https://github.com/pbui-project/pbui-main) 
   - ![Star](https://img.shields.io/github/stars/ekzhang/redis-rope?color=orange)
   [redis-rope🗒️A fast native data type for manipulating large strings in Redis](https://github.com/ekzhang/redis-rope) 
-  - ![Star](https://img.shields.io/github/stars/user00e00/sudokuinzig?color=orange)
-  [sudokuinzig🗒️Sudoku solver in zig](https://github.com/user00e00/sudokuinzig) 
   - ![Star](https://img.shields.io/github/stars/kubkon/zcoff?color=orange)
   [zcoff🗒️Like dumpbin.exe but cross-platform](https://github.com/kubkon/zcoff) 
   - ![Star](https://img.shields.io/github/stars/nektro/zig-inquirer?color=orange)
