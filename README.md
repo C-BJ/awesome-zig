@@ -713,6 +713,8 @@
   [minz🗒️Minimal string compression](https://github.com/judofyr/minz) 
     - ![Star](https://img.shields.io/github/stars/ziglibs/string-searching?color=orange)
   [string-searching🗒️String(not limited to [] const u8)-searching algorithms in zig](https://github.com/ziglibs/string-searching) 
+    - ![Star](https://img.shields.io/github/stars/iacore/tree.zig?color=orange)
+  [tree.zig🗒️Splay Tree from OpenBSD Ported to Zig](https://github.com/iacore/tree.zig)
     - ![Star](https://img.shields.io/github/stars/Sahnvour/zig-containers?color=orange)
   [zig-containers🗒️A container library for Zig](https://github.com/Sahnvour/zig-containers) 
     - ![Star](https://img.shields.io/github/stars/kristoff-it/zig-cuckoofilter?color=orange)
