@@ -606,8 +606,6 @@
   [zig-qoi🗒️Quite OK Image format encoder/decoder written in Zig](https://github.com/MasterQ32/zig-qoi) 
   - ![Star](https://img.shields.io/github/stars/prime31/zig-renderkit?color=orange)
   [zig-renderkit🗒️Cross platform Zig graphics backends with a 2D focus](https://github.com/prime31/zig-renderkit) 
-  - ![Star](https://img.shields.io/github/stars/andrewrk/zig-sdl?color=orange)
-  [zig-sdl🗒️self-contained SDL2 package for Zig](https://github.com/andrewrk/zig-sdl) 
   - ![Star](https://img.shields.io/github/stars/Guigui220D/zig-sfml-wrapper?color=orange)
   [zig-sfml-wrapper🗒️A zig wrapper for csfml](https://github.com/Guigui220D/zig-sfml-wrapper) 
   - ![Star](https://img.shields.io/github/stars/nektro/zig-tracy?color=orange)
