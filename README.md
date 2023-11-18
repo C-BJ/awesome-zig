@@ -807,7 +807,6 @@
   [zig-ulid🗒️A binary implementation of ULID in Zig](https://github.com/nektro/zig-ulid) 
     - ![Star](https://img.shields.io/github/stars/ranciere/zoltan?color=orange)
   [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig](https://github.com/ranciere/zoltan)
-    - [minicoro-zig🗒️Zig bindings for minicoro, a stackful coroutine library](https://git.envs.net/iacore/minicoro-zig)
 
 - ### Web
 
