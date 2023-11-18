@@ -248,6 +248,8 @@
   
   - ![Star](https://img.shields.io/github/stars/lun-4/awtfdb?color=orange)
   [awtfdb🗒️the Anime Woman's Tagged File Data Base](https://github.com/lun-4/awtfdb) 
+  - ![Star](https://img.shields.io/github/stars/karlseguin/pg.zig?color=orange)
+  [pg.zig🗒️Native PostgreSQL driver](https://github.com/karlseguin/pg.zig) 
   - ![Star](https://img.shields.io/github/stars/kristoff-it/redis-cuckoofilter?color=orange)
   [redis-cuckoofilter🗒️Hashing-function agnostic Cuckoo filters for Redis](https://github.com/kristoff-it/redis-cuckoofilter) 
   - ![Star](https://img.shields.io/github/stars/leroycep/sqlite-zig?color=orange)
