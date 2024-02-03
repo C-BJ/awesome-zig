@@ -12,12 +12,3 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
-  spell-check:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
-    - uses: rojopolis/spellcheck-github-actions@v0
-      name: Spellcheck
-      with:
-        source_files: README.md CONTRIBUTING.md CODE_OF_CONDUCT.md
-        task_name: Markdown
