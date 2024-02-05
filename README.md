@@ -905,7 +905,7 @@
   - ![Views](https://img.shields.io/youtube/views/YXrb-DqsBNU)
   [Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022](https://www.youtube.com/watch?v=YXrb-DqsBNU) 
   - ![Views](https://img.shields.io/youtube/views/Gv2I7qTux7g)
-  [The Road to Zig 1.0 - Andrew Kelley - YouTube](https://www.youtube.com/watch?v=Gv2I7qTux7g) 
+  [The Road to Zig 1.0 - Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g) 
   - ![Views](https://img.shields.io/youtube/views/AqDdWEiSwMM)
   [Zig Roadmap 2023 - Andrew Kelley](https://www.youtube.com/watch?v=AqDdWEiSwMM)
   - ![Views](https://img.shields.io/youtube/views/5eL_LcxwwHg)
