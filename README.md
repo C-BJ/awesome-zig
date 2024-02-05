@@ -32,18 +32,18 @@
   - [Database Operation](#database-operation)
   - [Encryption & Encoding & Decoding](#encryption--encoding--decoding)
   - [Game Dev & GUI Dev & Media Framework](#game-dev--gui-dev--media-framework)
-  - [Images](#images)
   - [Language Bindings](#language-bindings)
   - [Terminal & Low-Level Libraries & System API](#terminal--low-level-libraries--system-api)
   - [Universal](#universal)
     - [Algorithms & Data Structures](#algorithms--data-structures)
+    - [Concurrency](#concurrency)
     - [Memory Management](#memory-management)
     - [Other Universal Libraries](#other-universal-libraries)
   - [Web](#web)
   - [Other Libraries](#other-libraries)
 - [Resources](#resources)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
-  - [Introduction Or News](#introduction-or-News)
+  - [Introduction Or News](#introduction-or-news)
   - [Learning](#learning)
 - [Contributing](https://github.com/C-BJ/awesome-zig/blob/main/CONTRIBUTING.md)
 
@@ -745,7 +745,15 @@
     - ![Star](https://img.shields.io/github/stars/AliChraghi/zort?color=orange)
   [zort🗒️Implementation of 9 sorting algorithms in Zig](https://github.com/AliChraghi/zort) 
     - ![Star](https://img.shields.io/github/stars/gruebite/zzz?color=orange)
-  [zzz🗒️Simple and boring human readable data format for Zig](https://github.com/gruebite/zzz) 
+  [zzz🗒️Simple and boring human readable data format for Zig](https://github.com/gruebite/zzz)
+
+  - ### Concurrency
+   
+    - ![Star](https://img.shields.io/github/stars/mitchellh/libxev?color=orange)
+    [libxev🗒️libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API](https://github.com/mitchellh/libxev)
+    - ![Star](https://img.shields.io/github/stars/rsepassi/zigcoro?color=orange)
+    [zigcoro🗒️A Zig coroutine library](https://github.com/rsepassi/zigcoro)
+
 
   - #### Memory Management
 
@@ -776,8 +784,6 @@
   [getty🗒️Serialization framework for Zig](https://github.com/getty-zig/getty) 
     - ![Star](https://img.shields.io/github/stars/alexnask/interface.zig?color=orange)
   [interface.zig🗒️Dynamic dispatch for zig made easy](https://github.com/alexnask/interface.zig) 
-    - ![Star](https://img.shields.io/github/stars/mitchellh/libxev?color=orange)
-  [libxev🗒️libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API](https://github.com/mitchellh/libxev) 
     - ![Star](https://img.shields.io/github/stars/emekoi/log.zig?color=orange)
   [log.zig🗒️a thread-safe logging library for zig](https://github.com/emekoi/log.zig) 
     - ![Star](https://img.shields.io/github/stars/alexnask/PeerType?color=orange)
