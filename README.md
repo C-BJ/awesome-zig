@@ -910,16 +910,18 @@
 - ### Learning
   - [Exercism exercises in Zig](https://exercism.org/tracks/zig)
   - [zig-cookbook🗒️Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.](https://github.com/zigcc/zig-cookbook)
-  - [ziglearn🗒️Repo for https://ziglearn.org content. Get up to speed with Zig quickly](https://github.com/Sobeston/ziglearn)
+  - [zig.guide🗒️Repo for https://zig.guide content. Get up to speed with Zig quickly.](https://github.com/Sobeston/zig.guide)
+  - [Learning Zig🗒️Comprehensive introduction to Zig](https://www.openmymind.net/learning_zig/)
   - [ziglings🗒️Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
   - ![Views](https://img.shields.io/youtube/views/O4UYT-brgrc)
   [Learning the Zig programming language with help from its creator and core team - YouTube](https://www.youtube.com/watch?v=O4UYT-brgrc) 
-  - [Learning Zig🗒️Comprehensive introduction to Zig](https://www.openmymind.net/learning_zig/)
   - ![Views](https://img.shields.io/youtube/views/J6ZxxnSp_fY)
   [Zig language:a WAY better C! - YouTube](https://www.youtube.com/watch?v=J6ZxxnSp_fY) 
   - ![Views](https://img.shields.io/youtube/views/fQ08HMZLbCw)
   [Zig Programming Language Tutorials](https://www.youtube.com/watch?v=fQ08HMZLbCw&list=PLRMNjZSQLv5iGpjubyzlWYcGqiTPVyK3s)
   - [Zig Language Reference](https://ziglang.org/documentation/master/)
   - [Zig Standard Library Documentation](https://ziglang.org/documentation/master/std/)
-  
+ 
+  - [zig-course(zh_CN)](https://zigcc.github.io/zig-course/)
+ 
 # The End
