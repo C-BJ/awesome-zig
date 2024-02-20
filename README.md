@@ -920,7 +920,7 @@
   - [zig-cookbook🗒️Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.](https://github.com/zigcc/zig-cookbook)
   - [zig.guide🗒️Repo for https://zig.guide content. Get up to speed with Zig quickly.](https://github.com/Sobeston/zig.guide)
   - [Learning Zig🗒️Comprehensive introduction to Zig](https://www.openmymind.net/learning_zig/)
-  - [ziglings🗒️Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
+  - [ziglings🗒️Learn the Zig programming language by fixing tiny broken programs](https://ziglings.org)
   - ![Views](https://img.shields.io/youtube/views/O4UYT-brgrc)
   [Learning the Zig programming language with help from its creator and core team - YouTube](https://www.youtube.com/watch?v=O4UYT-brgrc) 
   - ![Views](https://img.shields.io/youtube/views/J6ZxxnSp_fY)
