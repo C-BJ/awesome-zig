@@ -643,7 +643,9 @@
 - ### Terminal & Low-Level Libraries & System API
 
   - ![Star](https://img.shields.io/github/stars/ziglibs/ansi-term?color=orange)
-  [ansi-term🗒️Zig library for dealing with ANSI terminals](https://github.com/ziglibs/ansi-term) 
+  [ansi-term🗒️Zig library for dealing with ANSI terminals](https://github.com/ziglibs/ansi-term)
+  - ![Star](https://img.shields.io/github/stars/00jciv00/cova?color=orange)
+   [cova🗒️Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.](https://github.com/ziglibs/ansi-term)
   - ![Star](https://img.shields.io/github/stars/jayschwa/dos.zig?color=orange)
   [dos.zig🗒️Create DOS programs with Zig](https://github.com/jayschwa/dos.zig) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/known-folders?color=orange)
