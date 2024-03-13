@@ -282,6 +282,8 @@
   
 - ### Game & Desktop(GUI) Applications
 
+  - ![Star](https://img.shields.io/github/stars/10aded/butterfly-quiz?color=orange)
+  [butterfly-quiz🗒️A simple quiz game about common North American butterfly names, uses Raylib for graphics](https://github.com/10aded/butterfly-quiz)
   - ![Star](https://img.shields.io/github/stars/Stenodyon/blink?color=orange)
   [blink🗒️A game about building logic with lasers](https://github.com/Stenodyon/blink) 
   - ![Star](https://img.shields.io/github/stars/kristoff-it/bork?color=orange)
