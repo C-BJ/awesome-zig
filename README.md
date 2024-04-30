@@ -364,7 +364,9 @@
   - ![Star](https://img.shields.io/github/stars/jzck/kernel-zig?color=orange)
   [kernel-zig🗒️hobby x86 kernel zig](https://github.com/jzck/kernel-zig) 
   - ![Star](https://img.shields.io/github/stars/DorianXGH/Lukarnel?color=orange)
-  [Lukarnel🗒️A microkernel in zig with rust microservices](https://github.com/DorianXGH/Lukarnel) 
+  [Lukarnel🗒️A microkernel in zig with rust microservices](https://github.com/DorianXGH/Lukarnel)
+  - ![Star](https://img.shields.io/github/stars/mewz-project/mewz?color=orange)
+  [Mewz🗒️A unikernel designed specifically for running Wasm applications and compatible with WASI](https://github.com/mewz-project/mewz) 
   - ![Star](https://img.shields.io/github/stars/ZigEmbeddedGroup/microzig?color=orange)
   [microzig🗒️Unified abstraction layer and HAL for several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig) 
   - ![Star](https://img.shields.io/github/stars/ZystemOS/pluto?color=orange)
@@ -387,8 +389,6 @@
   [zig-bare-metal-raspberry-pi🗒️Bare metal raspberry pi program written in zig](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) 
   - ![Star](https://img.shields.io/github/stars/leecannon/zig-x86_64?color=orange)
   [zig-x86_64🗒️Support for x86_64 specific instructions (e.g. TLB flush), registers (e.g. control registers), and structures (e.g. page tables)](https://github.com/leecannon/zig-x86_64)
-  - ![Star](https://img.shields.io/github/stars/mewz-project/mewz?color=orange)
-  [Mewz🗒️A unikernel designed specifically for running Wasm applications and compatible with WASI](https://github.com/mewz-project/mewz) 
 
 - ### Simulator & Virtual Machine & Emulator
 
