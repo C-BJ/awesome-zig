@@ -533,6 +533,10 @@
   [zig-wayland🗒️Zig wayland scanner and libwayland bindings](https://github.com/ifreund/zig-wayland) 
   - ![Star](https://img.shields.io/github/stars/xyaman/zjson?color=orange)
   [zjson🗒️Minimal json library with zero allocations](https://github.com/xyaman/zjson) 
+  - ![Star](https://img.shields.io/github/stars/deatil/zig-md2?color=orange)
+  [zig-md2🗒️A MD2 hash function for Zig](https://github.com/deatil/zig-md2) 
+  - ![Star](https://img.shields.io/github/stars/deatil/zig-md4?color=orange)
+  [zig-md4🗒️A MD4 hash function for Zig](https://github.com/deatil/zig-md4) 
 
 - ### Game Dev & GUI Dev & Media Framework
 
@@ -821,6 +825,8 @@
   [zig-ulid🗒️A binary implementation of ULID in Zig](https://github.com/nektro/zig-ulid) 
     - ![Star](https://img.shields.io/github/stars/ranciere/zoltan?color=orange)
   [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig](https://github.com/ranciere/zoltan)
+    - ![Star](https://img.shields.io/github/stars/deatil/zig-time?color=orange)
+  [deatil/zig-time🗒️A date and time parse and format library for Zig](https://github.com/deatil/zig-time) 
 
 - ### Web
 
