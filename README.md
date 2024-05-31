@@ -717,6 +717,8 @@
   [LZig4🗒️Implementing lz4 in zig](https://github.com/BarabasGitHub/LZig4) 
     - ![Star](https://img.shields.io/github/stars/judofyr/minz?color=orange)
   [minz🗒️Minimal string compression](https://github.com/judofyr/minz) 
+    - ![Star](https://img.shields.io/github/stars/aalbacetef/strcompare?color=orange)
+  [strcompare 🗒️ string comparison library implementing the Hamming, Levenshtein, Damerau-Levenshtein metrics](https://github.com/aalbacetef/strcompare) 
     - ![Star](https://img.shields.io/github/stars/ziglibs/string-searching?color=orange)
   [string-searching🗒️String(not limited to [] const u8)-searching algorithms in zig](https://github.com/ziglibs/string-searching) 
     - ![Star](https://img.shields.io/github/stars/iacore/tree.zig?color=orange)
