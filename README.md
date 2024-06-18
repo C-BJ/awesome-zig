@@ -572,6 +572,8 @@
   [painterz🗒️Low-level implementation of different painting primitives (lines, rectangles, ...) without specialization on a certain draw target](https://github.com/ziglibs/painterz) 
   - ![Star](https://img.shields.io/github/stars/kassane/qml_zig?color=orange)
   [qml_zig🗒️QML bindings for the Zig programming language](https://github.com/kassane/qml_zig) 
+  - ![Star](https://img.shields.io/github/stars/levydsa/qoiz?color=orange)
+  [qoiz🗒️A simple and fast implementation of the QOI image format decoder and encoder.](https://github.com/levydsa/qoiz) 
   - ![Star](https://img.shields.io/github/stars/raysan5/raylib?color=orange)
   [raylib-zig🗒️Manually tweaked, auto generated raylib bindings for zig. https://github.com/raysan5/raylib](https://github.com/Not-Nik/raylib-zig) 
   - ![Star](https://img.shields.io/github/stars/MasterQ32/SDL.zig?color=orange)
