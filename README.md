@@ -127,6 +127,8 @@
   [zig-pypi🗒️The Zig programming language, packaged for PyPI](https://github.com/ziglang/zig-pypi) 
   - ![Star](https://img.shields.io/github/stars/kubkon/zig-snapshots?color=orange)
   [zig-snapshots🗒️Preview Zig's incremental linker state in interactive HTML](https://github.com/kubkon/zig-snapshots) 
+  - ![Star](https://img.shields.io/github/stars/vezel-dev/zig-sdk?color=orange)
+  [zig-sdk🗒️An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler](https://github.com/vezel-dev/zig-sdk) 
   - ![Star](https://img.shields.io/github/stars/marler8997/zigup?color=orange)
   [zigup🗒️Download and manage zig compilers](https://github.com/marler8997/zigup) 
   - ![Star](https://img.shields.io/github/stars/kubkon/zld?color=orange)
