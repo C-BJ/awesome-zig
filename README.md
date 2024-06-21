@@ -660,6 +660,8 @@
   [dos.zig🗒️Create DOS programs with Zig](https://github.com/jayschwa/dos.zig) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/known-folders?color=orange)
   [known-folders🗒️Provides access to well-known folders across several operating systems](https://github.com/ziglibs/known-folders) 
+  - ![Star](https://img.shields.io/github/stars/alexrp/libffi?color=orange)
+  [libffi🗒️libffi with a Zig build script](https://github.com/alexrp/libffi)
   - ![Star](https://img.shields.io/github/stars/joachimschmidt557/linenoize?color=orange)
   [linenoize🗒️A port of linenoise to zig](https://github.com/joachimschmidt557/linenoize) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/lscolors?color=orange)
