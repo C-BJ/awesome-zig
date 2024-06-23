@@ -285,6 +285,8 @@
 
   - ![Star](https://img.shields.io/github/stars/10aded/4x4-Sudoku-Game?color=orange)
   [4x4-Sudoku-Game🗒️A simple Sudoku game on a 4x4 grid, uses Raylib for graphics](https://github.com/10aded/4x4-Sudoku-Game)
+  - ![Star](https://img.shields.io/github/stars/PixelGuys/Cubyz?color=orange)
+  [Cubyz🗒️Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.](https://github.com/PixelGuys/Cubyz)
   - ![Star](https://img.shields.io/github/stars/Stenodyon/blink?color=orange)
   [blink🗒️A game about building logic with lasers](https://github.com/Stenodyon/blink) 
   - ![Star](https://img.shields.io/github/stars/kristoff-it/bork?color=orange)
