@@ -53,7 +53,6 @@
 - [Zig Github Page](https://github.com/ziglang)
 - [Zig News](https://zig.news/)
 - [Zig Community List](https://github.com/ziglang/zig/wiki/Community)
-- [Learning Zig](https://ziglearn.org/)
 - [Zig Monthly](https://zigmonthly.org/)
 - [Zig Showtime](https://zig.show/)
 - [Zig Playground](https://zig-play.dev/)
