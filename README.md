@@ -358,6 +358,8 @@
 
 - ### Operating Systems & Kernels
 
+  - ![Star](https://img.shields.io/github/stars/CascadeOS/CascadeOS?color=orange)
+  [CascadeOS🗒️General purpose operating system targeting standard desktops and laptops.](https://github.com/CascadeOS/CascadeOS) 
   - ![Star](https://img.shields.io/github/stars/kivikakk/daintree?color=orange)
   [daintree🗒️ARMv8-A/RISC-V kernel (with UEFI bootloader)](https://github.com/kivikakk/daintree) 
   - ![Star](https://img.shields.io/github/stars/iguessthislldo/georgios?color=orange)
