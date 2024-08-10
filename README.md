@@ -26,7 +26,7 @@
   - [Game and Desktop(GUI) Applications](#game--desktopgui-applications)
   - [Operating Systems & Kernels](#operating-systems--kernels)
   - [Simulator & Virtual Machine & Emulator](#simulator--virtual-machine--emulator)
-  - [Web](#web)
+  - [Web](#web-app)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
   - [Database Operation](#database-operation)
@@ -39,7 +39,7 @@
     - [Concurrency](#concurrency)
     - [Memory Management](#memory-management)
     - [Other Universal Libraries](#other-universal-libraries)
-  - [Web](#web)
+  - [Web](#web-lib)
   - [Other Libraries](#other-libraries)
 - [Resources](#resources)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
@@ -412,7 +412,7 @@
   - ![Star](https://img.shields.io/github/stars/I-mikan-I/zlox?color=orange)
   [zlox🗒️lox virtual machine implementation in zig!](https://github.com/I-mikan-I/zlox) 
   
-- ### Web
+- ### Web {#app}
 
   - ![Star](https://img.shields.io/github/stars/mattnite/astrolabe?color=orange)
   [astrolabe🗒️backend for https://astrolabe.pm](https://github.com/mattnite/astrolabe) 
@@ -839,7 +839,7 @@
     - ![Star](https://img.shields.io/github/stars/ranciere/zoltan?color=orange)
   [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig](https://github.com/ranciere/zoltan)
 
-- ### Web
+- ### Web {#lib}
 
   - ![Star](https://img.shields.io/github/stars/Luukdegram/apple_pie?color=orange)
   [apple_pie🗒️Basic HTTP server implementation in Zig](https://github.com/Luukdegram/apple_pie) 
