@@ -88,7 +88,9 @@
   - ![Star](https://img.shields.io/github/stars/SpexGuy/Zig-AoC-Template?color=orange)
   [Zig-AoC-Template🗒️A template for Advent of Code participants using Zig](https://github.com/SpexGuy/Zig-AoC-Template)
   - ![Star](https://img.shields.io/github/stars/nektro/zigmod?color=orange)
-  [zigmod🗒️A package manager for the Zig programming language](https://github.com/nektro/zigmod) 
+  [zigmod🗒️A package manager for the Zig programming language](https://github.com/nektro/zigmod)
+  - ![Star](https://img.shields.io/github/stars/Hejsil/dipm?color=orange)
+    [dipm🗒️A distro independent package manager for installing statically linked executables](https://github.com/Hejsil/dipm) 
 
 - ### Other Tools
 
