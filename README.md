@@ -80,7 +80,9 @@
 - ### Package Managers
 
   - ![Star](https://img.shields.io/github/stars/cheetah/asdf-zig?color=orange)
-  [asdf-zig🗒️zig plugin for asdf version manager](https://github.com/cheetah/asdf-zig) 
+  [asdf-zig🗒️zig plugin for asdf version manager](https://github.com/cheetah/asdf-zig)
+  - ![Star](https://img.shields.io/github/stars/Hejsil/dipm?color=orange)
+  [dipm🗒️A distro independent package manager for installing statically linked executables](https://github.com/Hejsil/dipm) 
   - ![Star](https://img.shields.io/github/stars/mattnite/gyro?color=orange)
   [gyro🗒️A Zig package manager with an index, build runner, and build dependencies](https://github.com/mattnite/gyro)
   - ![Star](https://img.shields.io/github/stars/zigtools/zpm?color=orange)
@@ -88,7 +90,7 @@
   - ![Star](https://img.shields.io/github/stars/SpexGuy/Zig-AoC-Template?color=orange)
   [Zig-AoC-Template🗒️A template for Advent of Code participants using Zig](https://github.com/SpexGuy/Zig-AoC-Template)
   - ![Star](https://img.shields.io/github/stars/nektro/zigmod?color=orange)
-  [zigmod🗒️A package manager for the Zig programming language](https://github.com/nektro/zigmod) 
+  [zigmod🗒️A package manager for the Zig programming language](https://github.com/nektro/zigmod)
 
 - ### Other Tools
 
