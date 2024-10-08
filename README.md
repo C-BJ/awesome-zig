@@ -358,6 +358,8 @@
 
 - ### Operating Systems & Kernels
 
+  - ![Star](https://img.shields.io/github/stars/bagggage/bamos?color=orange)
+  [BamOS🗒️Open-source OS focused on speed, quality and compatibility with the ABI of well-known systems.](https://github.com/bagggage/bamos)
   - ![Star](https://img.shields.io/github/stars/CascadeOS/CascadeOS?color=orange)
   [CascadeOS🗒️General purpose operating system targeting standard desktops and laptops.](https://github.com/CascadeOS/CascadeOS) 
   - ![Star](https://img.shields.io/github/stars/kivikakk/daintree?color=orange)
