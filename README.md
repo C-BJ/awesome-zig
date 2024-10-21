@@ -150,6 +150,10 @@
   [btczee🗒️A Bitcoin protocol implementation in Zig](https://github.com/zig-bitcoin/btczee)
   - ![Star](https://img.shields.io/github/stars/keep-starknet-strange/ziggy-starkdust?color=orange)
   [ziggy-starkdust🗒️Cairo VM in Zig](https://github.com/keep-starknet-strange/ziggy-starkdust)
+  - ![Star](https://img.shields.io/github/stars/Syndica/sig?color=orange)
+  [Sig🗒️A Solana Zig validator client](https://github.com/Syndica/sig)
+  - ![Star](https://img.shields.io/github/stars/Syndica/sig?color=orange)
+  [Sig🗒️A Solana Zig validator client](https://github.com/Syndica/sig)
 
 - ### Command Line
 
