@@ -153,8 +153,6 @@
   [ziggy-starkdust🗒️Cairo VM in Zig](https://github.com/keep-starknet-strange/ziggy-starkdust)
   - ![Star](https://img.shields.io/github/stars/Syndica/sig?color=orange)
   [Sig🗒️A Solana Zig validator client](https://github.com/Syndica/sig)
-  - ![Star](https://img.shields.io/github/stars/Syndica/sig?color=orange)
-  [Sig🗒️A Solana Zig validator client](https://github.com/Syndica/sig)
 
 - ### Command Line
 
