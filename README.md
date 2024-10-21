@@ -143,7 +143,13 @@
 - ### Blockchain
 
   - ![Star](https://img.shields.io/github/stars/lithdew/rheia?color=orange)
-  [rheia🗒️A blockchain written in Zig](https://github.com/lithdew/rheia) 
+  [rheia🗒️A blockchain written in Zig](https://github.com/lithdew/rheia)
+  - ![Star](https://img.shields.io/github/stars/zig-bitcoin/coconut?color=orange)
+  [Coconut🗒️Cashu wallet and mint implementation in Zig](https://github.com/zig-bitcoin/coconut)
+  - ![Star](https://img.shields.io/github/stars/zig-bitcoin/btczee?color=orange)
+  [btczee🗒️A Bitcoin protocol implementation in Zig](https://github.com/zig-bitcoin/btczee)
+  - ![Star](https://img.shields.io/github/stars/keep-starknet-strange/ziggy-starkdust?color=orange)
+  [ziggy-starkdust🗒️Cairo VM in Zig](https://github.com/keep-starknet-strange/ziggy-starkdust)
 
 - ### Command Line
 
