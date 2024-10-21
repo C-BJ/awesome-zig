@@ -29,6 +29,7 @@
   - [Web](#web-app)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
+  - [Blockchain Development](#blockchain-development)
   - [Database Operation](#database-operation)
   - [Encryption & Encoding & Decoding](#encryption--encoding--decoding)
   - [Game Dev & GUI Dev & Media Framework](#game-dev--gui-dev--media-framework)
@@ -500,6 +501,15 @@
   [zig-snappy🗒️Snappy compression for Zig](https://github.com/gsquire/zig-snappy) 
   
 ## Libraries
+
+- ### Blockchain Development
+
+  - ![Star](https://img.shields.io/github/stars/joncinque/solana-program-sdk-zig?color=orange)
+  [solana-program-sdk-zig🗒️Write Solana programs in Zig](https://github.com/joncinque/solana-program-sdk-zig)
+  - ![Star](https://img.shields.io/github/stars/OffchainLabs/zig-on-stylus?color=orange)
+  [zig-on-stylus🗒️EVM-interoperable smart contracts written in Zig](https://github.com/OffchainLabs/zig-on-stylus)
+  - ![Star](https://img.shields.io/github/stars/jsign/verkle-crypto?color=orange)
+  [verkle-crypto🗒️Cryptography for Ethereum Verkle Trees](https://github.com/jsign/verkle-crypto) 
 
 - ### Database Operation
 
