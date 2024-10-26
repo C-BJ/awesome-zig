@@ -29,6 +29,7 @@
   - [Web](#web-app)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
+  - [Blockchain Development](#blockchain-development)
   - [Database Operation](#database-operation)
   - [Encryption & Encoding & Decoding](#encryption--encoding--decoding)
   - [Game Dev & GUI Dev & Media Framework](#game-dev--gui-dev--media-framework)
@@ -142,8 +143,16 @@
 
 - ### Blockchain
 
+  - ![Star](https://img.shields.io/github/stars/zig-bitcoin/btczee?color=orange)
+  [btczee🗒️A Bitcoin protocol implementation in Zig](https://github.com/zig-bitcoin/btczee)
+  - ![Star](https://img.shields.io/github/stars/zig-bitcoin/coconut?color=orange)
+  [Coconut🗒️Cashu wallet and mint implementation in Zig](https://github.com/zig-bitcoin/coconut)
   - ![Star](https://img.shields.io/github/stars/lithdew/rheia?color=orange)
-  [rheia🗒️A blockchain written in Zig](https://github.com/lithdew/rheia) 
+  [rheia🗒️A blockchain written in Zig](https://github.com/lithdew/rheia)
+  - ![Star](https://img.shields.io/github/stars/Syndica/sig?color=orange)
+  [Sig🗒️A Solana Zig validator client](https://github.com/Syndica/sig)
+  - ![Star](https://img.shields.io/github/stars/keep-starknet-strange/ziggy-starkdust?color=orange)
+  [ziggy-starkdust🗒️Cairo VM in Zig](https://github.com/keep-starknet-strange/ziggy-starkdust)
 
 - ### Command Line
 
@@ -490,6 +499,15 @@
   [zig-snappy🗒️Snappy compression for Zig](https://github.com/gsquire/zig-snappy) 
   
 ## Libraries
+
+- ### Blockchain Development
+
+  - ![Star](https://img.shields.io/github/stars/joncinque/solana-program-sdk-zig?color=orange)
+  [solana-program-sdk-zig🗒️Write Solana programs in Zig](https://github.com/joncinque/solana-program-sdk-zig)
+  - ![Star](https://img.shields.io/github/stars/jsign/verkle-crypto?color=orange)
+  [verkle-crypto🗒️Cryptography for Ethereum Verkle Trees](https://github.com/jsign/verkle-crypto) 
+  - ![Star](https://img.shields.io/github/stars/OffchainLabs/zig-on-stylus?color=orange)
+  [zig-on-stylus🗒️EVM-interoperable smart contracts written in Zig](https://github.com/OffchainLabs/zig-on-stylus)
 
 - ### Database Operation
 
