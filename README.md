@@ -793,6 +793,8 @@
   [zort🗒️Implementation of 9 sorting algorithms in Zig](https://github.com/AliChraghi/zort) 
     - ![Star](https://img.shields.io/github/stars/gruebite/zzz?color=orange)
   [zzz🗒️Simple and boring human readable data format for Zig](https://github.com/gruebite/zzz)
+    - ![Star](https://img.shields.io/github/stars/MINGtoMING/tiny_array_list?color=orange)
+  [tiny_array_list🗒️Inline buffer-based, auto-heap-transitioning ArrayList variant optimized for small, frequent data interactions.](https://github.com/gruebite/zzz)  
 
   - ### Concurrency
    
