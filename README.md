@@ -757,7 +757,9 @@
     - ![Star](https://img.shields.io/github/stars/aalbacetef/strcompare?color=orange)
   [strcompare 🗒️ string comparison library implementing the Hamming, Levenshtein, Damerau-Levenshtein metrics](https://github.com/aalbacetef/strcompare) 
     - ![Star](https://img.shields.io/github/stars/ziglibs/string-searching?color=orange)
-  [string-searching🗒️String(not limited to [] const u8)-searching algorithms in zig](https://github.com/ziglibs/string-searching) 
+  [string-searching🗒️String(not limited to [] const u8)-searching algorithms in zig](https://github.com/ziglibs/string-searching)
+    - ![Star](https://img.shields.io/github/stars/MINGtoMING/tiny_array_list?color=orange)
+  [tiny_array_list🗒️Inline buffer-based, auto-heap-transitioning ArrayList variant optimized for small, frequent data interactions.](https://github.com/MINGtoMING/tiny_array_list)  
     - ![Star](https://img.shields.io/github/stars/iacore/tree.zig?color=orange)
   [tree.zig🗒️Splay Tree from OpenBSD Ported to Zig](https://github.com/iacore/tree.zig)
     - ![Star](https://img.shields.io/github/stars/Sahnvour/zig-containers?color=orange)
@@ -793,8 +795,6 @@
   [zort🗒️Implementation of 9 sorting algorithms in Zig](https://github.com/AliChraghi/zort) 
     - ![Star](https://img.shields.io/github/stars/gruebite/zzz?color=orange)
   [zzz🗒️Simple and boring human readable data format for Zig](https://github.com/gruebite/zzz)
-    - ![Star](https://img.shields.io/github/stars/MINGtoMING/tiny_array_list?color=orange)
-  [tiny_array_list🗒️Inline buffer-based, auto-heap-transitioning ArrayList variant optimized for small, frequent data interactions.](https://github.com/MINGtoMING/tiny_array_list)  
 
   - ### Concurrency
    
