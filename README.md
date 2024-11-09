@@ -639,6 +639,8 @@
   [Zig-Gltf-Display🗒️A program that displays glTF files using Vulkan, written in Zig](https://github.com/SpexGuy/Zig-Gltf-Display) 
   - ![Star](https://img.shields.io/github/stars/zigimg/zigimg?color=orange)
   [zigimg🗒️Zig library for reading and writing different image formats](https://github.com/zigimg/zigimg) 
+  - ![Star](https://img.shields.io/github/stars/bfactory-ai/zignal?color=orange)
+  [zignal🗒️Image processing library](https://github.com/bfactory-ai/zignal) 
   - ![Star](https://img.shields.io/github/stars/zPSP-Dev/Zig-PSP?color=orange)
   [Zig-PSP🗒️A project to bring the Zig Programming Language to the Sony PlayStation Portable!](https://github.com/zPSP-Dev/Zig-PSP) 
   - ![Star](https://img.shields.io/github/stars/MasterQ32/zig-qoi?color=orange)
