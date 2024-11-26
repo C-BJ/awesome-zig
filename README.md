@@ -137,6 +137,8 @@
   [zls🗒️Zig LSP implementation + Zig Language Server](https://github.com/zigtools/zls) 
   - ![Star](https://img.shields.io/github/stars/nix-community/zon2nix?color=orange)
   [zon2nix🗒️Convert the dependencies in `build.zig.zon` to a Nix expression](https://github.com/nix-community/zon2nix)
+  - ![Star](https://img.shields.io/github/stars/tristanisham/zvm?color=orange)
+  [zvm🗒️Easily install/upgrade between different versions of Zig. ZLS install can be included.](https://github.com/tristanisham/zvm)
 
 
 ## Applications
