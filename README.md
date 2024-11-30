@@ -920,7 +920,9 @@
   - ![Star](https://img.shields.io/github/stars/nektro/zig-oauth2?color=orange)
   [zig-oauth2🗒️HTTP handler functions to allow you to easily add OAuth2 login support to your Zig application](https://github.com/nektro/zig-oauth2) 
   - ![Star](https://img.shields.io/github/stars/fubark/zig-v8?color=orange)
-  [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8) 
+  [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8)
+  - ![Star](https://img.shields.io/github/stars/arshidkv12/zig-php?color=orange)
+  [PHP extension written in Zig](https://github.com/arshidkv12/zig-php)
 
 - ### Other Libraries
 
