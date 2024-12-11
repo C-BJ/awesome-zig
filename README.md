@@ -431,6 +431,8 @@
 
   - ![Star](https://img.shields.io/github/stars/mattnite/astrolabe?color=orange)
   [astrolabe🗒️backend for https://astrolabe.pm](https://github.com/mattnite/astrolabe) 
+  - ![Star](https://img.shields.io/github/stars/by-nir/aws-lambda-zig?color=orange)
+  [aws-lambda-zig🗒️Super-fast AWS Lambda runtime for Zig](https://github.com/by-nir/aws-lambda-zig) 
   - ![Star](https://img.shields.io/github/stars/lithdew/hello?color=orange)
   [hello🗒️Multi-threaded cross-platform HTTP/1.1 web server example in Zig](https://github.com/lithdew/hello) 
   - ![Star](https://img.shields.io/github/stars/karlseguin/http.zig?color=orange)
