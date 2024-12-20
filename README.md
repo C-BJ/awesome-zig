@@ -725,6 +725,8 @@
   [zig-windows-console🗒️Zig Windows Console stuff](https://github.com/ziglibs/zig-windows-console) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/zinput?color=orange)
   [zinput🗒️A Zig command-line input library!](https://github.com/ziglibs/zinput) 
+  - ![Star](https://img.shields.io/github/stars/GabrieleInvernizzi/zig-prompter?color=orange)
+  [zig-prompter🗒️A flexible library for building interactive command line prompts](https://github.com/GabrieleInvernizzi/zig-prompter) 
 
 - ### Universal
 
