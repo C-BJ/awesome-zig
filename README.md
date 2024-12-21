@@ -714,7 +714,9 @@
   - ![Star](https://img.shields.io/github/stars/Hejsil/zig-clap?color=orange)
   [zig-clap🗒️Simple command line argument parsing library](https://github.com/Hejsil/zig-clap) 
   - ![Star](https://img.shields.io/github/stars/kubkon/ZigKit?color=orange)
-  [ZigKit🗒️Zig bindings for low-level macOS frameworks](https://github.com/kubkon/ZigKit) 
+  [ZigKit🗒️Zig bindings for low-level macOS frameworks](https://github.com/kubkon/ZigKit)
+  - ![Star](https://img.shields.io/github/stars/GabrieleInvernizzi/zig-prompter?color=orange)
+  [zig-prompter🗒️A flexible library for building interactive command line prompts](https://github.com/GabrieleInvernizzi/zig-prompter) 
   - ![Star](https://img.shields.io/github/stars/Gonzih/zigra?color=orange)
   [zigra🗒️Command line toolkit for Zig](https://github.com/Gonzih/zigra) 
   - ![Star](https://img.shields.io/github/stars/MasterQ32/zig-serial?color=orange)
@@ -725,8 +727,6 @@
   [zig-windows-console🗒️Zig Windows Console stuff](https://github.com/ziglibs/zig-windows-console) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/zinput?color=orange)
   [zinput🗒️A Zig command-line input library!](https://github.com/ziglibs/zinput) 
-  - ![Star](https://img.shields.io/github/stars/GabrieleInvernizzi/zig-prompter?color=orange)
-  [zig-prompter🗒️A flexible library for building interactive command line prompts](https://github.com/GabrieleInvernizzi/zig-prompter) 
 
 - ### Universal
 
