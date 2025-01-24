@@ -60,6 +60,7 @@
 - [Andrew Kelley's  (founder of zig) Personal Blog](https://andrewkelley.me/)
 - [Loris Cro's Personal Blog](https://kristoff.it/)
 - [Zig Weekly](https://discu.eu/weekly/zig/)
+- [Zigistry](https://zigistry.dev/)
 
 ## Development Tools
 
@@ -468,7 +469,9 @@
   - ![Star](https://img.shields.io/github/stars/fubark/cosmic?color=orange)
   [cosmic🗒️A general purpose runtime for Javascript/WASM](https://github.com/fubark/cosmic)
   - ![Star](https://img.shields.io/github/stars/Hejsil/dipm?color=orange)
-  [dipm🗒️A distro independent package manager for installing statically linked executables](https://github.com/Hejsil/dipm) 
+  [dipm🗒️A distro independent package manager for installing statically linked executables](https://github.com/Hejsil/dipm)
+  - ![Star](https://img.shields.io/github/stars/SilasMarvin/dnns-from-scratch-in-zig?color=orange)
+  [dnns-from-scratch-in-zig](https://github.com/SilasMarvin/dnns-from-scratch-in-zig)
   - ![Star](https://img.shields.io/github/stars/hspak/geteltorito-zig?color=orange)
   [geteltorito-zig🗒️geteltorito re-write in Zig](https://github.com/hspak/geteltorito-zig) 
   - ![Star](https://img.shields.io/github/stars/thejoshwolfe/hexdump-zip?color=orange)
