@@ -41,6 +41,7 @@
     - [Memory Management](#memory-management)
     - [Other Universal Libraries](#other-universal-libraries)
   - [Web](#web-lib)
+  - [Artificial Intelligence](#artificial-intelligence)
   - [Other Libraries](#other-libraries)
 - [Resources](#resources)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
@@ -932,6 +933,18 @@
   [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8)
   - ![Star](https://img.shields.io/github/stars/arshidkv12/zig-php?color=orange)
   [PHP extension written in Zig](https://github.com/arshidkv12/zig-php)
+
+- ### Artificial Intelligence
+
+
+  - ![Star](https://img.shields.io/github/stars/dravenk/ollama-zig?color=orange)
+  [ollama-zig🗒️Ollama Zig library](https://github.com/dravenk/ollama-zig)
+  - ![Star](https://img.shields.io/github/stars/cgbur/llama2.zig?color=orange)
+  [llama2.zig🗒️Inference Llama 2 in one file of pure Zig](https://github.com/cgbur/llama2.zig)
+  - ![Star](https://img.shields.io/github/stars/zml/zml?color=orange)
+  [zml🗒️A machine learning framework](https://github.com/zml/zml)
+  - ![Star](https://img.shields.io/github/stars/Marco-Christiani/zigrad?color=orange)
+  [Zigrad🗒️ A deep learning framework built on an autograd engine with high level abstractions and low level control.](https://github.com/Marco-Christiani/zigrad)
 
 - ### Other Libraries
 
