@@ -29,6 +29,7 @@
   - [Web](#web-app)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
+  - [Artificial Intelligence](#artificial-intelligence)
   - [Blockchain Development](#blockchain-development)
   - [Database Operation](#database-operation)
   - [Encryption & Encoding & Decoding](#encryption--encoding--decoding)
@@ -506,6 +507,17 @@
   [zig-snappy🗒️Snappy compression for Zig](https://github.com/gsquire/zig-snappy) 
   
 ## Libraries
+
+- ### Artificial Intelligence
+
+  - ![Star](https://img.shields.io/github/stars/dravenk/ollama-zig?color=orange)
+  [ollama-zig🗒️Ollama Zig library](https://github.com/dravenk/ollama-zig)
+  - ![Star](https://img.shields.io/github/stars/cgbur/llama2.zig?color=orange)
+  [llama2.zig🗒️Inference Llama 2 in one file of pure Zig](https://github.com/cgbur/llama2.zig)
+  - ![Star](https://img.shields.io/github/stars/Marco-Christiani/zigrad?color=orange)
+  [Zigrad🗒️ A deep learning framework built on an autograd engine with high level abstractions and low level control.](https://github.com/Marco-Christiani/zigrad)
+  - ![Star](https://img.shields.io/github/stars/zml/zml?color=orange)
+  [zml🗒️A machine learning framework](https://github.com/zml/zml)
 
 - ### Blockchain Development
 
