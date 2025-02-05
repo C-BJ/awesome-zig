@@ -246,8 +246,8 @@
   [zig-toml🗒️A TOML parser written in Zig](https://github.com/aeronavery/zig-toml) 
   - ![Star](https://img.shields.io/github/stars/sam701/zig-toml?color=orange)
   [zig-toml🗒️An LL TOML parser that parses into Zig structs](https://github.com/sam701/zig-toml) 
-  - ![Star](https://img.shields.io/github/stars/Himujjal/zig-json5?color=orange)
-  [zig-json5🗒️A JSON5 Parser/Stringifier written in Zig](https://github.com/Himujjal/zig-json5) 
+  - ![Star](https://img.shields.io/github/stars/Himujjal/zig-5?color=orange)
+  [zig-5🗒️A 5 Parser/Stringifier written in Zig](https://github.com/Himujjal/zig-5) 
   - ![Star](https://img.shields.io/github/stars/goto-bus-stop/ziguid?color=orange)
   [ziguid🗒️GUID parsing/stringifying with zig](https://github.com/goto-bus-stop/ziguid) 
   - ![Star](https://img.shields.io/github/stars/kubkon/zig-yaml?color=orange)
@@ -256,7 +256,9 @@
   - ![Star](https://img.shields.io/github/stars/squeek502/zua?color=orange)
   [zua🗒️An implementation of Lua 5.1 in Zig, for learning purposes](https://github.com/squeek502/zua) 
   - ![Star](https://img.shields.io/github/stars/Vexu/zuri?color=orange)
-  [zuri🗒️URI parser for Zig](https://github.com/Vexu/zuri) 
+  [zuri🗒️URI parser for Zig](https://github.com/Vexu/zuri)
+  - ![Star](https://img.shields.io/github/stars/javiorfo/prettizy)
+  [prettizy🗒️Zig library to prettify JSON and XML strings](https://github.com/javiorfo/prettizy)
 
 - ### Database
   
@@ -413,7 +415,9 @@
   [zig-bare-metal-raspberry-pi🗒️Bare metal raspberry pi program written in zig](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) 
   - ![Star](https://img.shields.io/github/stars/leecannon/zig-x86_64?color=orange)
   [zig-x86_64🗒️Support for x86_64 specific instructions (e.g. TLB flush), registers (e.g. control registers), and structures (e.g. page tables)](https://github.com/leecannon/zig-x86_64)
-
+  - ![Star](https://img.shields.io/github/stars/javiorfo/ztatusbar)
+  [ztatusbar🗒️Configurable statusbar for Xorg server using xsetroot](https://github.com/javiorfo/ztatusbar)
+  
 - ### Simulator & Virtual Machine & Emulator
 
   - ![Star](https://img.shields.io/github/stars/GrooveStomp/chip8-zig?color=orange)
@@ -742,7 +746,9 @@
   [zig-windows-console🗒️Zig Windows Console stuff](https://github.com/ziglibs/zig-windows-console) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/zinput?color=orange)
   [zinput🗒️A Zig command-line input library!](https://github.com/ziglibs/zinput) 
-
+  - ![Star](https://img.shields.io/github/stars/javiorfo/zig-syslinfo)
+  [zig-syslinfo🗒️Linux sysinfo Zig library](https://github.com/javiorfo/zig-syslinfo)
+  
 - ### Universal
 
   - #### Algorithms & Data Structures
