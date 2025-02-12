@@ -579,6 +579,8 @@
   [zig-md2🗒️A MD2 hash function for Zig](https://github.com/deatil/zig-md2) 
   - ![Star](https://img.shields.io/github/stars/deatil/zig-md4?color=orange)
   [zig-md4🗒️A MD4 hash function for Zig](https://github.com/deatil/zig-md4) 
+  - ![Star](https://img.shields.io/github/stars/deatil/zig-sm3?color=orange)
+  [zig-sm3🗒️A SM3 hash function for Zig](https://github.com/deatil/zig-sm3) 
   - ![Star](https://img.shields.io/github/stars/leroycep/zig-tzif?color=orange)
   [zig-tzif🗒️TZif parsing for Zig](https://github.com/leroycep/zig-tzif) 
   - ![Star](https://img.shields.io/github/stars/LewisGaul/zig-nestedtext?color=orange)
@@ -587,6 +589,8 @@
   [zig-wayland🗒️Zig wayland scanner and libwayland bindings](https://github.com/ifreund/zig-wayland) 
   - ![Star](https://img.shields.io/github/stars/xyaman/zjson?color=orange)
   [zjson🗒️Minimal json library with zero allocations](https://github.com/xyaman/zjson) 
+  - ![Star](https://img.shields.io/github/stars/deatil/zpem?color=orange)
+  [zpem🗒️A pem parse and encode library for Zig](https://github.com/deatil/zpem) 
 
 - ### Game Dev & GUI Dev & Media Framework
 
@@ -979,6 +983,8 @@
   [zig-nanoid🗒️A tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig](https://github.com/SasLuca/zig-nanoid) 
   - ![Star](https://img.shields.io/github/stars/nektro/zig-pek?color=orange)
   [zig-pek🗒️A comptime HTML preprocessor with a builtin template engine for Zig](https://github.com/nektro/zig-pek) 
+  - ![Star](https://img.shields.io/github/stars/deatil/zig-totp?color=orange)
+  [zig-totp🗒️A totp library for zig](https://github.com/deatil/zig-totp) 
   - ![Star](https://img.shields.io/github/stars/mattnite/zig-zlib?color=orange)
   [zig-zlib🗒️compile zlib in your build.zig](https://github.com/mattnite/zig-zlib) 
 
