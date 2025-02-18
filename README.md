@@ -989,7 +989,8 @@
   [zig-totp🗒️A totp library for zig](https://github.com/deatil/zig-totp) 
   - ![Star](https://img.shields.io/github/stars/mattnite/zig-zlib?color=orange)
   [zig-zlib🗒️compile zlib in your build.zig](https://github.com/mattnite/zig-zlib) 
-
+  - ![Star](https://img.shields.io/github/stars/javiorfo/zig-epub?color=orange)
+  [zig-epub🗒️minimal zig library for creating EPUB files](https://github.com/javiorfo/zig-epub)
 
 ## Resources
 
