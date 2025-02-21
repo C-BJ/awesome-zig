@@ -956,6 +956,8 @@
   [zig-php🗒️PHP extension written in Zig](https://github.com/arshidkv12/zig-php)
   - ![Star](https://img.shields.io/github/stars/fubark/zig-v8?color=orange)
   [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8)
+  - ![Star](https://img.shields.io/github/stars/NikoMalik/jwt-zig?color=orange)
+  [jwt-zig 🗒Json Web Token library in zig](https://github.com/NikoMalik/jwt-zig)
 
 - ### Other Libraries
 
