@@ -976,7 +976,9 @@
   - ![Star](https://img.shields.io/github/stars/kubkon/zig-dis-x86_64?color=orange)
   [zig-dis-x86_64🗒️x86_64 disassembler library written in Zig](https://github.com/kubkon/zig-dis-x86_64) 
   - ![Star](https://img.shields.io/github/stars/nektro/zig-docker?color=orange)
-  [zig-docker🗒️Zig bindings for the Docker Engine API](https://github.com/nektro/zig-docker) 
+  [zig-docker🗒️Zig bindings for the Docker Engine API](https://github.com/nektro/zig-docker)
+  - ![Star](https://img.shields.io/github/stars/javiorfo/zig-epub?color=orange)
+  [zig-epub🗒️minimal zig library for creating EPUB files](https://github.com/javiorfo/zig-epub)
   - ![Star](https://img.shields.io/github/stars/mattnite/zig-libcurl?color=orange)
   [zig-libcurl🗒️compile libcurl in your build.zig](https://github.com/mattnite/zig-libcurl) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/zig-lv2?color=orange)
@@ -989,8 +991,6 @@
   [zig-totp🗒️A totp library for zig](https://github.com/deatil/zig-totp) 
   - ![Star](https://img.shields.io/github/stars/mattnite/zig-zlib?color=orange)
   [zig-zlib🗒️compile zlib in your build.zig](https://github.com/mattnite/zig-zlib) 
-  - ![Star](https://img.shields.io/github/stars/javiorfo/zig-epub?color=orange)
-  [zig-epub🗒️minimal zig library for creating EPUB files](https://github.com/javiorfo/zig-epub)
 
 ## Resources
 
