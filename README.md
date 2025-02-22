@@ -334,6 +334,8 @@
   [pixelcode](https://github.com/pfgithub/pixelcode) 
   - ![Star](https://img.shields.io/github/stars/mkeeter/rayray?color=orange)
   [rayray🗒️A tiny GPU raytracer, using Zig and WebGPU](https://github.com/mkeeter/rayray) 
+  - ![Star](https://img.shields.io/github/stars/10aded/sliding-puzzle-in-zig?color=orange)
+  [sliding-puzzle-in-zig🗒️A sliding tile puzzle game made with zglfw and zopengl](https://github.com/10aded/sliding-puzzle-in-zig)
   - ![Star](https://img.shields.io/github/stars/fabioarnold/snake-zig?color=orange)
   [snake-zig🗒️A simple snake game written in the Zig programming language using OpenGL 2](https://github.com/fabioarnold/snake-zig) 
   - ![Star](https://img.shields.io/github/stars/MasterQ32/SoftRenderLib?color=orange)
