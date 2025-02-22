@@ -948,6 +948,8 @@
   [zigdig🗒️naive dns client library in zig](https://github.com/lun-4/zigdig) 
   - ![Star](https://img.shields.io/github/stars/dantecatalfamo/zig-dns?color=orange)
   [zig-dns🗒️Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns) 
+  - ![Star](https://img.shields.io/github/stars/deatil/zig-jwt?color=orange)
+  [zig-jwt🗒️A JWT library for zig](https://github.com/deatil/zig-jwt) 
   - ![Star](https://img.shields.io/github/stars/jedisct1/zigly?color=orange)
   [zigly🗒️The easiest way to write services for Fastly's Compute@Edge in Zig](https://github.com/jedisct1/zigly) 
   - ![Star](https://img.shields.io/github/stars/MasterQ32/zig-network?color=orange)
