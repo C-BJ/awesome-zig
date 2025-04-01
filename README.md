@@ -756,6 +756,8 @@
   [zig-windows-console🗒️Zig Windows Console stuff](https://github.com/ziglibs/zig-windows-console) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/zinput?color=orange)
   [zinput🗒️A Zig command-line input library!](https://github.com/ziglibs/zinput) 
+  - ![Star](https://img.shields.io/github/stars/kioz-wang/zargs?color=orange)
+  [zargs🗒️Another Comptime-argparse for Zig](https://github.com/kioz-wang/zargs)
 
 - ### Universal
 
