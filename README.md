@@ -55,7 +55,6 @@
 - [Zig Github Page](https://github.com/ziglang)
 - [Zig News](https://zig.news/)
 - [Zig Community List](https://github.com/ziglang/zig/wiki/Community)
-- [Zig Monthly](https://zigmonthly.org/)
 - [Zig Showtime](https://zig.show/)
 - [Zig Playground](https://zig-play.dev/)
 - [Andrew Kelley's  (founder of zig) Personal Blog](https://andrewkelley.me/)
