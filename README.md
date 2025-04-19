@@ -1014,7 +1014,7 @@
   [Zig Roadmap 2023 - Andrew Kelley](https://www.youtube.com/watch?v=AqDdWEiSwMM)
   - ![Views](https://img.shields.io/youtube/views/5eL_LcxwwHg)
   [Zig Roadmap 2024 - Andrew Kelley](https://www.youtube.com/watch?v=5eL_LcxwwHg)
-
+<!-- markdown-link-check-disable-next-line -->
   - [Zig Star History](https://star-history.com/#ziglang/zig&Date)
 
 - ### Learning
@@ -1023,8 +1023,6 @@
   - [zig.guide🗒️Repo for https://zig.guide content. Get up to speed with Zig quickly.](https://github.com/Sobeston/zig.guide)
   - [Learning Zig🗒️Comprehensive introduction to Zig](https://www.openmymind.net/learning_zig/)
   - [ziglings🗒️Learn the Zig programming language by fixing tiny broken programs](https://ziglings.org)
-  - ![Views](https://img.shields.io/youtube/views/O4UYT-brgrc)
-  [Learning the Zig programming language with help from its creator and core team - YouTube](https://www.youtube.com/watch?v=O4UYT-brgrc) 
   - ![Views](https://img.shields.io/youtube/views/J6ZxxnSp_fY)
   [Zig language:a WAY better C! - YouTube](https://www.youtube.com/watch?v=J6ZxxnSp_fY) 
   - ![Views](https://img.shields.io/youtube/views/fQ08HMZLbCw)
