@@ -66,14 +66,14 @@
 
 - ### Editor Plugins
 
-  - ![Star](https://img.shields.io/github/stars/ice1000/intellij-zig?color=orange)</span>
-  [intellij-zig🗒️The IntelliJ IDEA plugin for the Zig programming language](https://github.com/ice1000/intellij-zig)
   - ![Star](https://img.shields.io/github/stars/ziglang/kde-syntax-highlighting?color=orange)
   [kde-syntax-highlighting🗒️kde xml file for zig syntax highlighting](https://github.com/ziglang/kde-syntax-highlighting) 
   - ![Star](https://img.shields.io/github/stars/ziglang/sublime-zig-language?color=orange)
   [sublime-zig-language🗒️Zig language support for Sublime Text](https://github.com/ziglang/sublime-zig-language)
   - ![Star](https://img.shields.io/github/stars/ziglang/vscode-zig?color=orange)
   [vscode-zig🗒️Zig language support for VSCode](https://github.com/ziglang/vscode-zig)
+- ![Star](https://img.shields.io/github/stars/falsepattern/zigbrains?color=orange)
+  [zigbrains🗒️The zig language plugin for intellij](https://github.com/falsepattern/zigbrains) 
   - ![Star](https://img.shields.io/github/stars/ziglang/zig-mode?color=orange)
   [zig-mode🗒️Zig mode for Emacs](https://github.com/ziglang/zig-mode) 
   - ![Star](https://img.shields.io/github/stars/ziglang/zig.vim?color=orange)
