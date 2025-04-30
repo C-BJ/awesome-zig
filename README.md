@@ -102,6 +102,8 @@
   [jaz🗒️A JVM implementation in Zig!](https://github.com/zig-java/jaz) 
   - ![Star](https://img.shields.io/github/stars/cryptocode/marble?color=orange)
   [marble🗒️A metamorphic testing library for Zig](https://github.com/cryptocode/marble) 
+  - ![Star](https://img.shields.io/github/stars/andrewrk/poop?color=orange)
+  [poop🗒️Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
   - ![Star](https://img.shields.io/github/stars/ziglibs/repository?color=orange)
   [repository🗒️A community-maintained repository of zig packages](https://github.com/ziglibs/repository) 
   - ![Star](https://img.shields.io/github/stars/goto-bus-stop/setup-zig?color=orange)
