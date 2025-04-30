@@ -462,6 +462,8 @@
   [zig-wasm-dom🗒️Zig + WebAssembly + JS + DOM](https://github.com/shritesh/zig-wasm-dom) 
   - ![Star](https://img.shields.io/github/stars/meheleventyone/zig-wasm-test?color=orange)
   [zig-wasm-test🗒️A minimal Web Assembly example using Zig's build system](https://github.com/meheleventyone/zig-wasm-test) 
+  - ![Star](https://img.shields.io/github/stars/kristoff-it/zine?color=orange)
+  [zine🗒️Static Site Generator written in Zig](https://github.com/kristoff-it/zine) 
   - ![Star](https://img.shields.io/github/stars/chwayne/zss?color=orange)
   [zss🗒️zss is a CSS layout engine and renderer](https://github.com/chwayne/zss) 
   - ![Star](https://img.shields.io/github/stars/Luukdegram/zwld?color=orange)
