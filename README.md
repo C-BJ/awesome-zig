@@ -100,6 +100,7 @@
   [futureproof🗒️A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!](https://github.com/mkeeter/futureproof) 
   - ![Star](https://img.shields.io/github/stars/zig-java/jaz?color=orange)
   [jaz🗒️A JVM implementation in Zig!](https://github.com/zig-java/jaz) 
+  - [lsr🗒️Fast and efficient ls alternative with io_uring](https://tangled.sh/@rockorager.dev/lsr)
   - ![Star](https://img.shields.io/github/stars/cryptocode/marble?color=orange)
   [marble🗒️A metamorphic testing library for Zig](https://github.com/cryptocode/marble) 
   - ![Star](https://img.shields.io/github/stars/andrewrk/poop?color=orange)
