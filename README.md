@@ -169,6 +169,7 @@
   [dt🗒️duct tape for your Unix pipes. Pipe text into a functional/concatenative awk-like tool.](https://github.com/booniepepper/dt)
   - ![Star](https://img.shields.io/github/stars/dmbfm/gi?color=orange)
   [gi🗒️Simple program that generates .gitignore files based on the templates from https://github.com/toptal/gitignore](https://github.com/dmbfm/gi) 
+  - [lsr🗒️Fast and efficient ls alternative with io_uring](https://tangled.sh/@rockorager.dev/lsr)
   - [outfieldr🗒️A TLDR client in Zig](https://gitlab.com/ve-nt/outfieldr) 
   - ![Star](https://img.shields.io/github/stars/michaelo/sapt?color=orange)
   [sapt🗒️Simple file-oriented API-testing tool](https://github.com/michaelo/sapt) 
