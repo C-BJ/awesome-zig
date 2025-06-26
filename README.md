@@ -905,6 +905,8 @@
   [zig-time🗒️A date and time parsing and formatting library for Zig](https://github.com/nektro/zig-time)
     - ![Star](https://img.shields.io/github/stars/deatil/zig-time?color=orange)
   [deatil/zig-time🗒️A date and time parse and format library for Zig](https://github.com/deatil/zig-time) 
+    - ![Star](https://img.shields.io/github/stars/deatil/zig-dotenv?color=orange)
+  [zig-dotenv🗒️A parse and set env library for zig](https://github.com/deatil/zig-dotenv) 
     - ![Star](https://img.shields.io/github/stars/nektro/zig-ulid?color=orange)
   [zig-ulid🗒️A binary implementation of ULID in Zig](https://github.com/nektro/zig-ulid) 
     - ![Star](https://img.shields.io/github/stars/ranciere/zoltan?color=orange)
@@ -968,6 +970,8 @@
   [zig-oauth2🗒️HTTP handler functions to allow you to easily add OAuth2 login support to your Zig application](https://github.com/nektro/zig-oauth2)
   - ![Star](https://img.shields.io/github/stars/arshidkv12/zig-php?color=orange)
   [zig-php🗒️PHP extension written in Zig](https://github.com/arshidkv12/zig-php)
+  - ![Star](https://img.shields.io/github/stars/deatil/zig-totp?color=orange)
+  [zig-totp🗒️A totp library for zig](https://github.com/deatil/zig-totp) 
   - ![Star](https://img.shields.io/github/stars/fubark/zig-v8?color=orange)
   [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8)
 
@@ -1001,8 +1005,6 @@
   [zig-nanoid🗒️A tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig](https://github.com/SasLuca/zig-nanoid) 
   - ![Star](https://img.shields.io/github/stars/nektro/zig-pek?color=orange)
   [zig-pek🗒️A comptime HTML preprocessor with a builtin template engine for Zig](https://github.com/nektro/zig-pek) 
-  - ![Star](https://img.shields.io/github/stars/deatil/zig-totp?color=orange)
-  [zig-totp🗒️A totp library for zig](https://github.com/deatil/zig-totp) 
   - ![Star](https://img.shields.io/github/stars/mattnite/zig-zlib?color=orange)
   [zig-zlib🗒️compile zlib in your build.zig](https://github.com/mattnite/zig-zlib) 
 
