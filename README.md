@@ -848,7 +848,7 @@
     - ![Star](https://img.shields.io/github/stars/rsepassi/zigcoro?color=orange)
     [zigcoro🗒️A Zig coroutine library](https://github.com/rsepassi/zigcoro)
     - ![Star](https://img.shields.io/github/stars/floscodes/coroutinez?color=orange)
-      [coroutinez🗒️A small runtime for running tasks using coroutines in zig.](https://github.com/floscodes/coroutinez)
+    [coroutinez🗒️A small runtime for running tasks using coroutines in zig.](https://github.com/floscodes/coroutinez)
 
 
   - #### Memory Management
