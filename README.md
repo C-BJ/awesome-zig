@@ -847,6 +847,8 @@
     [libxev🗒️libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API](https://github.com/mitchellh/libxev)
     - ![Star](https://img.shields.io/github/stars/rsepassi/zigcoro?color=orange)
     [zigcoro🗒️A Zig coroutine library](https://github.com/rsepassi/zigcoro)
+    - ![Star](https://img.shields.io/github/stars/floscodes/coroutinez?color=orange)
+    [coroutinez🗒️A small runtime for running tasks using coroutines in zig.](https://github.com/floscodes/coroutinez)
 
 
   - #### Memory Management
