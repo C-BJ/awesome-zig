@@ -890,7 +890,9 @@
     - ![Star](https://img.shields.io/github/stars/kprotty/zap?color=orange)
   [zap🗒️An asynchronous runtime with a focus on performance and resource efficiency](https://github.com/kprotty/zap) 
     - ![Star](https://img.shields.io/github/stars/frmdstryr/zig-datetime?color=orange)
-  [zig-datetime🗒️A date and time module for Zig](https://github.com/frmdstryr/zig-datetime) 
+  [zig-datetime🗒️A date and time module for Zig](https://github.com/frmdstryr/zig-datetime)
+    - ![Star](https://img.shields.io/github/stars/deatil/zig-dotenv?color=orange)
+  [zig-dotenv🗒️A parse and set env library for zig](https://github.com/deatil/zig-dotenv) 
     - ![Star](https://img.shields.io/github/stars/nektro/zig-extras?color=orange)
   [zig-extras🗒️An assortment of random utility functions that aren't in std and don't deserve their own package](https://github.com/nektro/zig-extras) 
     - ![Star](https://img.shields.io/github/stars/yrashk/zig-generator?color=orange)
@@ -972,6 +974,8 @@
   [zig-oauth2🗒️HTTP handler functions to allow you to easily add OAuth2 login support to your Zig application](https://github.com/nektro/zig-oauth2)
   - ![Star](https://img.shields.io/github/stars/arshidkv12/zig-php?color=orange)
   [zig-php🗒️PHP extension written in Zig](https://github.com/arshidkv12/zig-php)
+  - ![Star](https://img.shields.io/github/stars/deatil/zig-totp?color=orange)
+  [zig-totp🗒️A totp library for zig](https://github.com/deatil/zig-totp) 
   - ![Star](https://img.shields.io/github/stars/fubark/zig-v8?color=orange)
   [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8)
 
@@ -1005,8 +1009,6 @@
   [zig-nanoid🗒️A tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig](https://github.com/SasLuca/zig-nanoid) 
   - ![Star](https://img.shields.io/github/stars/nektro/zig-pek?color=orange)
   [zig-pek🗒️A comptime HTML preprocessor with a builtin template engine for Zig](https://github.com/nektro/zig-pek) 
-  - ![Star](https://img.shields.io/github/stars/deatil/zig-totp?color=orange)
-  [zig-totp🗒️A totp library for zig](https://github.com/deatil/zig-totp) 
   - ![Star](https://img.shields.io/github/stars/mattnite/zig-zlib?color=orange)
   [zig-zlib🗒️compile zlib in your build.zig](https://github.com/mattnite/zig-zlib) 
 
