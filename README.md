@@ -1044,5 +1044,6 @@
   - [Zig Standard Library Documentation](https://ziglang.org/documentation/master/std/)
  
   - [zig-course(zh_CN)](https://zigcc.github.io/zig-course/)
+  - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
  
 # The End
