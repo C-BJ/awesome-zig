@@ -972,6 +972,8 @@
   [zig-network🗒️A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP](https://github.com/MasterQ32/zig-network) 
   - ![Star](https://img.shields.io/github/stars/nektro/zig-oauth2?color=orange)
   [zig-oauth2🗒️HTTP handler functions to allow you to easily add OAuth2 login support to your Zig application](https://github.com/nektro/zig-oauth2)
+  - ![Star](https://img.shields.io/github/stars/deatil/zig-paseto?color=orange)
+  [zig-paseto🗒️A PASETO (Platform-Agnostic SEcurity TOkens) library for zig](https://github.com/deatil/zig-paseto)
   - ![Star](https://img.shields.io/github/stars/arshidkv12/zig-php?color=orange)
   [zig-php🗒️PHP extension written in Zig](https://github.com/arshidkv12/zig-php)
   - ![Star](https://img.shields.io/github/stars/deatil/zig-totp?color=orange)
