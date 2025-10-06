@@ -1032,6 +1032,7 @@
 
 - ### Learning
   - [Exercism exercises in Zig](https://exercism.org/tracks/zig)
+  - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
   - [zig-cookbook🗒️Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.](https://github.com/zigcc/zig-cookbook)
   - [zig.guide🗒️Repo for https://zig.guide content. Get up to speed with Zig quickly.](https://github.com/Sobeston/zig.guide)
   - [Learning Zig🗒️Comprehensive introduction to Zig](https://www.openmymind.net/learning_zig/)
@@ -1044,6 +1045,5 @@
   - [Zig Standard Library Documentation](https://ziglang.org/documentation/master/std/)
  
   - [zig-course(zh_CN)](https://zigcc.github.io/zig-course/)
-  - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
  
 # The End
