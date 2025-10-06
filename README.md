@@ -59,7 +59,6 @@
 - [Zig Playground](https://zig-play.dev/)
 - [Andrew Kelley's  (founder of zig) Personal Blog](https://andrewkelley.me/)
 - [Loris Cro's Personal Blog](https://kristoff.it/)
-- [Zig Weekly](https://discu.eu/weekly/zig/)
 - [Zigistry](https://zigistry.dev/)
 
 ## Development Tools
@@ -83,8 +82,6 @@
 
   - ![Star](https://img.shields.io/github/stars/cheetah/asdf-zig?color=orange)
   [asdf-zig🗒️zig plugin for asdf version manager](https://github.com/cheetah/asdf-zig)
-  - ![Star](https://img.shields.io/github/stars/mattnite/gyro?color=orange)
-  [gyro🗒️A Zig package manager with an index, build runner, and build dependencies](https://github.com/mattnite/gyro)
   - ![Star](https://img.shields.io/github/stars/zigtools/zpm?color=orange)
   [zpm🗒️Package dependency generator; WIP](https://github.com/zigtools/zpm) 
   - ![Star](https://img.shields.io/github/stars/SpexGuy/Zig-AoC-Template?color=orange)
@@ -439,8 +436,6 @@
   
 - ### Web {#app}
 
-  - ![Star](https://img.shields.io/github/stars/mattnite/astrolabe?color=orange)
-  [astrolabe🗒️backend for https://astrolabe.pm](https://github.com/mattnite/astrolabe) 
   - ![Star](https://img.shields.io/github/stars/by-nir/aws-lambda-zig?color=orange)
   [aws-lambda-zig🗒️Super-fast AWS Lambda runtime for Zig](https://github.com/by-nir/aws-lambda-zig) 
   - ![Star](https://img.shields.io/github/stars/lithdew/hello?color=orange)
@@ -726,8 +721,6 @@
   [dos.zig🗒️Create DOS programs with Zig](https://github.com/jayschwa/dos.zig) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/known-folders?color=orange)
   [known-folders🗒️Provides access to well-known folders across several operating systems](https://github.com/ziglibs/known-folders) 
-  - ![Star](https://img.shields.io/github/stars/alexrp/libffi?color=orange)
-  [libffi🗒️libffi with a Zig build script](https://github.com/alexrp/libffi)
   - ![Star](https://img.shields.io/github/stars/joachimschmidt557/linenoize?color=orange)
   [linenoize🗒️A port of linenoise to zig](https://github.com/joachimschmidt557/linenoize) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/lscolors?color=orange)
@@ -1003,16 +996,12 @@
   [zig-docker🗒️Zig bindings for the Docker Engine API](https://github.com/nektro/zig-docker)
   - ![Star](https://img.shields.io/github/stars/javiorfo/zig-epub?color=orange)
   [zig-epub🗒️minimal zig library for creating EPUB files](https://github.com/javiorfo/zig-epub)
-  - ![Star](https://img.shields.io/github/stars/mattnite/zig-libcurl?color=orange)
-  [zig-libcurl🗒️compile libcurl in your build.zig](https://github.com/mattnite/zig-libcurl) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/zig-lv2?color=orange)
   [zig-lv2🗒️Zig-intuitive bindings for LV2](https://github.com/ziglibs/zig-lv2) 
   - ![Star](https://img.shields.io/github/stars/SasLuca/zig-nanoid?color=orange)
   [zig-nanoid🗒️A tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig](https://github.com/SasLuca/zig-nanoid) 
   - ![Star](https://img.shields.io/github/stars/nektro/zig-pek?color=orange)
   [zig-pek🗒️A comptime HTML preprocessor with a builtin template engine for Zig](https://github.com/nektro/zig-pek) 
-  - ![Star](https://img.shields.io/github/stars/mattnite/zig-zlib?color=orange)
-  [zig-zlib🗒️compile zlib in your build.zig](https://github.com/mattnite/zig-zlib) 
 
 ## Resources
 
