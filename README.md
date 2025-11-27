@@ -877,6 +877,8 @@
   [log.zig🗒️a thread-safe logging library for zig](https://github.com/emekoi/log.zig) 
     - ![Star](https://img.shields.io/github/stars/alexnask/PeerType?color=orange)
   [PeerType🗒️Zig peer type resolution at comptime, ported from the compiler source code](https://github.com/alexnask/PeerType) 
+    - ![Star](https://img.shields.io/github/stars/burdzwastaken/raftz?color=orange)
+  [raftz🗒️Raft consensus algorithm](https://github.com/burdzwastaken/raftz)
     - ![Star](https://img.shields.io/github/stars/floooh/sokol-zig?color=orange)
   [sokol-zig🗒️Zig bindings for the sokol headers (https://github.com/floooh/sokol)](https://github.com/floooh/sokol-zig) 
     - [trace.zig🗒️A small and simple tracing client library for Zig](https://gitlab.com/zig_tracing/trace.zig)
