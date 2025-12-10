@@ -615,6 +615,8 @@
   [IUPforZig🗒️Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit](https://github.com/batiati/IUPforZig)
    - ![Star](https://img.shields.io/github/stars/Jack-Ji/jok?color=orange)
   [jok🗒️A minimal 2d/3d game framework for @ziglang.](https://github.com/Jack-Ji/jok) 
+  - ![Star](https://img.shields.io/github/stars/rcalixte/libqt6zig?color=orange)
+  [libqt6zig🗒️Qt 6 for Zig](https://github.com/rcalixte/libqt6zig)
   - ![Star](https://img.shields.io/github/stars/kassane/libvlc-zig?color=orange)
   [libvlc-zig🗒️Zig bindings for libVLC media framework](https://github.com/kassane/libvlc-zig) 
   - ![Star](https://img.shields.io/github/stars/hexops/mach?color=orange)
