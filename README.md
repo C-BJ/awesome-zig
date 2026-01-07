@@ -883,6 +883,8 @@
   [raftz🗒️Raft consensus algorithm](https://github.com/burdzwastaken/raftz)
     - ![Star](https://img.shields.io/github/stars/floooh/sokol-zig?color=orange)
   [sokol-zig🗒️Zig bindings for the sokol headers (https://github.com/floooh/sokol)](https://github.com/floooh/sokol-zig) 
+    - ![Star](https://img.shields.io/github/stars/mishieck/text-file-tree?color=orange)
+  [text-file-tree🗒️A library for converting text file trees to native file paths](https://github.com/mishieck/text-file-tree) 
     - [trace.zig🗒️A small and simple tracing client library for Zig](https://gitlab.com/zig_tracing/trace.zig)
     - ![Star](https://img.shields.io/github/stars/kprotty/zap?color=orange)
   [zap🗒️An asynchronous runtime with a focus on performance and resource efficiency](https://github.com/kprotty/zap) 
