@@ -886,6 +886,8 @@
     - ![Star](https://img.shields.io/github/stars/mishieck/text-file-tree?color=orange)
   [text-file-tree🗒️A library for converting text file trees to native file paths](https://github.com/mishieck/text-file-tree) 
     - [trace.zig🗒️A small and simple tracing client library for Zig](https://gitlab.com/zig_tracing/trace.zig)
+    - ![Star](https://img.shields.io/github/stars/mishieck/uri-glob?color=orange)
+  [uri-glob🗒️A library for working with globs in URIs.](https://github.com/mishieck/uri-glob) 
     - ![Star](https://img.shields.io/github/stars/kprotty/zap?color=orange)
   [zap🗒️An asynchronous runtime with a focus on performance and resource efficiency](https://github.com/kprotty/zap) 
     - ![Star](https://img.shields.io/github/stars/frmdstryr/zig-datetime?color=orange)
