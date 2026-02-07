@@ -180,6 +180,8 @@
   [zig-inquirer🗒️A collection of utilities for prompting information from the user on the CLI](https://github.com/nektro/zig-inquirer) 
   - ![Star](https://img.shields.io/github/stars/ratfactor/zigish?color=orange)
   [zigish🗒️A toy Unix shell written in Zig](https://github.com/ratfactor/zigish) 
+  - ![Star](https://img.shields.io/github/stars/meszmate/zigzag?color=orange)
+  [zigzag🗒️The TUI Framework for Zig](https://github.com/meszmate/zigzag) 
 
 - ### Compiler & Parser & Interpreter
 
