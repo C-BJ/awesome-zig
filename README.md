@@ -180,8 +180,6 @@
   [zig-inquirer🗒️A collection of utilities for prompting information from the user on the CLI](https://github.com/nektro/zig-inquirer) 
   - ![Star](https://img.shields.io/github/stars/ratfactor/zigish?color=orange)
   [zigish🗒️A toy Unix shell written in Zig](https://github.com/ratfactor/zigish) 
-  - ![Star](https://img.shields.io/github/stars/meszmate/zigzag?color=orange)
-  [zigzag🗒️The TUI Framework for Zig](https://github.com/meszmate/zigzag) 
 
 - ### Compiler & Parser & Interpreter
 
@@ -758,7 +756,9 @@
   - ![Star](https://img.shields.io/github/stars/ziglibs/zig-windows-console?color=orange)
   [zig-windows-console🗒️Zig Windows Console stuff](https://github.com/ziglibs/zig-windows-console) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/zinput?color=orange)
-  [zinput🗒️A Zig command-line input library!](https://github.com/ziglibs/zinput) 
+  [zinput🗒️A Zig command-line input library!](https://github.com/ziglibs/zinput)
+  - ![Star](https://img.shields.io/github/stars/meszmate/zigzag?color=orange)
+  [zigzag🗒️The TUI Framework for Zig](https://github.com/meszmate/zigzag) 
 
 - ### Universal
 
