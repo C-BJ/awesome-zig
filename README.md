@@ -1044,7 +1044,7 @@
   [Zig Programming Language Tutorials](https://www.youtube.com/watch?v=fQ08HMZLbCw&list=PLRMNjZSQLv5iGpjubyzlWYcGqiTPVyK3s)
   - [Zig Language Reference](https://ziglang.org/documentation/master/)
   - [Zig Standard Library Documentation](https://ziglang.org/documentation/master/std/)
- 
   - [zig-course(zh_CN)](https://zigcc.github.io/zig-course/)
+  - [Zen of Zig 🗒️Interactive Zig book](https://zenofzig.com)
  
 # The End
