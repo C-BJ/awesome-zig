@@ -415,7 +415,6 @@
   - ![Star](https://img.shields.io/github/stars/leecannon/zig-x86_64?color=orange)
   [zig-x86_64🗒️Support for x86_64 specific instructions (e.g. TLB flush), registers (e.g. control registers), and structures (e.g. page tables)](https://github.com/leecannon/zig-x86_64)
   - ![Star](https://img.shields.io/github/stars/javiorfo/ztatusbar)
-  [ztatusbar🗒️Configurable statusbar for Xorg server using xsetroot](https://github.com/javiorfo/ztatusbar)
   
 - ### Simulator & Virtual Machine & Emulator
 
