@@ -494,7 +494,7 @@
   - ![Star](https://img.shields.io/github/stars/riverwm/river?color=orange)
   [river🗒️A dynamic tiling Wayland compositor](https://github.com/riverwm/river)
   - ![Star](https://img.shields.io/github/stars/gnyblast/tase?color=orange)
-  [Tase🗒️Tase is a lightweight log management system](https://github.com/gnyblast/tase)
+  [Tase🗒️A lightweight log management system. It consists of a daemon running on a master server and lightweight agents deployed across multiple servers with a single config file for everything.](https://github.com/gnyblast/tase)
   - ![Star](https://img.shields.io/github/stars/dominikh/wayfarer?color=orange)
   [wayfarer🗒️Experiments involving a Zig Wayland compositor](https://github.com/dominikh/wayfarer) 
   - ![Star](https://img.shields.io/github/stars/ifreund/waylock?color=orange)
