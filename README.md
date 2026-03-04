@@ -26,6 +26,7 @@
   - [Game and Desktop(GUI) Applications](#game--desktopgui-applications)
   - [Operating Systems & Kernels](#operating-systems--kernels)
   - [Simulator & Virtual Machine & Emulator](#simulator--virtual-machine--emulator)
+  - [Systems & DevOps](#systems--devops)
   - [Web](#web-app)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
@@ -431,7 +432,11 @@
   - ![Star](https://img.shields.io/github/stars/Ronsor/riscv-zig?color=orange)
   [riscv-zig🗒️A RISC-V emulator written in Zig](https://github.com/Ronsor/riscv-zig) 
   - ![Star](https://img.shields.io/github/stars/I-mikan-I/zlox?color=orange)
-  [zlox🗒️lox virtual machine implementation in zig!](https://github.com/I-mikan-I/zlox) 
+  [zlox🗒️lox virtual machine implementation in zig!](https://github.com/I-mikan-I/zlox)
+
+- ### Systems & DevOps
+  - ![Star](https://img.shields.io/github/stars/gnyblast/tase?color=orange)
+  [Tase🗒️A lightweight log management system. It consists of a daemon running on a master server and lightweight agents deployed across multiple servers with a single config file for everything.](https://github.com/gnyblast/tase)
   
 - ### Web {#app}
 
@@ -493,8 +498,6 @@
   [proxy-wasm-cloud-logging-trace-context🗒️A proxy-wasm compliant WebAssembly module for making proxies integrate with Google Cloud Logging](https://github.com/kauche/proxy-wasm-cloud-logging-trace-context) 
   - ![Star](https://img.shields.io/github/stars/riverwm/river?color=orange)
   [river🗒️A dynamic tiling Wayland compositor](https://github.com/riverwm/river)
-  - ![Star](https://img.shields.io/github/stars/gnyblast/tase?color=orange)
-  [Tase🗒️A lightweight log management system. It consists of a daemon running on a master server and lightweight agents deployed across multiple servers with a single config file for everything.](https://github.com/gnyblast/tase)
   - ![Star](https://img.shields.io/github/stars/dominikh/wayfarer?color=orange)
   [wayfarer🗒️Experiments involving a Zig Wayland compositor](https://github.com/dominikh/wayfarer) 
   - ![Star](https://img.shields.io/github/stars/ifreund/waylock?color=orange)
