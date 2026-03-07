@@ -553,6 +553,8 @@
   [inon🗒️Data serialization format in Zig](https://github.com/iddev5/inon) 
   - ![Star](https://img.shields.io/github/stars/Hejsil/mecha?color=orange)
   [mecha🗒️A parser combinator library for Zig](https://github.com/Hejsil/mecha) 
+  - ![Star](https://img.shields.io/github/stars/mattnite/protobuf?color=orange)
+  [protobuf🗒️A pure-Zig Protocol Buffers library with standalone .proto parser, build-time code generator, and RPC stub generation. Supports proto2 and proto3](https://github.com/mattnite/protobuf)
   - ![Star](https://img.shields.io/github/stars/ziglibs/s2s?color=orange)
   [s2s🗒️A zig binary serialization format](https://github.com/ziglibs/s2s) 
   - ![Star](https://img.shields.io/github/stars/shiguredo/tls13-zig?color=orange)
