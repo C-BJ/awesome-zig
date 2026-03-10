@@ -180,6 +180,8 @@
   [zig-inquirer🗒️A collection of utilities for prompting information from the user on the CLI](https://github.com/nektro/zig-inquirer) 
   - ![Star](https://img.shields.io/github/stars/ratfactor/zigish?color=orange)
   [zigish🗒️A toy Unix shell written in Zig](https://github.com/ratfactor/zigish) 
+  - ![Star](https://img.shields.io/github/stars/here-leslie-lau/zlist?color=orange)
+  [zlist🗒️A simple, colorful alternative to ls built with Zig](https://github.com/here-Leslie-Lau/zlist) 
 
 - ### Compiler & Parser & Interpreter
 
