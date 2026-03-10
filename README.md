@@ -467,6 +467,8 @@
 - ### Other Applications
   - ![Star](https://img.shields.io/github/stars/oven-sh/bun?color=orange)
   [bun🗒️Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one](https://github.com/oven-sh/bun) 
+  - ![Star](https://img.shields.io/github/stars/hyperpolymath/boj-server?color=orange)
+  [boj-server🗒️Federated developer tool catalogue with 18 capability cartridges. Zig handles the FFI layer (C-ABI exports, thread-safe mutexes, shared library compilation). Paired with Idris2 for formal verification and V-lang for network adapters. 307 tests, zero runtime dependencies.](https://github.com/hyperpolymath/boj-server)
   - ![Star](https://img.shields.io/github/stars/Luukdegram/cld?color=orange)
   [cld🗒️Linker for the Coff/PE file format](https://github.com/Luukdegram/cld) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/computils?color=orange)
