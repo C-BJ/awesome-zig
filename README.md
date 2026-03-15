@@ -22,11 +22,11 @@
   - [Command Line](#command-line)
   - [Compiler & Parser & Interpreter](#compiler--parser--interpreter)
   - [Database](#database)
+  - [DevOps](#devops)
   - [Embedded](#embedded)
   - [Game and Desktop(GUI) Applications](#game--desktopgui-applications)
   - [Operating Systems & Kernels](#operating-systems--kernels)
   - [Simulator & Virtual Machine & Emulator](#simulator--virtual-machine--emulator)
-  - [Systems & DevOps](#systems--devops)
   - [Web](#web-app)
   - [Other Applications](#other-applications)
 - [Libraries](#libraries)
@@ -92,8 +92,6 @@
 
 - ### Other Tools
 
-  - ![Star](https://img.shields.io/github/stars/nektro/aquila?color=orange)
-  [aquila🗒️📫 A federated package index and CI system for Zig projects](https://github.com/nektro/aquila) 
   - ![Star](https://img.shields.io/github/stars/mkeeter/futureproof?color=orange)
   [futureproof🗒️A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!](https://github.com/mkeeter/futureproof) 
   - ![Star](https://img.shields.io/github/stars/zig-java/jaz?color=orange)
@@ -103,9 +101,7 @@
   - ![Star](https://img.shields.io/github/stars/andrewrk/poop?color=orange)
   [poop🗒️Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
   - ![Star](https://img.shields.io/github/stars/ziglibs/repository?color=orange)
-  [repository🗒️A community-maintained repository of zig packages](https://github.com/ziglibs/repository) 
-  - ![Star](https://img.shields.io/github/stars/goto-bus-stop/setup-zig?color=orange)
-  [setup-zig🗒️use a @ziglang compiler in your github actions workflows](https://github.com/goto-bus-stop/setup-zig) 
+  [repository🗒️A community-maintained repository of zig packages](https://github.com/ziglibs/repository)  
   - ![Star](https://img.shields.io/github/stars/justinbalexander/svd2zig?color=orange)
   [svd2zig🗒️Convert System View Description (svd) files to Zig headers for baremetal development](https://github.com/justinbalexander/svd2zig) 
   - ![Star](https://img.shields.io/github/stars/maxxnino/tree-sitter-zig?color=orange)
@@ -136,8 +132,6 @@
   [zld🗒️Zig's lld drop-in replacement](https://github.com/kubkon/zld) 
   - ![Star](https://img.shields.io/github/stars/zigtools/zls?color=orange)
   [zls🗒️Zig LSP implementation + Zig Language Server](https://github.com/zigtools/zls) 
-  - ![Star](https://img.shields.io/github/stars/nix-community/zon2nix?color=orange)
-  [zon2nix🗒️Convert the dependencies in `build.zig.zon` to a Nix expression](https://github.com/nix-community/zon2nix)
   - ![Star](https://img.shields.io/github/stars/tristanisham/zvm?color=orange)
   [zvm🗒️Easily install/upgrade between different versions of Zig. ZLS install can be included.](https://github.com/tristanisham/zvm)
 
@@ -283,7 +277,19 @@
   - ![Star](https://img.shields.io/github/stars/vrischmann/zig-sqlite?color=orange)
   [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig](https://github.com/vrischmann/zig-sqlite) 
   - ![Star](https://img.shields.io/github/stars/karlseguin/zuckdb.zig?color=orange)
-  [zuckdb.zig🗒️driver for DuckDB, making it easier to use with Zig](https://github.com/karlseguin/zuckdb.zig) 
+  [zuckdb.zig🗒️driver for DuckDB, making it easier to use with Zig](https://github.com/karlseguin/zuckdb.zig)
+
+- ### DevOps
+  - ![Star](https://img.shields.io/github/stars/nektro/aquila?color=orange)
+  [aquila🗒️📫 A federated package index and CI system for Zig projects](https://github.com/nektro/aquila)
+  - ![Star](https://img.shields.io/github/stars/mqttiotstuff/iotmonitor?color=orange)
+  [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents](https://github.com/mqttiotstuff/iotmonitor)
+  - ![Star](https://img.shields.io/github/stars/goto-bus-stop/setup-zig?color=orange)
+  [setup-zig🗒️use a @ziglang compiler in your github actions workflows](https://github.com/goto-bus-stop/setup-zig)
+  - ![Star](https://img.shields.io/github/stars/gnyblast/tase?color=orange)
+  [Tase🗒️A lightweight log management system. It consists of a daemon running on a master server and lightweight agents deployed across multiple servers with a single config file for everything.](https://github.com/gnyblast/tase)
+  - ![Star](https://img.shields.io/github/stars/nix-community/zon2nix?color=orange)
+  [zon2nix🗒️Convert the dependencies in `build.zig.zon` to a Nix expression](https://github.com/nix-community/zon2nix)
 
 - ### Embedded
   
@@ -435,10 +441,6 @@
   [riscv-zig🗒️A RISC-V emulator written in Zig](https://github.com/Ronsor/riscv-zig) 
   - ![Star](https://img.shields.io/github/stars/I-mikan-I/zlox?color=orange)
   [zlox🗒️lox virtual machine implementation in zig!](https://github.com/I-mikan-I/zlox)
-
-- ### Systems & DevOps
-  - ![Star](https://img.shields.io/github/stars/gnyblast/tase?color=orange)
-  [Tase🗒️A lightweight log management system. It consists of a daemon running on a master server and lightweight agents deployed across multiple servers with a single config file for everything.](https://github.com/gnyblast/tase)
   
 - ### Web {#app}
 
@@ -492,8 +494,6 @@
   [hexdump-zip🗒️produce an annotated hexdump of a zipfile](https://github.com/thejoshwolfe/hexdump-zip) 
   - ![Star](https://img.shields.io/github/stars/alexnask/iguanaTLS?color=orange)
   [iguanaTLS🗒️Minimal, experimental TLS 1.2 implementation in Zig](https://github.com/alexnask/iguanaTLS) 
-  - ![Star](https://img.shields.io/github/stars/mqttiotstuff/iotmonitor?color=orange)
-  [iotmonitor🗒️Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents](https://github.com/mqttiotstuff/iotmonitor) 
   - ![Star](https://img.shields.io/github/stars/mjoerussell/onenightonearth?color=orange)
   [onenightonearth🗒️An interactive star map, written in Typescript and WebAssembly using Zig](https://github.com/mjoerussell/onenightonearth) 
   - ![Star](https://img.shields.io/github/stars/floooh/pacman.zig?color=orange)
