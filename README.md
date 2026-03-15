@@ -181,6 +181,8 @@
   [zig-inquirer🗒️A collection of utilities for prompting information from the user on the CLI](https://github.com/nektro/zig-inquirer) 
   - ![Star](https://img.shields.io/github/stars/ratfactor/zigish?color=orange)
   [zigish🗒️A toy Unix shell written in Zig](https://github.com/ratfactor/zigish) 
+  - ![Star](https://img.shields.io/github/stars/here-leslie-lau/zlist?color=orange)
+  [zlist🗒️A simple, colorful alternative to ls built with Zig](https://github.com/here-Leslie-Lau/zlist) 
 
 - ### Compiler & Parser & Interpreter
 
@@ -470,6 +472,8 @@
   [zwld🗒️Experimental wasm linker](https://github.com/Luukdegram/zwld) 
 
 - ### Other Applications
+  - ![Star](https://img.shields.io/github/stars/hyperpolymath/boj-server?color=orange)
+  [boj-server🗒️Federated developer tool catalogue with 18 capability cartridges. Zig handles the FFI layer (C-ABI exports, thread-safe mutexes, shared library compilation). Paired with Idris2 for formal verification and V-lang for network adapters. 307 tests, zero runtime dependencies.](https://github.com/hyperpolymath/boj-server)
   - ![Star](https://img.shields.io/github/stars/oven-sh/bun?color=orange)
   [bun🗒️Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one](https://github.com/oven-sh/bun) 
   - ![Star](https://img.shields.io/github/stars/Luukdegram/cld?color=orange)
@@ -558,6 +562,8 @@
   [inon🗒️Data serialization format in Zig](https://github.com/iddev5/inon) 
   - ![Star](https://img.shields.io/github/stars/Hejsil/mecha?color=orange)
   [mecha🗒️A parser combinator library for Zig](https://github.com/Hejsil/mecha) 
+  - ![Star](https://img.shields.io/github/stars/mattnite/protobuf?color=orange)
+  [protobuf🗒️A pure-Zig Protocol Buffers library with standalone .proto parser, build-time code generator, and RPC stub generation. Supports proto2 and proto3](https://github.com/mattnite/protobuf)
   - ![Star](https://img.shields.io/github/stars/ziglibs/s2s?color=orange)
   [s2s🗒️A zig binary serialization format](https://github.com/ziglibs/s2s) 
   - ![Star](https://img.shields.io/github/stars/shiguredo/tls13-zig?color=orange)
@@ -722,7 +728,7 @@
   - ![Star](https://img.shields.io/github/stars/ziglibs/ansi-term?color=orange)
   [ansi-term🗒️Zig library for dealing with ANSI terminals](https://github.com/ziglibs/ansi-term)
   - ![Star](https://img.shields.io/github/stars/00jciv00/cova?color=orange)
-   [cova🗒️Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.](https://github.com/ziglibs/ansi-term)
+   [cova🗒️Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.](https://github.com/00JCIV00/cova)
   - ![Star](https://img.shields.io/github/stars/jayschwa/dos.zig?color=orange)
   [dos.zig🗒️Create DOS programs with Zig](https://github.com/jayschwa/dos.zig) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/known-folders?color=orange)
