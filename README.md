@@ -10,6 +10,7 @@
 
 **Note🗒️A project can be a development tool, application, library or other category at the same time, but it will only appear once in this guide.**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Zig programming workflow orchestration, automated systems development management, and multi-agent coordination. MIT licensed.
 ## Table Of Contents
 
 - [Related Web Sites](#related-web-sites)
