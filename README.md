@@ -323,7 +323,7 @@
   - ![Star](https://img.shields.io/github/stars/Avokadoen/gamejam-zig-vulkan?color=orange)
   [gamejam-zig-vulkan🗒️A game written in ~1 day using zig and vulkan](https://github.com/Avokadoen/gamejam-zig-vulkan)
   - ![Star](https://img.shields.io/github/stars/hyperpolymath/gossamer?color=orange)
-  [gossamer🗒️A linearly-typed webview shell with Zig FFI — linearly-owned window handles, typed IPC, compiler-enforced permissions. Cross-platform (Linux/Windows/macOS)](https://github.com/hyperpolymath/gossamer)
+  [gossamer🗒️Cross-platform desktop webview shell with Zig FFI](https://github.com/hyperpolymath/gossamer)
   - ![Star](https://img.shields.io/github/stars/zig-community/hello-triangle?color=orange)
   [hello-triangle🗒️Opens a window and draws a nice little triangle](https://github.com/zig-community/hello-triangle) 
   - ![Star](https://img.shields.io/github/stars/thejoshwolfe/legend-of-swarkland?color=orange)
