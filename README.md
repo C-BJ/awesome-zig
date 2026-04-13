@@ -114,6 +114,8 @@
   [zig-deploy🗒️Deploy your iOS apps written with Zig!](https://github.com/kubkon/zig-deploy) 
   - ![Star](https://img.shields.io/github/stars/tomhoule/zig-diff?color=orange)
   [zig-diff🗒️Text diffing in zig](https://github.com/tomhoule/zig-diff) 
+  - ![Star](https://img.shields.io/github/stars/ryo-zen/zig-docs-mcp?color=orange)
+  [zig-docs-mcp🗒️MCP server for Zig 0.16 language docs, stdlib references, and code examples](https://github.com/ryo-zen/zig-docs-mcp)
   - ![Star](https://img.shields.io/github/stars/kristoff-it/zig-doctest?color=orange)
   [zig-doctest🗒️A tool for testing snippets of code, useful for websites and books that talk about Zig](https://github.com/kristoff-it/zig-doctest) 
   - ![Star](https://img.shields.io/github/stars/shritesh/zigfmt-web?color=orange)
@@ -148,6 +150,8 @@
   [rheia🗒️A blockchain written in Zig](https://github.com/lithdew/rheia)
   - ![Star](https://img.shields.io/github/stars/Syndica/sig?color=orange)
   [Sig🗒️A Solana Zig validator client](https://github.com/Syndica/sig)
+  - ![Star](https://img.shields.io/github/stars/ryo-zen/zeicoin?color=orange)
+  [zeicoin🗒️A fast and lightweight Layer 1 blockchain written in Zig](https://github.com/ryo-zen/zeicoin)
   - ![Star](https://img.shields.io/github/stars/keep-starknet-strange/ziggy-starkdust?color=orange)
   [ziggy-starkdust🗒️Cairo VM in Zig](https://github.com/keep-starknet-strange/ziggy-starkdust)
 
