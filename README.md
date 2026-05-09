@@ -176,7 +176,9 @@
   - ![Star](https://img.shields.io/github/stars/ratfactor/zigish?color=orange)
   [zigish🗒️A toy Unix shell written in Zig](https://github.com/ratfactor/zigish) 
   - ![Star](https://img.shields.io/github/stars/here-leslie-lau/zlist?color=orange)
-  [zlist🗒️A simple, colorful alternative to ls built with Zig](https://github.com/here-Leslie-Lau/zlist) 
+  [zlist🗒️A simple, colorful alternative to ls built with Zig](https://github.com/here-Leslie-Lau/zlist)
+  - ![Star](https://img.shields.io/github/stars/mjgil-zig/zdu?color=orange)
+  [zdu🗒️A fast, low-memory TUI disk usage analyzer written in Zig](https://github.com/mjgil-zig/zdu) 
 
 - ### Compiler & Parser & Interpreter
 
