@@ -459,6 +459,8 @@
   [zelda🗒️A simple HTTP client library for Zig](https://github.com/haze/zelda) 
   - ![Star](https://img.shields.io/github/stars/floscodes/zerve?color=orange)
   [zerve🗒️Simple framework for writing web services and web apps in zig](https://github.com/floscodes/zerve) 
+  - ![Star](https://img.shields.io/github/stars/ziex-dev/ziex?color=orange)
+  [ziex🗒️A full-stack web framework for Zig](https://github.com/ziex-dev/ziex) 
   - ![Star](https://img.shields.io/github/stars/haze/zig-libressl?color=orange)
   [zig-libressl🗒️LibreSSL stream wrappers for Zig](https://github.com/haze/zig-libressl)
   - ![Star](https://img.shields.io/github/stars/kubkon/zig-objdump?color=orange)
