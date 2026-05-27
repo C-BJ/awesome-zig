@@ -170,15 +170,15 @@
   - ![Star](https://img.shields.io/github/stars/ekzhang/redis-rope?color=orange)
   [redis-rope🗒️A fast native data type for manipulating large strings in Redis](https://github.com/ekzhang/redis-rope) 
   - ![Star](https://img.shields.io/github/stars/kubkon/zcoff?color=orange)
-  [zcoff🗒️Like dumpbin.exe but cross-platform](https://github.com/kubkon/zcoff) 
+  [zcoff🗒️Like dumpbin.exe but cross-platform](https://github.com/kubkon/zcoff)
+  - ![Star](https://img.shields.io/github/stars/mjgil-zig/zdu?color=orange)
+  [zdu🗒️A fast, low-memory TUI disk usage analyzer written in Zig](https://github.com/mjgil-zig/zdu) 
   - ![Star](https://img.shields.io/github/stars/nektro/zig-inquirer?color=orange)
   [zig-inquirer🗒️A collection of utilities for prompting information from the user on the CLI](https://github.com/nektro/zig-inquirer) 
   - ![Star](https://img.shields.io/github/stars/ratfactor/zigish?color=orange)
   [zigish🗒️A toy Unix shell written in Zig](https://github.com/ratfactor/zigish) 
   - ![Star](https://img.shields.io/github/stars/here-leslie-lau/zlist?color=orange)
   [zlist🗒️A simple, colorful alternative to ls built with Zig](https://github.com/here-Leslie-Lau/zlist)
-  - ![Star](https://img.shields.io/github/stars/mjgil-zig/zdu?color=orange)
-  [zdu🗒️A fast, low-memory TUI disk usage analyzer written in Zig](https://github.com/mjgil-zig/zdu) 
 
 - ### Compiler & Parser & Interpreter
 
