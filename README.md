@@ -931,6 +931,8 @@
   [zig-ulid🗒️A binary implementation of ULID in Zig](https://github.com/nektro/zig-ulid) 
     - ![Star](https://img.shields.io/github/stars/ranciere/zoltan?color=orange)
   [zoltan🗒️A Sol-inspired minimalist Lua binding for Zig](https://github.com/ranciere/zoltan)
+    - ![Star](https://img.shields.io/github/stars/eoan-ermine/zig-strparse?color=orange)
+  [zig-strparse🗒️Generic string parsing library for Zig](https://github.com/eoan-ermine/zig-strparse)
 
 - ### Web {#lib}
 
