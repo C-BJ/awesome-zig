@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.vendor/
+dist/
+build/
+target/
+bin/
+*.egg-info/
+__pycache__/
+.venv/
+venv/
+.env/
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Cache
+harden/
+.cargo/registry/
+.cargo/git/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
