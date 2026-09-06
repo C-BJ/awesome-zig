@@ -216,6 +216,8 @@
   [LoLa🗒️LoLa is a small programming language meant to be embedded into games](https://github.com/MasterQ32/LoLa) 
   - ![Star](https://img.shields.io/github/stars/Luukdegram/luf?color=orange)
   [luf🗒️Statically typed, embeddable, scripting language written in Zig](https://github.com/Luukdegram/luf)
+  - ![Star](https://img.shields.io/github/stars/npmonster/yayl?color=orange)
+  [yayl🗒️YAML 1.2 parser, editor and emitter for Zig](https://github.com/npmonster/yayl) 
   - ![Star](https://img.shields.io/github/stars/kubkon/protozig?color=orange)
   [protozig🗒️The protozig(uana), or protocol buffers implementation in Zig](https://github.com/kubkon/protozig) 
   - ![Star](https://img.shields.io/github/stars/chwayne/rem?color=orange)
