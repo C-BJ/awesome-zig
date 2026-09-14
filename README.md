@@ -714,6 +714,20 @@
   [zwin🗒️Making windows with Zig! (Only works on Windows at the moment)](https://github.com/ziglibs/zwin) 
   - ![Star](https://img.shields.io/github/stars/Aransentin/ZWL?color=orange)
   [ZWL🗒️Zig Windowing Library](https://github.com/Aransentin/ZWL) 
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/zcgltf?color=orange)
+  [zcgltf🗒️Zig bindings for cgltf, glTF 2.0 parsing and writing](https://github.com/pedronaugusto/zcgltf)
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/zecs?color=orange)
+  [zecs🗒️Zig bindings for flecs, an entity component system](https://github.com/pedronaugusto/zecs)
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/zjolt?color=orange)
+  [zjolt🗒️Zig bindings for Jolt Physics](https://github.com/pedronaugusto/zjolt)
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/zmeshopt?color=orange)
+  [zmeshopt🗒️Zig bindings for meshoptimizer](https://github.com/pedronaugusto/zmeshopt)
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/zozz?color=orange)
+  [zozz🗒️Zig bindings for the ozz-animation runtime](https://github.com/pedronaugusto/zozz)
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/zrecast?color=orange)
+  [zrecast🗒️Zig bindings for recastnavigation, navmesh baking and path queries](https://github.com/pedronaugusto/zrecast)
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/ztypeset?color=orange)
+  [ztypeset🗒️Text shaping and glyph rasterisation over FreeType, HarfBuzz, SheenBidi and libunibreak](https://github.com/pedronaugusto/ztypeset)
 
 - ### Language Bindings
 
