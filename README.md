@@ -548,6 +548,8 @@
 
 - ### Database Operation
 
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/chronicle?color=orange)
+  [chronicle🗒️An append-only event log for Zig](https://github.com/pedronaugusto/chronicle)
   - ![Star](https://img.shields.io/github/stars/lithdew/lmdb-zig?color=orange)
   [lithdew/lmdb-zig🗒️Lightweight, fully-featured, idiomatic cross-platform Zig bindings to Lightning Memory-Mapped Database (LMDB)](https://github.com/lithdew/lmdb-zig) 
   - ![Star](https://img.shields.io/github/stars/vrischmann/zig-sqlite?color=orange)
@@ -569,6 +571,8 @@
   [mecha🗒️A parser combinator library for Zig](https://github.com/Hejsil/mecha) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/s2s?color=orange)
   [s2s🗒️A zig binary serialization format](https://github.com/ziglibs/s2s) 
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/strand?color=orange)
+  [strand🗒️Typed JSON Lines for Zig, one JSON value per line](https://github.com/pedronaugusto/strand)
   - ![Star](https://img.shields.io/github/stars/shiguredo/tls13-zig?color=orange)
   [tls13-zig🗒️The first TLS1.3 implementation in Zig(master/HEAD) only with std](https://github.com/shiguredo/tls13-zig) 
   - ![Star](https://img.shields.io/github/stars/ziglibs/uuencode?color=orange)
@@ -732,6 +736,8 @@
 
   - ![Star](https://img.shields.io/github/stars/ziglibs/ansi-term?color=orange)
   [ansi-term🗒️Zig library for dealing with ANSI terminals](https://github.com/ziglibs/ansi-term)
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/conduit?color=orange)
+  [conduit🗒️Starts child processes and gives them pseudo-terminals](https://github.com/pedronaugusto/conduit)
   - ![Star](https://img.shields.io/github/stars/00jciv00/cova?color=orange)
    [cova🗒️Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.](https://github.com/00JCIV00/cova)
   - ![Star](https://img.shields.io/github/stars/jayschwa/dos.zig?color=orange)
@@ -740,10 +746,14 @@
   [known-folders🗒️Provides access to well-known folders across several operating systems](https://github.com/ziglibs/known-folders) 
   - ![Star](https://img.shields.io/github/stars/joachimschmidt557/linenoize?color=orange)
   [linenoize🗒️A port of linenoise to zig](https://github.com/joachimschmidt557/linenoize) 
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/lookout?color=orange)
+  [lookout🗒️A file-system watcher for Zig, over each platform's own notification interface](https://github.com/pedronaugusto/lookout)
   - ![Star](https://img.shields.io/github/stars/ziglibs/lscolors?color=orange)
   [lscolors🗒️A zig library for colorizing paths according to LS_COLORS](https://github.com/ziglibs/lscolors) 
   - ![Star](https://img.shields.io/github/stars/xyaman/mibu?color=orange)
   [mibu🗒️Pure Zig library for low-level terminal manipulation](https://github.com/xyaman/mibu) 
+  - ![Star](https://img.shields.io/github/stars/pedronaugusto/morse?color=orange)
+  [morse🗒️Writes terminal control sequences and parses the bytes a terminal sends back](https://github.com/pedronaugusto/morse)
   - ![Star](https://img.shields.io/github/stars/fabioarnold/nfd-zig?color=orange)
   [nfd-zig🗒️OS-native file dialogs on Linux, macOS and Windows](https://github.com/fabioarnold/nfd-zig) 
   - ![Star](https://img.shields.io/github/stars/MasterQ32/TextEditor?color=orange)
