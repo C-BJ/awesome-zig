@@ -442,6 +442,8 @@
   [kc85.zig🗒️A KC85 emulator written in Zig](https://github.com/floooh/kc85.zig) 
   - ![Star](https://img.shields.io/github/stars/Ronsor/riscv-zig?color=orange)
   [riscv-zig🗒️A RISC-V emulator written in Zig](https://github.com/Ronsor/riscv-zig) 
+  - ![Star](https://img.shields.io/github/stars/ensky0/tildaz?color=orange)
+  [TildaZ🗒️Native Quake-style drop-down terminal for Linux, macOS, and Windows, built on libghostty-vt](https://github.com/ensky0/tildaz)
   - ![Star](https://img.shields.io/github/stars/I-mikan-I/zlox?color=orange)
   [zlox🗒️lox virtual machine implementation in zig!](https://github.com/I-mikan-I/zlox)
   
