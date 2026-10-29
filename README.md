@@ -183,6 +183,8 @@
   [zigish🗒️A toy Unix shell written in Zig](https://github.com/ratfactor/zigish) 
   - ![Star](https://img.shields.io/github/stars/here-leslie-lau/zlist?color=orange)
   [zlist🗒️A simple, colorful alternative to ls built with Zig](https://github.com/here-Leslie-Lau/zlist)
+  - ![Star](https://img.shields.io/github/stars/aikoschurmann/zog?color=orange)
+  [zog🗒️Fast JSONL search engine with a SQL-like query language for filtering, field extraction and aggregation](https://github.com/aikoschurmann/zog)
 
 - ### Compiler & Parser & Interpreter
 
