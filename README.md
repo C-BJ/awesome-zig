@@ -165,6 +165,8 @@
   [dt🗒️duct tape for your Unix pipes. Pipe text into a functional/concatenative awk-like tool.](https://github.com/booniepepper/dt)
   - ![Star](https://img.shields.io/github/stars/dmbfm/gi?color=orange)
   [gi🗒️Simple program that generates .gitignore files based on the templates from https://github.com/toptal/gitignore](https://github.com/dmbfm/gi) 
+  - ![Star](https://img.shields.io/github/stars/Osmait/hyprhand?color=orange)
+  [Hyprhand🗒️Desktop automation CLI for Hyprland: lets scripts and AI agents inspect windows, take screenshots and send input](https://github.com/Osmait/hyprhand)
   - [lsr🗒️Fast and efficient ls alternative with io_uring](https://tangled.sh/@rockorager.dev/lsr)
   - [outfieldr🗒️A TLDR client in Zig](https://gitlab.com/ve-nt/outfieldr) 
   - ![Star](https://img.shields.io/github/stars/michaelo/sapt?color=orange)
