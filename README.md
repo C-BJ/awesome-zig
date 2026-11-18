@@ -1019,6 +1019,8 @@
   [zig-totp🗒️A totp library for zig](https://github.com/deatil/zig-totp) 
   - ![Star](https://img.shields.io/github/stars/fubark/zig-v8?color=orange)
   [zig-v8🗒️Simple V8 builds with C and Zig bindings](https://github.com/fubark/zig-v8)
+  - ![Star](https://img.shields.io/github/stars/deatil/zig-vin?color=orange)
+  [zig-vin🗒️A template render library like jinja2 for zig](https://github.com/deatil/zig-vin)
 
 - ### Other Libraries
 
