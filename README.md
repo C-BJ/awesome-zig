@@ -108,6 +108,8 @@
   [tree-sitter-zig🗒️Tree Sitter for Zig](https://github.com/maxxnino/tree-sitter-zig) 
   - ![Star](https://img.shields.io/github/stars/xmake-io/xmake?color=orange)
   [xmake🗒️A cross-platform build utility based on Lua](https://github.com/xmake-io/xmake) 
+  - ![Star](https://img.shields.io/github/stars/okcontract/zean?color=orange)
+  [zean🗒️Translate Zig functions into executable Lean models and prove their behavior](https://github.com/okcontract/zean)
   - ![Star](https://img.shields.io/github/stars/haze/zigbo?color=orange)
   [zigbo🗒️Zig build system graph output step](https://github.com/haze/zigbo) 
   - ![Star](https://img.shields.io/github/stars/kubkon/zig-deploy?color=orange)
